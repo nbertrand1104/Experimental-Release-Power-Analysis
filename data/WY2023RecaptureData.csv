@@ -1,0 +1,63 @@
+Date,Survey,Stratum,CDFW Region,Region,Species,Count,Marked,MarkedSum,Tag,SalvageSum
+2022-12-14,Broodstock,Lower Sacramento,,West,DSM,1,unmarked,,,
+2022-12-14,Broodstock,Lower Sacramento,,West,DSM,1,marked,1,LRA,
+2023-01-07,CVP Salvage,Southern Delta,,South,DSM,1,marked,1,LRA,1
+2023-01-19,Chipps,Lower Sacramento,,West,DSM,1,marked,1,ROP,
+2022-11-03,EDSM,Lower Sacramento,,West,DSM,1,unmarked,,,
+2022-11-07,EDSM,Lower Sacramento,,West,DSM,1,unmarked,,,
+2023-01-17,EDSM,Southern Delta,,South,DSM,1,unmarked,,,
+2023-01-24,EDSM,Suisun Bay,,West,DSMT,1,marked,1,AdClipped,
+2023-01-26,EDSM,Cache Slough Liberty Island,,North,DSMT,1,marked,1,LOA,
+2023-01-27,EDSM,Lower Sacramento,,North,DSMT,1,marked,1,ROP,
+2023-01-30,EDSM,Lower Sacramento,,West,DSMT,1,marked,1,RGP,
+2023-01-30,EDSM,Suisun Bay,,Far West,DSMT,1,marked,1,ROP,
+2023-01-30,EDSM,Suisun Bay,,West,DSMT,1,marked,1,LRA,
+2023-01-31,EDSM,Lower Sacramento,,North,DSMT,1,marked,1,RGP,
+2023-01-31,EDSM,Lower San Joaquin,,West,DSM,1,unmarked,,,
+2023-02-01,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,
+2023-02-01,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,
+2023-02-01,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,
+2023-02-01,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,
+2023-02-02,EDSM,Cache Slough Liberty Island,,North,DSMT,1,marked,1,LOA,
+2023-02-03,EDSM,Lower Sacramento,,West,DSMT,1,marked,1,RGP,
+2023-02-03,EDSM,Lower Sacramento,,West,DSMT,1,marked,1,RGP,
+2023-02-03,EDSM,Lower Sacramento,,West,DSMT,1,marked,1,RGP,
+2023-02-07,EDSM,Cache Slough Liberty Island,,North,DSMT,1,marked,1,LOA,
+2023-02-08,SWP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1
+2023-02-08,SKT,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,
+2023-02-08,SKT,Lower Sacramento,,North,DSMT,1,marked,1,ROP,
+2023-02-09,EDSM,Suisun Marsh,,West,DSM,1,unmarked,,,
+2023-02-12,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1
+2023-02-13,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1
+2023-02-13,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1
+2023-02-14,EDSM,Confluence,,West,DSMT,1,marked,1,RGP,
+2023-02-14,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1
+2023-02-15,EDSM,Lower Sacramento,,North,DSMT,1,marked,1,RGP,
+2023-02-17,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,RGP,
+2023-02-17,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1
+2023-02-18,CVP Salvage,Southern Delta,,South,DSM,1,unmarked,,,1
+2023-02-19,Chipps,Lower Sacramento,,West,DSMT,1,marked,1,RGP,
+2023-02-22,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1
+2023-02-22,SWP Salvage,Southern Delta,,South,DSMT,1,marked,1,AdClipped,1
+2023-02-22,SWP Salvage,Southern Delta,,South,DSMT,1,marked,1,LOA,1
+2023-02-24,EDSM,Lower Sacramento,,North,DSMT,1,marked,1,RGP,
+2023-03-02,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,LOA,1
+2023-03-02,SWP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1
+2023-03-06,EDSM,Suisun Marsh,,West,DSMT,1,marked,1,AdClipped,
+2023-03-07,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,
+2023-03-08,SKT,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,
+2023-03-08,SKT,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,
+2023-03-21,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,RGP,
+2023-03-13,SLS,Suisun Bay,Confluence,West,DSM,1,unmarked,0,,
+2023-03-13,SLS,Lower Sacramento,Sac. River System,West,DSM,1,unmarked,0,,
+2023-03-15,SLS,Suisun Bay,Suisun Bay and West,West,DSM,1,unmarked,0,,
+2023-03-15,SLS,Suisun Marsh,Suisun Bay and West,West,DSM,1,unmarked,0,,
+2023-03-15,20mm,Lower San Joaquin,Confluence,West,DSM,1,unmarked,0,,
+2023-03-15,20mm,Lower San Joaquin,Confluence,West,DSM,1,unmarked,0,,
+2023-03-15,20mm,Western Delta,Suisun Bay and West,Far West,DSM,1,unmarked,0,,
+2023-03-17,20mm,Suisun Bay,Suisun Bay and West,Far West,DSM,1,unmarked,0,,
+2023-04-11,20mm,Cache Slough Liberty Island,Sac. River System,North,DSM,1,unmarked,0,,
+2023-04-05,EDSM,Suisun Bay,,Far West,DSM,1,unmarked,0,,
+2023-04-10,EDSM,Suisun Marsh,,West,DSM,1,unmarked,0,,
+2023-04-12,EDSM,Suisun Bay,,West,DSM,1,unmarked,0,,
+2023-04-12,EDSM,Suisun Bay,,West,DSM,1,unmarked,0,,

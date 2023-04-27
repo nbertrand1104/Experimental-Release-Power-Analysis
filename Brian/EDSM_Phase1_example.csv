@@ -1,0 +1,898 @@
+Date,Day,Stratum,StartLatitude,StartLongitude,StationCode,Region,SubRegion,TimeStart,EC,AvgTemp,AvgTurbidity,AvgSecchi,AvgStartDepth,Method,NumberTows,TowDuration,TowDirection,Species,Catch,FL_Range,Expression,Stage,Mark
+12/5/2022,Monday,Sac Deep Water Shipping Channel,38.40553,-121.6151,23-19-SSC01,North,Lower Sacramento River Shipping Channel,9:13,476.35,10,76.35,0.2,8.85,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/5/2022,Monday,Sac Deep Water Shipping Channel,38.2044,-121.65727,23-19-SSC02,North,Lower Sacramento River Shipping Channel,12:27,168.73,9.92,6.61,1.8,14.38,Kodiak,4,8,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/5/2022,Monday,Sac Deep Water Shipping Channel,38.34413,-121.64374,23-19-SSC03,North,Lower Sacramento River Shipping Channel,10:44,950.75,10.1,44.43,0.31,10.93,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/5/2022,Monday,Southern Delta,38.05464,-121.63904,23-19-SD04,South,Franks Tract,12:22,2276.25,10.72,16.05,0.69,8.03,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/5/2022,Monday,Southern Delta,38.04511,-121.61212,23-19-SD06,South,Franks Tract,12:20,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/5/2022,Monday,Southern Delta,38.01092,-121.5113,23-19-SD03,South,Mildred Island West,9:28,487.92,10.53,3.15,1.8,6.22,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/5/2022,Monday,Southern Delta,38.02043,-121.51915,23-19-SD05,South,Mildred Island West,10:48,489.33,10.6,4.23,1.8,10.2,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/5/2022,Monday,Suisun Bay,38.06751,-121.84358,23-19-SB01,West,Confluence,10:07,10756,10.88,19.52,0.65,7.68,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/5/2022,Monday,Suisun Bay,38.04648,-121.86845,23-19-SB02,West,Confluence,12:06,16262,11,37.82,0.45,3.92,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/5/2022,Monday,Suisun Bay,38.05164,-121.88024,23-19-SB05,West,Confluence,8:46,10780.5,10.8,23.17,0.54,14.43,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/6/2022,Tuesday,Southern Delta,37.93955,-121.55091,23-19-SD01,South,Old River,8:08,582.5,10.3,2.67,1.8,4,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/6/2022,Tuesday,Southern Delta,37.95938,-121.56484,23-19-SD02,South,Old River,9:23,648.5,10.3,3.11,1.8,7.7,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/6/2022,Tuesday,Suisun Bay,38.06358,-122.05463,23-19-SB03,Far West,West Suisun Bay,8:41,20888.25,10.8,18.23,0.61,5.18,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/6/2022,Tuesday,Suisun Bay,38.07034,-122.08983,23-19-SB04,Far West,West Suisun Bay,10:16,26413.75,11.03,24.2,0.44,8.3,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/6/2022,Tuesday,Suisun Bay,38.05275,-122.05491,23-19-SB06,Far West,West Suisun Bay,9:55,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/7/2022,Wednesday,Lower Sacramento,38.05916,-121.79996,23-19-LSR01,West,Lower Sacramento River,10:50,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/7/2022,Wednesday,Lower Sacramento,38.06974,-121.83398,23-19-LSR02,West,Lower Sacramento River,8:18,7673.5,10.6,18.75,0.68,7.25,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/7/2022,Wednesday,Lower Sacramento,38.06287,-121.82359,23-19-LSR05,West,Lower Sacramento River,9:31,5813.75,10.38,17.35,0.62,10.72,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/7/2022,Wednesday,Lower Sacramento,38.06997,-121.77128,23-19-LSR06,West,Lower Sacramento River,11:01,3815.25,10.32,16.62,0.71,8.68,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/7/2022,Wednesday,Lower San Joaquin,38.09234,-121.5774,23-19-LSJ01,South,San Joaquin at Prisoners Point,9:11,472.55,10.42,6.25,1.66,9.6,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/7/2022,Wednesday,Lower San Joaquin,38.07245,-121.5633,23-19-LSJ02,South,San Joaquin at Prisoners Point,7:56,486,10.28,5.02,1.75,10.43,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/7/2022,Wednesday,Lower San Joaquin,38.09658,-121.58155,23-19-LSJ05,South,San Joaquin at Prisoners Point,10:17,430.85,10.4,5.64,1.75,14.07,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/7/2022,Wednesday,Suisun Marsh,38.11017,-122.05618,23-19-SM06,West,Grizzly Bay,12:13,24993.5,10.97,56.1,0.32,4.12,Kodiak,4,10,D,LFS,3,72-85,n/p,n/p,None
+12/7/2022,Wednesday,Suisun Marsh,38.12677,-122.05997,23-19-SM04,West,Suisun Marsh,10:47,21047.25,10.55,45.23,0.38,4.47,Kodiak,4,10,D,LFS,16,63-110,n/p,n/p,None
+12/7/2022,Wednesday,Suisun Marsh,38.13562,-122.08259,23-19-SM05,West,Suisun Marsh,8:55,17462.5,10.03,53.05,0.29,6.35,Kodiak,4,10,D,LFS,46,63-96,n/p,n/p,None
+12/8/2022,Thursday,Lower San Joaquin,38.0233,-121.77161,23-19-LSJ03,West,Lower San Joaquin River,12:09,4915,10.72,16.38,0.69,6.4,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/8/2022,Thursday,Lower San Joaquin,38.03746,-121.70271,23-19-LSJ04,West,Lower San Joaquin River,9:36,2073,10.5,10.9,1.09,12.25,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/8/2022,Thursday,Lower San Joaquin,38.03044,-121.7429,23-19-LSJ07,West,Lower San Joaquin River,10:56,3246,10.58,17.3,0.71,4.38,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/8/2022,Thursday,Suisun Marsh,38.18884,-121.93041,23-19-SM01,West,Suisun Marsh,9:35,10806.5,9.95,19.43,0.65,5.58,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/8/2022,Thursday,Suisun Marsh,38.17518,-122.01486,23-19-SM02,West,Suisun Marsh,11:31,14329,10.28,35.47,0.42,7.55,Kodiak,4,10,D,LFS,5,73-80,n/p,n/p,None
+12/8/2022,Thursday,Suisun Marsh,38.16627,-122.04359,23-19-SM03,West,Suisun Marsh,12:51,18235.5,10.47,35.97,0.43,8.82,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/9/2022,Friday,Lower Sacramento,38.12464,-121.6999,23-19-LSR04,North,Sacramento River Near Rio Vista,12:18,388.32,9.9,10.67,1.28,8.68,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/9/2022,Friday,Lower Sacramento,38.10592,-121.71804,23-19-LSR07,North,Sacramento River Near Rio Vista,10:57,802.5,9.97,12.33,0.95,10.32,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/9/2022,Friday,Lower Sacramento,38.08546,-121.7445,23-19-LSR03,West,Lower Sacramento River,9:47,1635.75,10.1,13.4,0.76,8.82,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Lower Sacramento,38.09988,-121.68541,23-20-LSR03,North,Sacramento River Near Rio Vista,8:28,991.75,9.85,11.18,0.99,7.8,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Lower Sacramento,38.10063,-121.72635,23-20-LSR06,North,Sacramento River Near Rio Vista,9:54,1273.25,9.85,16.9,0.62,9.22,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Lower Sacramento,38.08369,-121.75479,23-20-LSR04,West,Lower Sacramento River,11:11,1373.5,9.95,17.58,0.61,9.88,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Lower San Joaquin,38.08467,-121.67941,23-20-LSJ01,South,San Joaquin at Twitchell Island,10:12,1025.25,10.2,13.4,1.12,14.38,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Lower San Joaquin,38.09563,-121.62591,23-20-LSJ02,South,San Joaquin at Twitchell Island,11:36,614,10.3,9.39,1.34,5.32,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Lower San Joaquin,38.02182,-121.77558,23-20-LSJ04,West,Lower San Joaquin River,8:26,4301.75,10.3,15.8,0.78,5.85,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Suisun Bay,38.04116,-122.13388,23-20-SB03,Far West,West Suisun Bay,10:10,22713.25,10.53,30.42,0.51,14.6,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Suisun Bay,38.06866,-122.09022,23-20-SB04,Far West,West Suisun Bay,11:33,20290,10.65,21.63,0.61,5.35,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Suisun Bay,38.05196,-122.07874,23-20-SB05,Far West,West Suisun Bay,8:46,21435,10.53,27.88,0.53,9.43,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/12/2022,Monday,Suisun Bay,38.05714,-122.0421,23-20-SB06,Far West,West Suisun Bay,8:26,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/13/2022,Tuesday,Lower Sacramento,38.11083,-121.70866,23-20-LSR01,North,Sacramento River Near Rio Vista,11:02,438.28,9.7,13.33,1,6.2,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/13/2022,Tuesday,Lower Sacramento,38.11404,-121.70011,23-20-LSR02,North,Sacramento River Near Rio Vista,9:46,399.72,9.6,9.77,1.22,5.97,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/13/2022,Tuesday,Lower Sacramento,38.1773,-121.66812,23-20-LSR05,North,Sacramento River Near Rio Vista,8:17,169.15,9.58,7.19,1.44,14.2,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/13/2022,Tuesday,Lower San Joaquin,38.08342,-121.57003,23-20-LSJ03,South,San Joaquin at Prisoners Point,11:23,432.7,10.08,7.95,1.25,8.75,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/13/2022,Tuesday,Lower San Joaquin,38.05513,-121.52486,23-20-LSJ05,South,San Joaquin at Prisoners Point,9:49,499.22,10.08,8.84,1.6,12.22,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/13/2022,Tuesday,Lower San Joaquin,38.1002,-121.6143,23-20-LSJ06,South,San Joaquin at Twitchell Island,8:05,490.68,9.87,8.87,1.2,6.97,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/13/2022,Tuesday,Suisun Bay,38.04575,-121.93184,23-20-SB01,West,Confluence,9:47,11135.25,10.25,21.8,0.58,18.18,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/13/2022,Tuesday,Suisun Bay,38.04353,-121.83571,23-20-SB02,West,Confluence,8:19,5968.75,10.13,27.72,0.48,9.05,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/13/2022,Tuesday,Suisun Bay,38.07922,-121.99486,23-20-SB07,West,Mid Suisun Bay,11:19,14886.5,10.27,26.23,0.53,5.2,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/14/2022,Wednesday,Sac Deep Water Shipping Channel,38.19836,-121.65653,23-20-SSC01,North,Lower Sacramento River Shipping Channel,11:45,161.08,9.63,11.25,1.22,14.15,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/14/2022,Wednesday,Sac Deep Water Shipping Channel,38.27021,-121.66252,23-20-SSC02,North,Lower Sacramento River Shipping Channel,10:15,174.27,9.47,11.45,0.95,9.2,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/14/2022,Wednesday,Sac Deep Water Shipping Channel,38.27875,-121.66044,23-20-SSC03,North,Lower Sacramento River Shipping Channel,8:58,174.93,9.42,11.75,0.91,11.5,Kodiak,4,10,D,RBTC,1,187,n/p,5,AdClipped
+12/14/2022,Wednesday,Suisun Marsh,38.20273,-121.91059,23-20-SM01,West,Suisun Marsh,10:47,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/14/2022,Wednesday,Suisun Marsh,38.18316,-121.98903,23-20-SM02,West,Suisun Marsh,11:37,9611.5,9.9,19.77,0.77,8,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/14/2022,Wednesday,Suisun Marsh,38.12538,-121.89754,23-20-SM05,West,Suisun Marsh,9:06,6200.25,9.8,21.35,0.58,4.5,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/14/2022,Wednesday,Suisun Marsh,38.16934,-122.0245,23-20-SM07,West,Suisun Marsh,12:51,9760.25,10.05,24.5,0.58,8.68,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/15/2022,Thursday,Cache Slough Liberty Island,38.24862,-121.68691,23-20-CS01,North,Cache Slough and Liberty Island,9:49,168.47,9.37,15.28,0.92,10.97,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/15/2022,Thursday,Cache Slough Liberty Island,38.24108,-121.68493,23-20-CS02,North,Cache Slough and Liberty Island,11:08,167.48,9.4,14.9,0.94,9.6,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/15/2022,Thursday,Cache Slough Liberty Island,38.25921,-121.74774,23-20-CS03,North,Cache Slough and Liberty Island,8:25,185.55,8.75,2.52,1.8,5.47,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/15/2022,Thursday,Southern Delta,38.03492,-121.52509,23-20-SD01,South,Mildred Island West,10:39,463.6,9.8,8.68,1.8,5.68,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/15/2022,Thursday,Southern Delta,38.00227,-121.52182,23-20-SD02,South,Mildred Island West,9:24,590,9.7,6.3,1.8,9.72,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/15/2022,Thursday,Southern Delta,37.94499,-121.55961,23-20-SD03,South,Old River,8:01,707.75,9.5,3.68,1.8,4.9,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/15/2022,Thursday,Suisun Marsh,38.14647,-122.05798,23-20-SM03,West,Suisun Marsh,10:09,12239.25,9.6,24.82,0.56,8.57,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/15/2022,Thursday,Suisun Marsh,38.12923,-122.05702,23-20-SM04,West,Suisun Marsh,11:26,12790,9.75,39.12,0.48,3.78,Kodiak,4,10,U,LFS,1,63,n/p,n/p,None
+12/15/2022,Thursday,Suisun Marsh,38.12158,-122.07618,23-20-SM06,West,Suisun Marsh,8:24,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/15/2022,Thursday,Suisun Marsh,38.1706,-122.06885,23-20-SM08,West,Suisun Marsh,8:47,12460.5,9.55,27.38,0.5,10.85,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Sac Deep Water Shipping Channel,38.43183,-121.60306,23-21-SSC01,North,Lower Sacramento River Shipping Channel,9:35,525.5,8.9,72,0.25,10.93,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Sac Deep Water Shipping Channel,38.27539,-121.66181,23-21-SSC03,North,Lower Sacramento River Shipping Channel,8:01,225.15,8.85,19.85,0.6,6.36,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Sac Deep Water Shipping Channel,38.55696,-121.57347,23-21-SSC02,North,Upper Sacramento River Shipping Channel,11:12,959.75,10,8.65,1.29,12.12,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Southern Delta,38.05554,-121.64135,23-21-SD01,South,Franks Tract,9:54,772.5,9.2,15.95,1.05,7.55,Kodiak,4,10,D,CHNT,1,159,n/p,5,AdClipped
+12/19/2022,Monday,Southern Delta,38.04059,-121.60275,23-21-SD02,South,Franks Tract,8:30,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Southern Delta,38.05511,-121.61989,23-21-SD05,South,Franks Tract,8:32,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Southern Delta,38.0559,-121.65545,23-21-SD07,South,Franks Tract,8:40,769,9.25,12.95,1.06,8.89,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Southern Delta,38.00567,-121.51564,23-21-SD03,South,Mildred Island West,11:49,432.2,9.15,7.27,1.8,8.15,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Suisun Bay,38.03173,-122.13586,23-21-SB02,Far West,West Suisun Bay,11:32,31241.5,9.85,27.1,0.54,18.4,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Suisun Bay,38.07839,-122.07657,23-21-SB06,Far West,West Suisun Bay,10:03,28332.25,9.98,53.6,0.26,5.22,Kodiak,4,10,D,LFS,18,52-103,n/p,n/p,None
+12/19/2022,Monday,Suisun Bay,38.05581,-122.00453,23-21-SB01,West,Mid Suisun Bay,8:24,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/19/2022,Monday,Suisun Bay,38.0949,-122.06249,23-21-SB03,West,Mid Suisun Bay,8:42,20272.25,9.33,24.8,0.5,6.97,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Lower Sacramento,38.13189,-121.69059,23-21-LSR03,North,Sacramento River Near Rio Vista,7:57,163.45,8.42,14.1,0.86,3.72,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Lower Sacramento,38.09345,-121.73297,23-21-LSR04,North,Sacramento River Near Rio Vista,9:20,656.75,8.83,21.87,0.53,8.15,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Lower Sacramento,38.07308,-121.77,23-21-LSR05,West,Lower Sacramento River,10:41,4135.25,9.2,33.43,0.39,9.95,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Southern Delta,38.02545,-121.56388,23-21-SD09,South,Holland Cut,12:10,635.75,8.65,9.67,1.37,8.68,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Southern Delta,37.93949,-121.53801,23-21-SD08,South,Middle River West,10:02,544.2,8.8,4.71,1.8,7.96,Kodiak,5,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Southern Delta,37.98312,-121.52765,23-21-SD04,South,Mildred Island West,8:25,523.5,8.87,4.26,1.8,7.6,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Southern Delta,37.97298,-121.53445,23-21-SD06,South,Mildred Island West,9:45,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Suisun Bay,38.06099,-121.86504,23-21-SB04,West,Confluence,8:54,6756,9.2,20.1,0.67,16.12,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Suisun Bay,38.06045,-121.85046,23-21-SB07,West,Confluence,11:20,11919.75,9.33,29.5,0.44,7.68,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/20/2022,Tuesday,Suisun Bay,38.07181,-121.9995,23-21-SB05,West,Mid Suisun Bay,8:18,16494.25,9.05,25.12,0.55,3.55,Kodiak,4,10,D,LFS,4,65-93,n/p,n/p,None
+12/22/2022,Thursday,Cache Slough Liberty Island,38.27685,-121.70992,23-21-CS01,North,Cache Slough and Liberty Island,8:30,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Cache Slough Liberty Island,38.28709,-121.71718,23-21-CS02,North,Cache Slough and Liberty Island,8:33,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Cache Slough Liberty Island,38.27652,-121.66534,23-21-CS03,North,Cache Slough and Liberty Island,11:07,192.42,7.9,15,0.77,6.78,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Cache Slough Liberty Island,38.24598,-121.6733,23-21-CS04,North,Cache Slough and Liberty Island,9:42,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Cache Slough Liberty Island,38.247,-121.70669,23-21-CS05,North,Cache Slough and Liberty Island,8:52,192.05,8,8.4,1.23,5.1,Kodiak,2,5.5,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Cache Slough Liberty Island,38.25704,-121.6717,23-21-CS06,North,Cache Slough and Liberty Island,9:52,184.47,8,15.45,0.76,9.2,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Lower San Joaquin,38.04417,-121.49945,23-21-LSJ01,South,San Joaquin at Prisoners Point,11:40,402.8,8.67,10.59,1.27,9.3,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Lower San Joaquin,38.05982,-121.68327,23-21-LSJ04,South,San Joaquin at Twitchell Island,10:04,912.75,8.8,16.23,0.83,6.58,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Lower San Joaquin,38.02409,-121.75883,23-21-LSJ03,West,Lower San Joaquin River,8:41,2012.5,8.8,15.3,0.67,5.58,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Suisun Marsh,38.10504,-122.05773,23-21-SM01,West,Grizzly Bay,8:26,19464.5,9.03,24.25,0.43,3.62,Kodiak,4,10,D,CHN,1,154,n/p,5,None
+12/22/2022,Thursday,Suisun Marsh,38.10504,-122.05773,23-21-SM01,West,Grizzly Bay,8:26,19464.5,9.03,24.25,0.43,3.62,Kodiak,4,10,D,LFS,3,68-86,n/p,n/p,None
+12/22/2022,Thursday,Suisun Marsh,38.12732,-122.08192,23-21-SM02,West,Suisun Marsh,9:38,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/22/2022,Thursday,Suisun Marsh,38.18657,-121.9825,23-21-SM03,West,Suisun Marsh,11:53,11725.5,8.7,68.4,0.25,9.25,Kodiak,2,10,D,LFS,12,65-90,n/p,n/p,None
+12/22/2022,Thursday,Suisun Marsh,38.19158,-122.03774,23-21-SM04,West,Suisun Marsh,10:15,9385.5,8.58,87.65,0.18,7.32,Kodiak,4,10,D,LFS,5,73-97,n/p,n/p,None
+12/23/2022,Friday,Lower Sacramento,38.12328,-121.70131,23-21-LSR06,North,Sacramento River Near Rio Vista,7:47,639.5,8.3,16.05,0.75,9,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/23/2022,Friday,Lower Sacramento,38.06657,-121.77899,23-21-LSR01,West,Lower Sacramento River,10:26,3181.75,8.78,22.55,0.54,9.43,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/23/2022,Friday,Lower Sacramento,38.05952,-121.80661,23-21-LSR02,West,Lower Sacramento River,9:14,4401,8.7,25.03,0.45,11.15,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/23/2022,Friday,Lower San Joaquin,38.08261,-121.57204,23-21-LSJ05,South,San Joaquin at Prisoners Point,7:47,371.78,8.55,9.44,1.06,10.85,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/23/2022,Friday,Lower San Joaquin,38.10242,-121.62279,23-21-LSJ02,South,San Joaquin at Twitchell Island,10:10,474.12,8.83,10.86,1.17,17.4,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/23/2022,Friday,Lower San Joaquin,38.0989,-121.62554,23-21-LSJ06,South,San Joaquin at Twitchell Island,9:06,488.17,8.8,11.3,1.03,9.75,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/23/2022,Friday,Suisun Marsh,38.10939,-122.05444,23-21-SM07,West,Grizzly Bay,8:27,17738,8.75,24.25,0.52,3.35,Kodiak,4,10,U,LFS,2,73-92,n/p,n/p,None
+12/23/2022,Friday,Suisun Marsh,38.15059,-122.05582,23-21-SM05,West,Suisun Marsh,9:49,13244.75,8.7,32.38,0.48,11.4,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/23/2022,Friday,Suisun Marsh,38.17252,-122.05687,23-21-SM06,West,Suisun Marsh,11:17,14581.25,8.78,78.02,0.29,9.47,Kodiak,4,10,D,LFS,13,60-101,n/p,n/p,None
+12/27/2022,Tuesday,Suisun Marsh,38.07637,-121.88321,23-22-SM01,West,Suisun Marsh,8:34,6415,8.9,33.6,0.43,7.72,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/27/2022,Tuesday,Suisun Marsh,38.18818,-122.00171,23-22-SM02,West,Suisun Marsh,8:30,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/27/2022,Tuesday,Suisun Marsh,38.14682,-122.06897,23-22-SM03,West,Suisun Marsh,9:00,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/27/2022,Tuesday,Suisun Marsh,38.15062,-122.05526,23-22-SM06,West,Suisun Marsh,10:32,14804,9.05,86.65,0.31,8.85,Kodiak,2,10,U,LFS,11,66-91,n/p,n/p,None
+12/28/2022,Wednesday,Lower Sacramento,38.11056,-121.7025,23-22-LSR03,North,Sacramento River Near Rio Vista,10:57,1338.5,8.58,24.38,0.59,6.2,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Lower Sacramento,38.06416,-121.78764,23-22-LSR01,West,Lower Sacramento River,9:28,7679.75,8.88,28.65,0.5,10.2,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Lower Sacramento,38.05718,-121.80259,23-22-LSR02,West,Lower Sacramento River,8:15,8352.5,8.78,29.45,0.5,9.9,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Southern Delta,38.03736,-121.59546,23-22-SD01,South,Franks Tract,8:05,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Southern Delta,38.06116,-121.59152,23-22-SD02,South,Franks Tract,8:00,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Southern Delta,38.05228,-121.64742,23-22-SD05,South,Franks Tract,8:26,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Southern Delta,38.03271,-121.60599,23-22-SD07,South,Franks Tract,12:23,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Southern Delta,37.98341,-121.51683,23-22-SD03,South,Mildred Island West,10:37,448.3,8.63,11.97,n/p,10.82,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Southern Delta,37.98945,-121.52833,23-22-SD04,South,Mildred Island West,9:07,510.78,8.55,12.58,n/p,7.48,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Southern Delta,37.97038,-121.53371,23-22-SD08,South,Mildred Island West,13:08,496.8,8.82,6.77,n/p,7.58,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Southern Delta,37.8411,-121.54015,23-22-SD06,South,Victoria Canal,12:22,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Suisun Marsh,38.10626,-122.06245,23-22-SM04,West,Grizzly Bay,10:34,18742.75,9.17,102.17,0.3,2.45,Kodiak,4,10,U,LFS,45,60-115,n/p,n/p,None
+12/28/2022,Wednesday,Suisun Marsh,38.10971,-122.05322,23-22-SM07,West,Grizzly Bay,11:50,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/28/2022,Wednesday,Suisun Marsh,38.10417,-122.03963,23-22-SM08,West,Grizzly Bay,11:58,19514.5,9.35,48.37,0.5,2.83,Kodiak,4,10,U,LFS,1,72,n/p,n/p,None
+12/28/2022,Wednesday,Suisun Marsh,38.19239,-121.92964,23-22-SM05,West,Suisun Marsh,8:40,8443,8.83,28.88,0.5,3.7,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/29/2022,Thursday,Cache Slough Liberty Island,38.33562,-121.6674,23-22-CS01,North,Cache Slough and Liberty Island,8:18,345.4,8.47,9.47,0.83,5.55,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/29/2022,Thursday,Cache Slough Liberty Island,38.24698,-121.70207,23-22-CS02,North,Cache Slough and Liberty Island,11:24,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/29/2022,Thursday,Cache Slough Liberty Island,38.32449,-121.65311,23-22-CS03,North,Cache Slough and Liberty Island,9:50,256.42,8.65,12.45,0.81,4.4,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/29/2022,Thursday,Cache Slough Liberty Island,38.2469,-121.68784,23-22-CS04,North,Cache Slough and Liberty Island,11:37,187,8.6,13.3,0.72,11.5,Kodiak,1,0.5,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/29/2022,Thursday,Lower San Joaquin,38.06796,-121.67912,23-22-LSJ04,South,San Joaquin at Twitchell Island,8:12,1341.5,8.72,28.48,0.53,7.45,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/29/2022,Thursday,Lower San Joaquin,38.02408,-121.7949,23-22-LSJ03,West,Lower San Joaquin River,9:47,6073,9,39.85,0.44,12.85,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/29/2022,Thursday,Lower San Joaquin,38.02738,-121.75697,23-22-LSJ06,West,Lower San Joaquin River,11:17,3726.7,8.97,35.65,0.42,9.75,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/29/2022,Thursday,Suisun Bay,38.0499,-122.09054,23-22-SB05,Far West,West Suisun Bay,9:56,24947.25,9.58,27.5,0.56,17.45,Kodiak,4,10,U,CHNT,1,120,n/p,5,AdClipped
+12/29/2022,Thursday,Suisun Bay,38.03943,-122.12422,23-22-SB06,Far West,West Suisun Bay,8:23,29893,9.72,30.83,0.5,14.75,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/29/2022,Thursday,Suisun Bay,38.06184,-122.00024,23-22-SB02,West,Mid Suisun Bay,11:41,18135.25,9.4,43.48,0.45,9,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/30/2022,Friday,Suisun Bay,38.07202,-121.85148,23-22-SB01,West,Confluence,11:13,9495.75,9.3,47.05,0.47,4.22,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+12/30/2022,Friday,Suisun Bay,38.03067,-121.85416,23-22-SB07,West,Confluence,9:51,10672.25,9.2,54.38,0.44,9.53,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+12/30/2022,Friday,Suisun Bay,38.04939,-121.97433,23-22-SB03,West,Mid Suisun Bay,9:19,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+12/30/2022,Friday,Suisun Bay,38.07885,-121.99498,23-22-SB04,West,Mid Suisun Bay,8:10,17395.25,9.5,54.2,0.38,5.95,Kodiak,4,10,D,LFS,1,70,n/p,n/p,None
+44922,Friday,Suisun Marsh,38.14682,-122.06897,23-22-SM03,West,Suisun Marsh,9:00,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/3/2023,Tuesday,Cache Slough Liberty Island,38.28329,-121.66486,23-23-CS01,North,Cache Slough and Liberty Island,11:05,249,8.82,56.85,0.29,8.95,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/3/2023,Tuesday,Cache Slough Liberty Island,38.27151,-121.69455,23-23-CS02,North,Cache Slough and Liberty Island,9:29,202.45,8.92,62.07,0.25,5.6,Kodiak,4,10,D,CHNT,1,131,n/p,5,AdClipped
+1/3/2023,Tuesday,Cache Slough Liberty Island,38.27461,-121.70831,23-23-CS03,North,Cache Slough and Liberty Island,8:22,232.85,8.85,133.5,0.16,n/p,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/3/2023,Tuesday,Southern Delta,37.99447,-121.5245,23-23-SD05,South,Mildred Island West,12:17,353,9.4,39.22,0.44,5.6,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/3/2023,Tuesday,Southern Delta,37.96224,-121.57018,23-23-SD03,South,Old River,8:48,579,9,16.1,0.71,7.78,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/3/2023,Tuesday,Southern Delta,37.84597,-121.53691,23-23-SD01,South,Victoria Canal,10:38,482.5,8.9,48.7,0.27,7.6,Kodiak,1,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/3/2023,Tuesday,Suisun Marsh,38.18403,-121.98727,23-23-SM01,West,Suisun Marsh,12:07,7679,9.68,82.8,0.34,10.4,Kodiak,4,10,D,LFS,9,75-87,n/p,n/p,None
+1/3/2023,Tuesday,Suisun Marsh,38.09714,-121.89618,23-23-SM03,West,Suisun Marsh,8:40,251.23,9.45,138.5,0.19,7.55,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/3/2023,Tuesday,Suisun Marsh,38.19791,-121.92243,23-23-SM06,West,Suisun Marsh,10:36,3601.75,8.8,57.75,0.34,4.2,Kodiak,4,10,D,LFS,2,60-75,n/p,n/p,None
+1/5/2023,Thursday,Lower San Joaquin,38.05491,-121.52645,23-23-LSJ03,South,San Joaquin at Prisoners Point,12:10,148.2,10,124.75,0.16,12.78,Kodiak,4,7,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/5/2023,Thursday,Lower San Joaquin,38.09799,-121.6256,23-23-LSJ04,South,San Joaquin at Twitchell Island,13:49,123.98,9.67,154.67,0.16,7.32,Kodiak,4,10,D,LFS,1,70,n/p,n/p,None
+1/5/2023,Thursday,Lower San Joaquin,38.02589,-121.72598,23-23-LSJ02,West,Lower San Joaquin River,8:30,234.9,9.7,148.25,0.13,6.9,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/5/2023,Thursday,Sac Deep Water Shipping Channel,38.39054,-121.6221,23-23-SSC01,North,Lower Sacramento River Shipping Channel,8:16,419.7,9.1,95.88,0.16,12,Kodiak,4,10,U,RBTC,1,223,n/p,5,AdClipped
+1/5/2023,Thursday,Sac Deep Water Shipping Channel,38.24967,-121.66958,23-23-SSC02,North,Lower Sacramento River Shipping Channel,11:46,136.12,9.2,140.25,0.13,10.88,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/5/2023,Thursday,Sac Deep Water Shipping Channel,38.31934,-121.65108,23-23-SSC03,North,Lower Sacramento River Shipping Channel,10:06,250,9.1,55.43,0.25,9.9,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/5/2023,Thursday,Suisun Bay,38.04408,-122.10424,23-23-SB03,Far West,West Suisun Bay,9:41,2834.5,9.6,76.35,0.27,12.4,Kodiak,4,10,D,LFS,7,60-98,n/p,n/p,None
+1/5/2023,Thursday,Suisun Bay,38.08619,-122.08966,23-23-SB04,Far West,West Suisun Bay,11:04,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/5/2023,Thursday,Suisun Bay,38.06171,-121.98485,23-23-SB06,West,Mid Suisun Bay,8:09,323.03,9.5,103.58,0.2,15.43,Kodiak,4,10,U,LFS,3,76-100,n/p,n/p,None
+1/5/2023,Thursday,Suisun Bay,38.06171,-121.98485,23-23-SB06,West,Mid Suisun Bay,8:09,323.03,9.5,103.58,0.2,15.43,Kodiak,4,10,U,RBTC,1,231,n/p,6,AdClipped
+1/5/2023,Thursday,Suisun Bay,38.06163,-122.00265,23-23-SB07,West,Mid Suisun Bay,11:35,582.25,9.5,87.25,0.24,14.97,Kodiak,4,10,D,LFS,7,75-101,n/p,n/p,None
+1/6/2023,Friday,Lower Sacramento,38.11631,-121.70641,23-23-LSR03,North,Sacramento River Near Rio Vista,11:21,116.9,9.25,144.25,0.15,7.92,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/6/2023,Friday,Lower Sacramento,38.06834,-121.83834,23-23-LSR01,West,Lower Sacramento River,8:28,114.73,9.15,162.75,0.11,7.45,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/6/2023,Friday,Lower Sacramento,38.06753,-121.77913,23-23-LSR02,West,Lower Sacramento River,9:56,123.53,9.22,146.5,0.11,10.03,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/6/2023,Friday,Lower San Joaquin,38.02173,-121.759,23-23-LSJ01,West,Lower San Joaquin River,10:04,200.55,9.7,128.75,0.17,6.12,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/6/2023,Friday,Lower San Joaquin,38.02669,-121.75056,23-23-LSJ05,West,Lower San Joaquin River,8:45,184.42,9.7,133.5,0.16,10.35,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/6/2023,Friday,Lower San Joaquin,38.04614,-121.69395,23-23-LSJ06,West,Lower San Joaquin River,11:39,165.7,9.7,123.25,0.17,10.4,Kodiak,4,10,D,CHN,2,35-36,n/p,2,None
+1/6/2023,Friday,Suisun Bay,38.04914,-121.92193,23-23-SB01,West,Confluence,11:12,188.67,9.47,174.25,0.17,12.38,Kodiak,4,10,D,CHN,1,38,n/p,4,None
+1/6/2023,Friday,Suisun Bay,38.04914,-121.92193,23-23-SB01,West,Confluence,11:12,188.67,9.47,174.25,0.17,12.38,Kodiak,4,10,D,LFS,2,89-104,n/p,n/p,None
+1/6/2023,Friday,Suisun Bay,38.0539,-121.84768,23-23-SB02,West,Confluence,9:44,233.23,9.7,149.5,0.18,7.45,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/6/2023,Friday,Suisun Bay,38.03007,-121.83073,23-23-SB05,West,Confluence,8:23,231.15,9.7,143,0.16,12.45,Kodiak,4,10,U,LFS,2,84-85,n/p,n/p,None
+1/9/2023,Monday,Southern Delta,38.03523,-121.52425,23-24-SD03,South,Mildred Island West,8:23,182.32,10.33,70.57,0.18,10.03,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/9/2023,Monday,Southern Delta,37.92052,-121.56114,23-24-SD01,South,Old River,10:16,519.25,10.4,30.9,0.44,7.6,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/9/2023,Monday,Southern Delta,37.95437,-121.56935,23-24-SD02,South,Old River,11:45,497.18,10.4,25.1,0.48,6.22,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/9/2023,Monday,Suisun Marsh,38.15982,-122.04881,23-24-SM03,West,Suisun Marsh,10:07,1984.75,10.22,157.25,0.14,7.2,Kodiak,4,10,U,LFS,3,74-85,n/p,n/p,None
+1/9/2023,Monday,Suisun Marsh,38.17005,-122.0286,23-24-SM04,West,Suisun Marsh,11:21,2352,10.38,123.5,0.19,8.83,Kodiak,4,10,D,LFS,7,76-86,n/p,n/p,None
+1/9/2023,Monday,Suisun Marsh,38.13246,-122.06034,23-24-SM06,West,Suisun Marsh,8:54,912.25,10.03,163,0.14,7.75,Kodiak,4,10,U,LFS,3,64-78,n/p,n/p,None
+1/10/2023,Tuesday,Southern Delta,38.00844,-121.62851,23-24-SD04,South,Franks Tract,9:57,477.32,10.47,98.98,0.11,4.97,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/10/2023,Tuesday,Southern Delta,37.99746,-121.57975,23-24-SD05,South,Holland Cut,8:15,362.28,10.4,32.35,0.32,8.62,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/11/2023,Wednesday,Lower San Joaquin,38.06387,-121.54415,23-24-LSJ04,South,San Joaquin at Prisoners Point,8:14,211.88,10.55,49.9,0.29,8.25,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/11/2023,Wednesday,Lower San Joaquin,38.0965,-121.66774,23-24-LSJ01,South,San Joaquin at Twitchell Island,10:09,144.72,10.2,118.5,0.18,10.42,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/11/2023,Wednesday,Lower San Joaquin,38.06358,-121.67914,23-24-LSJ05,South,San Joaquin at Twitchell Island,11:36,144.28,10.17,135.25,0.16,6.88,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/11/2023,Wednesday,Sac Deep Water Shipping Channel,38.43189,-121.60335,23-24-SSC02,North,Lower Sacramento River Shipping Channel,10:08,564,9.7,65.35,0.28,8.8,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/11/2023,Wednesday,Sac Deep Water Shipping Channel,38.37335,-121.62647,23-24-SSC03,North,Lower Sacramento River Shipping Channel,11:08,438.43,9.7,91.17,0.23,9.37,Kodiak,3,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/11/2023,Wednesday,Sac Deep Water Shipping Channel,38.49839,-121.58439,23-24-SSC01,North,Upper Sacramento River Shipping Channel,8:52,757,9.9,27.35,0.48,7.9,Kodiak,2,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/11/2023,Wednesday,Suisun Marsh,38.10861,-122.06126,23-24-SM01,West,Grizzly Bay,9:04,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/11/2023,Wednesday,Suisun Marsh,38.10592,-122.0481,23-24-SM05,West,Grizzly Bay,8:24,494.55,9.9,177,0.15,3.4,Kodiak,2,10,U,CHN,1,36,n/p,2,None
+1/11/2023,Wednesday,Suisun Marsh,38.10592,-122.0481,23-24-SM05,West,Grizzly Bay,8:24,494.55,9.9,177,0.15,3.4,Kodiak,2,10,U,LFS,2,80-92,n/p,n/p,None
+1/11/2023,Wednesday,Suisun Marsh,38.12123,-122.06936,23-24-SM02,West,Suisun Marsh,9:15,1652,10.3,197,0.16,3.05,Kodiak,2,10,U,LFS,1,73,n/p,n/p,None
+1/11/2023,Wednesday,Suisun Marsh,38.15739,-122.05628,23-24-SM07,West,Suisun Marsh,10:06,2039.75,10.67,154,0.15,12.9,Kodiak,4,10,U,LFS,2,60-81,n/p,n/p,None
+1/12/2023,Thursday,Lower Sacramento,38.09741,-121.72841,23-24-LSR03,North,Sacramento River Near Rio Vista,11:08,167.73,10.2,234.5,0.17,9.53,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/12/2023,Thursday,Lower Sacramento,38.07675,-121.76384,23-24-LSR01,West,Lower Sacramento River,9:49,133.2,10.08,200.5,0.17,10.12,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/12/2023,Thursday,Lower Sacramento,38.06417,-121.82988,23-24-LSR02,West,Lower Sacramento River,8:25,131.65,10,181.5,0.18,11.43,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/12/2023,Thursday,Lower San Joaquin,38.02075,-121.73635,23-24-LSJ02,West,Lower San Joaquin River,12:23,291.9,10.5,134.5,0.12,4.95,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/12/2023,Thursday,Lower San Joaquin,38.02205,-121.81248,23-24-LSJ03,West,Lower San Joaquin River,8:51,172.35,10.1,125.25,0.16,8.61,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/12/2023,Thursday,Lower San Joaquin,38.02545,-121.75664,23-24-LSJ06,West,Lower San Joaquin River,10:53,194.57,10.25,131.75,0.16,9.18,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/12/2023,Thursday,Suisun Bay,38.04998,-121.87366,23-24-SB01,West,Confluence,8:06,178.5,10.1,155.5,0.16,10.45,Kodiak,4,10,U,CHN,1,37,n/p,2,None
+1/12/2023,Thursday,Suisun Bay,38.03113,-121.86176,23-24-SB02,West,Confluence,11:32,206.98,10.2,140.25,0.15,13.5,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/12/2023,Thursday,Suisun Bay,38.05525,-121.84388,23-24-SB05,West,Confluence,9:56,149.65,10.1,182,0.15,5.47,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/13/2023,Friday,Cache Slough Liberty Island,38.27949,-121.69451,23-24-CS01,North,Cache Slough and Liberty Island,8:13,292.85,10.78,262,0.13,7.22,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/13/2023,Friday,Cache Slough Liberty Island,38.23508,-121.67933,23-24-CS02,North,Cache Slough and Liberty Island,11:33,150.28,10.17,466.5,0.1,11.45,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/13/2023,Friday,Cache Slough Liberty Island,38.24785,-121.70449,23-24-CS03,North,Cache Slough and Liberty Island,10:21,220.87,10.63,246.67,0.14,5.53,Kodiak,3,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/13/2023,Friday,Suisun Bay,38.08103,-122.0819,23-24-SB03,Far West,West Suisun Bay,9:59,267.85,10.3,189,0.14,9.4,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/13/2023,Friday,Suisun Bay,38.05775,-122.10734,23-24-SB04,Far West,West Suisun Bay,8:36,885,10.2,132.5,0.16,11.85,Kodiak,4,10,U,RBTC,1,230,n/p,n/p,AdClipped
+1/13/2023,Friday,Suisun Bay,38.09961,-122.03305,23-24-SB06,West,Mid Suisun Bay,11:17,325.85,10.3,178.75,0.16,6.88,Kodiak,4,10,U,LFS,1,80,n/p,n/p,None
+1/17/2023,Tuesday,Lower Sacramento,38.0638,-121.79462,23-25-LSR02,West,Lower Sacramento River,8:18,146.17,9.83,260.25,0.14,11.68,Kodiak,4,10,D,RBT,2,31-32,n/p,1,None
+1/17/2023,Tuesday,Lower Sacramento,38.0638,-121.79462,23-25-LSR02,West,Lower Sacramento River,8:18,146.17,9.83,260.25,0.14,11.68,Kodiak,4,10,D,RBT,1,39,n/p,2,None
+1/17/2023,Tuesday,Lower Sacramento,38.0638,-121.79462,23-25-LSR02,West,Lower Sacramento River,8:18,146.17,9.83,260.25,0.14,11.68,Kodiak,4,10,D,RBT,1,40,n/p,3,None
+1/17/2023,Tuesday,Lower Sacramento,38.06004,-121.79678,23-25-LSR03,West,Lower Sacramento River,9:44,133.35,9.9,236.25,0.13,10.55,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/17/2023,Tuesday,Lower Sacramento,38.06026,-121.82221,23-25-LSR06,West,Lower Sacramento River,10:57,147.92,10.08,157,0.15,12,Kodiak,4,10,D,LFS,1,106,n/p,n/p,None
+1/17/2023,Tuesday,Southern Delta,38.01951,-121.60623,23-25-SD02,South,Franks Tract,10:20,336.3,10.2,32.1,0.4,6.3,Kodiak,2,10,D,DSM,1,71,n/p,n/p,None
+1/17/2023,Tuesday,Southern Delta,38.05151,-121.58236,23-25-SD05,South,Holland Cut,8:55,209.58,10.73,48.77,0.3,6.95,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/17/2023,Tuesday,Western Delta,38.05241,-122.263,23-25-WD01,Far West,East San Pablo Bay,12:30,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/17/2023,Tuesday,Western Delta,38.052,-122.30576,23-25-WD02,Far West,East San Pablo Bay,9:21,1819.75,10.18,182,0.09,11.3,Kodiak,4,10,D,LFS,20,60-90,n/p,n/p,None
+1/17/2023,Tuesday,Western Delta,38.06353,-122.28889,23-25-WD03,Far West,East San Pablo Bay,10:52,2713,10.5,178.25,0.1,7.93,Kodiak,4,10,U,LFS,19,70-95,n/p,n/p,None
+1/17/2023,Tuesday,Western Delta,38.09827,-122.2622,23-25-WD04,Far West,Lower Napa River,13:18,1809,10.97,251.25,0.08,3.95,Kodiak,4,10,U,LFS,42,64-107,n/p,n/p,None
+1/18/2023,Wednesday,Sac Deep Water Shipping Channel,38.4416,-121.59882,23-25-SSC02,North,Lower Sacramento River Shipping Channel,10:13,700,10,35.43,0.41,10.03,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/18/2023,Wednesday,Sac Deep Water Shipping Channel,38.33034,-121.64872,23-25-SSC03,North,Lower Sacramento River Shipping Channel,8:38,395.15,9.82,58.18,0.25,10,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/18/2023,Wednesday,Sac Deep Water Shipping Channel,38.56151,-121.55236,23-25-SSC01,North,Upper Sacramento River Shipping Channel,11:46,736.25,10.37,21.6,0.59,12.75,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/18/2023,Wednesday,Southern Delta,38.01504,-121.61026,23-25-SD03,South,Franks Tract,9:07,389.03,10.17,21.32,0.54,5.15,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/18/2023,Wednesday,Southern Delta,38.02215,-121.51997,23-25-SD04,South,Mildred Island West,12:36,205.65,10.72,67.9,0.27,9.78,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/18/2023,Wednesday,Southern Delta,37.91128,-121.58575,23-25-SD01,South,Rock Slough and Discovery Bay,10:53,614.5,10.5,50.97,0.26,4.03,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/18/2023,Wednesday,Suisun Bay,38.09104,-122.07367,23-25-SB01,Far West,West Suisun Bay,8:49,257.17,9.92,205.75,0.08,11.4,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/18/2023,Wednesday,Suisun Bay,38.04847,-122.0962,23-25-SB03,Far West,West Suisun Bay,10:26,321.53,10.33,191,0.09,15.88,Kodiak,4,10,D,LFS,30,70-113,n/p,n/p,None
+1/18/2023,Wednesday,Suisun Bay,38.07228,-122.10563,23-25-SB05,Far West,West Suisun Bay,10:06,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/18/2023,Wednesday,Suisun Bay,38.05951,-122.08036,23-25-SB06,Far West,West Suisun Bay,11:55,190.5,10.1,164.75,0.1,6.48,Kodiak,4,10,U,LFS,1,84,n/p,n/p,None
+1/19/2023,Thursday,Cache Slough Liberty Island,38.25903,-121.74147,23-25-CS01,North,Cache Slough and Liberty Island,8:31,119.1,9.23,88.33,0.19,6.05,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/19/2023,Thursday,Cache Slough Liberty Island,38.26118,-121.68651,23-25-CS02,North,Cache Slough and Liberty Island,10:19,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/19/2023,Thursday,Cache Slough Liberty Island,38.28386,-121.71734,23-25-CS03,North,Cache Slough and Liberty Island,10:08,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/19/2023,Thursday,Cache Slough Liberty Island,38.2613,-121.6697,23-25-CS04,North,Cache Slough and Liberty Island,10:36,125.65,9.47,322.5,0.11,7.05,Kodiak,4,10,U,CHN,1,39,n/p,2,None
+1/19/2023,Thursday,Cache Slough Liberty Island,38.26836,-121.66901,23-25-CS05,North,Cache Slough and Liberty Island,11:50,125.68,9.4,330.25,0.1,7.27,Kodiak,4,10,U,CHN,1,37,n/p,2,None
+1/19/2023,Thursday,Cache Slough Liberty Island,38.26836,-121.66901,23-25-CS05,North,Cache Slough and Liberty Island,11:50,125.68,9.4,330.25,0.1,7.27,Kodiak,4,10,U,CHN,1,40,n/p,3,None
+1/19/2023,Thursday,Lower San Joaquin,38.09426,-121.65092,23-25-LSJ05,South,San Joaquin at Twitchell Island,11:29,142.45,10.17,79.8,0.23,9.05,Kodiak,4,10,D,LFS,1,88,n/p,n/p,None
+1/19/2023,Thursday,Lower San Joaquin,38.01971,-121.79486,23-25-LSJ03,West,Lower San Joaquin River,9:52,173.05,10.37,74.73,0.23,11.72,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/19/2023,Thursday,Lower San Joaquin,38.03819,-121.71735,23-25-LSJ04,West,Lower San Joaquin River,8:17,133.12,10,84.17,0.21,5.53,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/19/2023,Thursday,Suisun Bay,38.08952,-122.01242,23-25-SB02,West,Mid Suisun Bay,8:29,184.2,9.8,155,0.12,9.4,Kodiak,1,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/20/2023,Friday,Lower Sacramento,38.1207,-121.69659,23-25-LSR04,North,Sacramento River Near Rio Vista,10:44,n/p,n/p,199.75,0.17,7.8,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/20/2023,Friday,Lower Sacramento,38.08384,-121.74558,23-25-LSR01,West,Lower Sacramento River,9:16,128.8,9.07,212,0.16,11.4,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/20/2023,Friday,Lower Sacramento,38.0833,-121.75054,23-25-LSR05,West,Lower Sacramento River,8:01,144.22,9.17,251.25,0.15,9.18,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/20/2023,Friday,Lower San Joaquin,38.05638,-121.53537,23-25-LSJ01,South,San Joaquin at Prisoners Point,8:02,198.5,9.83,61.83,0.23,14.85,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/20/2023,Friday,Lower San Joaquin,38.10099,-121.59203,23-25-LSJ02,South,San Joaquin at Prisoners Point,10:36,146.2,9.55,87.4,0.2,10.07,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/20/2023,Friday,Lower San Joaquin,38.0821,-121.57268,23-25-LSJ06,South,San Joaquin at Prisoners Point,9:18,197.85,9.9,66.73,0.23,15.25,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/20/2023,Friday,Suisun Marsh,38.11305,-122.05766,23-25-SM03,West,Grizzly Bay,9:16,224.08,9.27,225.5,0.07,3.33,Kodiak,4,10,D,LFS,1,89,n/p,n/p,None
+1/20/2023,Friday,Suisun Marsh,38.17122,-121.95824,23-25-SM01,West,Suisun Marsh,12:45,1341.5,10.15,163.75,0.11,9.35,Kodiak,4,10,D,CHN,1,39,n/p,2,None
+1/20/2023,Friday,Suisun Marsh,38.18085,-122.04846,23-25-SM02,West,Suisun Marsh,10:47,1465,10.08,195.75,0.09,5.78,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/23/2023,Monday,Sac Deep Water Shipping Channel,38.3736,-121.63001,23-26-SSC01,North,Lower Sacramento River Shipping Channel,12:46,534.75,9.15,112.5,0.13,10.43,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/23/2023,Monday,Sac Deep Water Shipping Channel,38.51072,-121.58489,23-26-SSC02,North,Upper Sacramento River Shipping Channel,10:43,718.75,9.4,41.85,0.26,10.5,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/23/2023,Monday,Sac Deep Water Shipping Channel,38.56318,-121.54965,23-26-SSC03,North,Upper Sacramento River Shipping Channel,8:55,570.25,9.58,27.38,0.39,10.6,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/23/2023,Monday,Southern Delta,38.04552,-121.60919,23-26-SD01,South,Franks Tract,8:13,226.9,8.8,54.75,0.24,2.95,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/23/2023,Monday,Southern Delta,38.03695,-121.60194,23-26-SD02,South,Franks Tract,8:51,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/23/2023,Monday,Southern Delta,38.03681,-121.5256,23-26-SD03,South,Mildred Island West,9:16,229.35,9.28,39.07,0.33,9.28,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/23/2023,Monday,Southern Delta,38.00263,-121.52375,23-26-SD06,South,Mildred Island West,10:34,274.9,9.3,34.1,0.38,9.1,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/23/2023,Monday,Suisun Bay,38.04127,-122.11823,23-26-SB03,Far West,West Suisun Bay,9:39,211.72,9.1,178.25,0.15,11.7,Kodiak,4,10,U,LFS,3,79-81,n/p,n/p,None
+1/23/2023,Monday,Suisun Bay,38.08279,-122.04313,23-26-SB01,West,Mid Suisun Bay,10:57,189.17,8.85,181,0.12,5.85,Kodiak,4,10,U,LFS,1,80,n/p,n/p,None
+1/23/2023,Monday,Suisun Bay,38.06395,-122.01098,23-26-SB02,West,Mid Suisun Bay,8:14,183.47,8.68,168,0.15,7.65,Kodiak,4,10,U,LFS,3,77-92,n/p,n/p,None
+1/24/2023,Tuesday,Lower Sacramento,38.06765,-121.83794,23-26-LSR01,West,Lower Sacramento River,7:59,144.53,8.27,156,0.09,7.78,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/24/2023,Tuesday,Southern Delta,38.05178,-121.64694,23-26-SD05,South,Franks Tract,10:49,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/24/2023,Tuesday,Southern Delta,38.05121,-121.59819,23-26-SD07,South,Franks Tract,10:59,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/24/2023,Tuesday,Southern Delta,37.97811,-121.52694,23-26-SD04,South,Mildred Island West,9:20,282.65,9.25,30.3,0.42,4.62,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/24/2023,Tuesday,Southern Delta,38.02558,-121.50546,23-26-SD08,South,Mildred Island West,11:34,219.68,9.25,41.62,0.35,5.68,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/24/2023,Tuesday,Suisun Bay,38.05292,-122.11731,23-26-SB06,Far West,West Suisun Bay,9:15,451.62,8.8,250.5,0.13,10.7,Kodiak,4,10,U,LFS,4,74-90,n/p,n/p,None
+1/24/2023,Tuesday,Suisun Bay,38.09372,-122.06003,23-26-SB05,West,Mid Suisun Bay,10:33,268.22,8.63,237.75,0.11,5.8,Kodiak,4,10,U,DSMT,1,47,n/p,n/p,AdClipped
+1/24/2023,Tuesday,Suisun Bay,38.09372,-122.06003,23-26-SB05,West,Mid Suisun Bay,10:33,268.22,8.63,237.75,0.11,5.8,Kodiak,4,10,U,LFS,6,76-95,n/p,n/p,None
+1/25/2023,Wednesday,Lower Sacramento,38.05741,-121.81546,23-26-LSR02,West,Lower Sacramento River,9:24,159.92,8.42,118.3,0.12,9.75,Kodiak,4,10,U,LFS,1,78,n/p,n/p,None
+1/25/2023,Wednesday,Lower Sacramento,38.0765,-121.76882,23-26-LSR05,West,Lower Sacramento River,8:02,148.72,8.03,132.25,0.11,9.07,Kodiak,4,10,U,LFS,4,73-100,n/p,n/p,None
+1/25/2023,Wednesday,Lower Sacramento,38.06377,-121.8208,23-26-LSR06,West,Lower Sacramento River,10:39,147.5,8.23,148.67,0.12,9.43,Kodiak,3,10,U,LFS,3,75-102,n/p,n/p,None
+1/25/2023,Wednesday,Lower San Joaquin,38.04728,-121.49852,23-26-LSJ01,South,San Joaquin at Prisoners Point,9:46,223.05,9.07,33.2,0.43,8.65,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/25/2023,Wednesday,Lower San Joaquin,38.09141,-121.57671,23-26-LSJ04,South,San Joaquin at Prisoners Point,7:57,187.58,8.83,52.3,0.29,8.93,Kodiak,4,10,D,CHN,1,34,n/p,2,None
+1/25/2023,Wednesday,Lower San Joaquin,38.09141,-121.57671,23-26-LSJ04,South,San Joaquin at Prisoners Point,7:57,187.58,8.83,52.3,0.29,8.93,Kodiak,4,10,D,RBT,1,242,n/p,5,None
+1/25/2023,Wednesday,Lower San Joaquin,38.06126,-121.6782,23-26-LSJ06,South,San Joaquin at Twitchell Island,11:35,150.42,8.95,63.15,0.24,12.57,Kodiak,4,10,U,RBT,1,149,n/p,5,None
+1/25/2023,Wednesday,Lower San Joaquin,38.06126,-121.6782,23-26-LSJ06,South,San Joaquin at Twitchell Island,11:35,150.42,8.95,63.15,0.24,12.57,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/25/2023,Wednesday,Suisun Marsh,38.10426,-122.05424,23-26-SM03,West,Grizzly Bay,12:09,305.88,8.7,188.75,0.14,3.85,Kodiak,4,10,D,LFS,5,74-86,n/p,n/p,None
+1/25/2023,Wednesday,Suisun Marsh,38.1912,-121.99248,23-26-SM01,West,Suisun Marsh,9:19,1797.75,8.1,164.5,0.12,3.75,Kodiak,4,10,U,CHN,1,40,n/p,n/p,None
+1/25/2023,Wednesday,Suisun Marsh,38.17732,-122.00926,23-26-SM02,West,Suisun Marsh,10:43,1783.5,8.47,159,0.14,4.97,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/26/2023,Thursday,Cache Slough Liberty Island,38.24503,-121.68277,23-26-CS01,North,Cache Slough and Liberty Island,8:02,169.1,8.2,117.25,0.14,6.97,Kodiak,4,10,D,DSMT,1,80,n/p,n/p,VIE-LOA
+1/26/2023,Thursday,Cache Slough Liberty Island,38.24503,-121.68277,23-26-CS01,North,Cache Slough and Liberty Island,8:02,169.1,8.2,117.25,0.14,6.97,Kodiak,4,10,D,RBTC,1,210,n/p,5,AdClipped
+1/26/2023,Thursday,Cache Slough Liberty Island,38.24503,-121.68277,23-26-CS01,North,Cache Slough and Liberty Island,8:02,169.1,8.2,117.25,0.14,6.97,Kodiak,4,10,D,RBT,1,220,n/p,5,None
+1/26/2023,Thursday,Cache Slough Liberty Island,38.24415,-121.68915,23-26-CS02,North,Cache Slough and Liberty Island,9:24,157.78,8.33,131.75,0.11,8,Kodiak,4,10,U,RBTC,1,260,n/p,5,AdClipped
+1/26/2023,Thursday,Cache Slough Liberty Island,38.25846,-121.7396,23-26-CS03,North,Cache Slough and Liberty Island,10:40,182.92,8.18,62.98,0.17,4.3,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+1/26/2023,Thursday,Lower San Joaquin,38.02153,-121.77861,23-26-LSJ02,West,Lower San Joaquin River,9:04,214.42,9.03,62.7,0.25,5.53,Kodiak,4,10,U,RBT,2,173-225,n/p,5,None
+1/26/2023,Thursday,Lower San Joaquin,38.03658,-121.70661,23-26-LSJ03,West,Lower San Joaquin River,11:43,205.5,9.1,67.43,0.25,9.6,Kodiak,4,10,U,LFS,1,100,n/p,n/p,None
+1/26/2023,Thursday,Lower San Joaquin,38.03658,-121.70661,23-26-LSJ03,West,Lower San Joaquin River,11:43,205.5,9.1,67.43,0.25,9.6,Kodiak,4,10,U,RBTC,1,227,n/p,5,AdClipped
+1/26/2023,Thursday,Lower San Joaquin,38.02586,-121.77533,23-26-LSJ05,West,Lower San Joaquin River,10:18,218.78,9.1,71.3,0.23,12.28,Kodiak,4,10,U,RBTC,2,215-218,n/p,5,AdClipped
+1/26/2023,Thursday,Western Delta,38.065,-122.23649,23-26-WD03,Far West,Carquinez Strait,11:12,6282,9.4,168.5,0.25,11.7,Kodiak,4,10,U,LFS,2,73-84,n/p,n/p,None
+1/26/2023,Thursday,Western Delta,38.065,-122.23649,23-26-WD03,Far West,Carquinez Strait,11:12,6282,9.4,168.5,0.25,11.7,Kodiak,4,10,U,RBTC,1,208,n/p,5,AdClipped
+1/26/2023,Thursday,Western Delta,38.05891,-122.19989,23-26-WD04,Far West,Carquinez Strait,12:40,1414,9,247.25,0.18,27.82,Kodiak,4,10,U,LFS,8,75-97,n/p,n/p,None
+1/26/2023,Thursday,Western Delta,38.03616,-122.2918,23-26-WD01,Far West,East San Pablo Bay,9:09,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/26/2023,Thursday,Western Delta,38.04775,-122.3089,23-26-WD02,Far West,East San Pablo Bay,9:19,9614.67,9.57,65.57,0.28,9.57,Kodiak,3,10,U,LFS,1,63,n/p,n/p,None
+1/27/2023,Friday,Lower Sacramento,38.09163,-121.73821,23-26-LSR03,North,Sacramento River Near Rio Vista,7:59,162.68,8.3,91.93,0.15,10.35,Kodiak,4,10,D,LFS,11,70-102,n/p,n/p,None
+1/27/2023,Friday,Lower Sacramento,38.09163,-121.73821,23-26-LSR03,North,Sacramento River Near Rio Vista,7:59,162.68,8.3,91.93,0.15,10.35,Kodiak,4,10,D,RBTC,2,225-260,n/p,5,AdClipped
+1/27/2023,Friday,Lower Sacramento,38.09163,-121.73821,23-26-LSR03,North,Sacramento River Near Rio Vista,7:59,162.68,8.3,91.93,0.15,10.35,Kodiak,4,10,D,RBT,1,265,n/p,5,None
+1/27/2023,Friday,Lower Sacramento,38.1047,-121.69698,23-26-LSR04,North,Sacramento River Near Rio Vista,9:17,156.75,8.45,82,0.19,11.1,Kodiak,2,10,D,DSMT,1,56,n/p,n/p,VIE-ROP
+1/27/2023,Friday,Lower Sacramento,38.1047,-121.69698,23-26-LSR04,North,Sacramento River Near Rio Vista,9:17,156.75,8.45,82,0.19,11.1,Kodiak,2,10,D,LFS,1,83,n/p,n/p,None
+1/30/2023,Monday,Lower Sacramento,38.0842,-121.75161,23-27-LSR02,West,Lower Sacramento River,8:29,216.57,8.4,61.4,0.22,10.85,Kodiak,4,10,D,CHNT,1,109,n/p,4,AdClipped
+1/30/2023,Monday,Lower Sacramento,38.0842,-121.75161,23-27-LSR02,West,Lower Sacramento River,8:29,216.57,8.4,61.4,0.22,10.85,Kodiak,4,10,D,DSMT,1,75,n/p,n/p,VIE-RGP
+1/30/2023,Monday,Lower Sacramento,38.0842,-121.75161,23-27-LSR02,West,Lower Sacramento River,8:29,216.57,8.4,61.4,0.22,10.85,Kodiak,4,10,D,RBTC,2,215-240,n/p,5,AdClipped
+1/30/2023,Monday,Lower San Joaquin,38.0529,-121.50986,23-27-LSJ03,South,San Joaquin at Prisoners Point,8:03,270,9.3,22.97,0.44,12.5,Kodiak,4,10,D,CHN,1,43,n/p,3,None
+1/30/2023,Monday,Lower San Joaquin,38.09825,-121.5817,23-27-LSJ04,South,San Joaquin at Prisoners Point,9:34,224.4,9,31.3,0.38,8.28,Kodiak,4,10,D,CHN,1,35,n/p,3,None
+1/30/2023,Monday,Lower San Joaquin,38.09157,-121.67579,23-27-LSJ01,South,San Joaquin at Twitchell Island,11:18,229.08,8.63,40.85,0.27,13.72,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/30/2023,Monday,Suisun Bay,38.05103,-122.0816,23-27-SB02,Far West,West Suisun Bay,9:39,5062,9.1,64.23,0.28,8.2,Kodiak,4,10,D,DSMT,1,65,n/p,n/p,VIE-ROP
+1/30/2023,Monday,Suisun Bay,38.05103,-122.0816,23-27-SB02,Far West,West Suisun Bay,9:39,5062,9.1,64.23,0.28,8.2,Kodiak,4,10,D,LFS,2,76-107,n/p,n/p,None
+1/30/2023,Monday,Suisun Bay,38.04846,-121.84283,23-27-SB04,West,Confluence,13:53,228.88,8.73,74.98,0.24,6.32,Kodiak,4,10,U,LFS,1,79,n/p,n/p,None
+1/30/2023,Monday,Suisun Bay,38.04846,-121.84283,23-27-SB04,West,Confluence,13:53,228.88,8.73,74.98,0.24,6.32,Kodiak,4,10,U,RBTC,1,207,n/p,5,AdClipped
+1/30/2023,Monday,Suisun Bay,38.09763,-122.05392,23-27-SB03,West,Mid Suisun Bay,11:30,1518.75,8.95,98.15,0.27,4.54,Kodiak,4,10,U,DSMT,1,76,n/p,n/p,VIE-LRA
+1/30/2023,Monday,Suisun Bay,38.09763,-122.05392,23-27-SB03,West,Mid Suisun Bay,11:30,1518.75,8.95,98.15,0.27,4.54,Kodiak,4,10,U,LFS,8,75-103,n/p,n/p,None
+1/30/2023,Monday,Suisun Bay,38.09763,-122.05392,23-27-SB03,West,Mid Suisun Bay,11:30,1518.75,8.95,98.15,0.27,4.54,Kodiak,4,10,U,RBTC,1,251,n/p,5,AdClipped
+1/31/2023,Tuesday,Lower Sacramento,38.10237,-121.71768,23-27-LSR01,North,Sacramento River Near Rio Vista,8:56,226.83,8.15,55.57,0.27,6.3,Kodiak,4,10,D,DSMT,1,76,n/p,n/p,VIE-RGP
+1/31/2023,Tuesday,Lower Sacramento,38.10237,-121.71768,23-27-LSR01,North,Sacramento River Near Rio Vista,8:56,226.83,8.15,55.57,0.27,6.3,Kodiak,4,10,D,LFS,1,78,n/p,n/p,None
+1/31/2023,Tuesday,Lower Sacramento,38.10237,-121.71768,23-27-LSR01,North,Sacramento River Near Rio Vista,8:56,226.83,8.15,55.57,0.27,6.3,Kodiak,4,10,D,RBTC,2,232-240,n/p,5,AdClipped
+1/31/2023,Tuesday,Lower Sacramento,38.1094,-121.70789,23-27-LSR04,North,Sacramento River Near Rio Vista,7:47,231.98,8.17,53.78,0.28,5.53,Kodiak,4,10,D,LFS,1,79,n/p,n/p,None
+1/31/2023,Tuesday,Lower Sacramento,38.1094,-121.70789,23-27-LSR04,North,Sacramento River Near Rio Vista,7:47,231.98,8.17,53.78,0.28,5.53,Kodiak,4,10,D,RBTC,1,218,n/p,5,AdClipped
+1/31/2023,Tuesday,Lower Sacramento,38.1094,-121.70789,23-27-LSR04,North,Sacramento River Near Rio Vista,7:47,231.98,8.17,53.78,0.28,5.53,Kodiak,4,10,D,RBT,2,210-215,n/p,5,None
+1/31/2023,Tuesday,Lower Sacramento,38.06214,-121.78485,23-27-LSR03,West,Lower Sacramento River,10:12,229.85,8.22,65.47,0.26,9.78,Kodiak,4,10,D,CHN,1,140,n/p,4,None
+1/31/2023,Tuesday,Lower Sacramento,38.06214,-121.78485,23-27-LSR03,West,Lower Sacramento River,10:12,229.85,8.22,65.47,0.26,9.78,Kodiak,4,10,D,LFS,3,87-96,n/p,n/p,None
+1/31/2023,Tuesday,Lower San Joaquin,38.05162,-121.6949,23-27-LSJ05,South,San Joaquin at Twitchell Island,12:51,237.2,8.62,39.02,0.27,13.45,Kodiak,4,10,D,CHNT,1,78,n/p,5,AdClipped
+1/31/2023,Tuesday,Lower San Joaquin,38.02718,-121.72468,23-27-LSJ02,West,Lower San Joaquin River,11:06,247.48,8.72,38.93,0.3,5.03,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+1/31/2023,Tuesday,Lower San Joaquin,38.02051,-121.80557,23-27-LSJ06,West,Lower San Joaquin River,8:33,241.25,8.5,43.15,0.26,14.82,Kodiak,4,10,D,DSM,1,73,n/p,n/p,None
+1/31/2023,Tuesday,Suisun Bay,38.03855,-122.14247,23-27-SB01,Far West,West Suisun Bay,9:30,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+1/31/2023,Tuesday,Suisun Bay,38.07458,-122.07039,23-27-SB06,Far West,West Suisun Bay,9:47,3933.75,8.73,67.15,0.23,3.98,Kodiak,4,10,D,CHN,1,37,n/p,2,None
+1/31/2023,Tuesday,Suisun Bay,38.07458,-122.07039,23-27-SB06,Far West,West Suisun Bay,9:47,3933.75,8.73,67.15,0.23,3.98,Kodiak,4,10,D,LFS,7,70-81,n/p,n/p,None
+1/31/2023,Tuesday,Suisun Bay,38.07458,-122.07039,23-27-SB06,Far West,West Suisun Bay,9:47,3933.75,8.73,67.15,0.23,3.98,Kodiak,4,10,D,RBTC,1,233,n/p,5,AdClipped
+1/31/2023,Tuesday,Suisun Bay,38.04247,-121.89008,23-27-SB07,West,Confluence,12:51,241.72,8.6,68.27,0.24,6.62,Kodiak,4,10,U,RBTC,1,241,n/p,n/p,AdClipped
+1/31/2023,Tuesday,Suisun Bay,38.06141,-121.98437,23-27-SB05,West,Mid Suisun Bay,11:22,295.33,8.3,77.3,0.21,13.78,Kodiak,4,10,U,LFS,4,76-95,n/p,n/p,None
+2/1/2023,Wednesday,Sac Deep Water Shipping Channel,38.3832,-121.6252,23-27-SSC01,North,Lower Sacramento River Shipping Channel,8:13,708.25,8.2,112.52,0.19,10.28,Kodiak,4,10,U,CHN,1,47,n/p,3,None
+2/1/2023,Wednesday,Sac Deep Water Shipping Channel,38.3832,-121.6252,23-27-SSC01,North,Lower Sacramento River Shipping Channel,8:13,708.25,8.2,112.52,0.19,10.28,Kodiak,4,10,U,CHNT,1,n/p,n/p,n/p,AdClipped
+2/1/2023,Wednesday,Sac Deep Water Shipping Channel,38.3832,-121.6252,23-27-SSC01,North,Lower Sacramento River Shipping Channel,8:13,708.25,8.2,112.52,0.19,10.28,Kodiak,4,10,U,DSMT,1,72,n/p,n/p,VIE-LOA
+2/1/2023,Wednesday,Sac Deep Water Shipping Channel,38.261,-121.66586,23-27-SSC02,North,Lower Sacramento River Shipping Channel,12:06,280.15,8.17,105.58,0.18,10.82,Kodiak,4,10,D,LFS,1,85,n/p,n/p,None
+2/1/2023,Wednesday,Sac Deep Water Shipping Channel,38.261,-121.66586,23-27-SSC02,North,Lower Sacramento River Shipping Channel,12:06,280.15,8.17,105.58,0.18,10.82,Kodiak,4,10,D,RBTC,1,200,n/p,5,AdClipped
+2/1/2023,Wednesday,Sac Deep Water Shipping Channel,38.31136,-121.65266,23-27-SSC03,North,Lower Sacramento River Shipping Channel,10:16,427.2,8.15,197.25,0.13,11.5,Kodiak,4,9,D,DSMT,3,67-70,n/p,n/p,VIE-LOA
+2/1/2023,Wednesday,Sac Deep Water Shipping Channel,38.31136,-121.65266,23-27-SSC03,North,Lower Sacramento River Shipping Channel,10:16,427.2,8.15,197.25,0.13,11.5,Kodiak,4,9,D,RBTC,5,223-263,n/p,6,AdClipped
+2/1/2023,Wednesday,Southern Delta,38.03813,-121.59064,23-27-SD04,South,Franks Tract,8:04,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/1/2023,Wednesday,Southern Delta,38.02703,-121.50024,23-27-SD01,South,Mildred Island West,10:24,284.1,9.16,21.24,0.55,6.04,Kodiak,5,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/1/2023,Wednesday,Southern Delta,38.00313,-121.51133,23-27-SD05,South,Mildred Island West,8:51,271.05,9,16.77,0.59,11.15,Kodiak,4,10,D,CHN,4,40-47,n/p,3,None
+2/1/2023,Wednesday,Western Delta,38.05896,-122.23648,23-27-WD01,Far West,Carquinez Strait,11:47,21297.25,10.03,20.43,0.63,15.65,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/1/2023,Wednesday,Western Delta,38.03653,-122.29561,23-27-WD02,Far West,East San Pablo Bay,10:13,23385,9.65,15.87,0.74,3.6,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/1/2023,Wednesday,Western Delta,38.04846,-122.3028,23-27-WD03,Far West,East San Pablo Bay,8:57,20625.25,9.53,16.63,0.71,10.82,Kodiak,4,10,D,RBTC,1,252,n/p,5,AdClipped
+2/2/2023,Thursday,Cache Slough Liberty Island,38.25002,-121.71817,23-27-CS01,North,Cache Slough and Liberty Island,8:26,328.38,7.2,65.35,0.23,5.2,Kodiak,4,10,U,RBTC,1,238,n/p,5,AdClipped
+2/2/2023,Thursday,Cache Slough Liberty Island,38.26069,-121.76035,23-27-CS02,North,Cache Slough and Liberty Island,8:07,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/2/2023,Thursday,Cache Slough Liberty Island,38.24341,-121.68595,23-27-CS03,North,Cache Slough and Liberty Island,10:06,309.25,7.65,84.52,0.2,5.68,Kodiak,4,10,D,CHNT,1,37,n/p,2,AdClipped
+2/2/2023,Thursday,Cache Slough Liberty Island,38.24341,-121.68595,23-27-CS03,North,Cache Slough and Liberty Island,10:06,309.25,7.65,84.52,0.2,5.68,Kodiak,4,10,D,DSMT,1,60,n/p,n/p,VIE-LOA
+2/2/2023,Thursday,Cache Slough Liberty Island,38.24341,-121.68595,23-27-CS03,North,Cache Slough and Liberty Island,10:06,309.25,7.65,84.52,0.2,5.68,Kodiak,4,10,D,RBTC,2,225-260,n/p,5,AdClipped
+2/2/2023,Thursday,Cache Slough Liberty Island,38.24341,-121.68595,23-27-CS03,North,Cache Slough and Liberty Island,10:06,309.25,7.65,84.52,0.2,5.68,Kodiak,4,10,D,RBT,1,190,n/p,5,None
+2/2/2023,Thursday,Cache Slough Liberty Island,38.27021,-121.70219,23-27-CS04,North,Cache Slough and Liberty Island,11:55,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/2/2023,Thursday,Cache Slough Liberty Island,38.26001,-121.67049,23-27-CS05,North,Cache Slough and Liberty Island,12:12,303.65,7.73,88.3,0.2,9.82,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/2/2023,Thursday,Southern Delta,38.06163,-121.58601,23-27-SD06,South,Franks Tract,7:59,248.85,8.6,21.95,0.56,5.5,Kodiak,2,10,D,RBT,1,230,n/p,5,None
+2/2/2023,Thursday,Southern Delta,37.95171,-121.56525,23-27-SD02,South,Old River,9:21,302.12,8.3,23.5,0.61,7.04,Kodiak,5,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/2/2023,Thursday,Southern Delta,37.90368,-121.57259,23-27-SD03,South,Old River,11:02,367.18,8.58,18.75,0.69,9.8,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/2/2023,Thursday,Suisun Marsh,38.10033,-122.06846,23-27-SM02,West,Grizzly Bay,8:38,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/2/2023,Thursday,Suisun Marsh,38.17209,-122.05672,23-27-SM01,West,Suisun Marsh,12:02,1316,8.4,109.5,0.22,9.15,Kodiak,4,10,U,LFS,4,73-80,n/p,n/p,None
+2/2/2023,Thursday,Suisun Marsh,38.124,-122.08109,23-27-SM03,West,Suisun Marsh,8:57,1464,8.13,89.85,0.2,4.75,Kodiak,4,10,D,LFS,5,75-91,n/p,n/p,None
+2/2/2023,Thursday,Suisun Marsh,38.15217,-122.05474,23-27-SM04,West,Suisun Marsh,10:31,1130.25,8.1,88.47,0.23,10.45,Kodiak,4,10,D,LFS,7,72-107,n/p,n/p,None
+2/3/2023,Friday,Lower Sacramento,38.0883,-121.74599,23-27-LSR05,West,Lower Sacramento River,9:23,250.25,8.08,61.38,0.3,9.38,Kodiak,4,10,U,DSMT,3,61-73,n/p,n/p,VIE-RGP
+2/3/2023,Friday,Lower Sacramento,38.0883,-121.74599,23-27-LSR05,West,Lower Sacramento River,9:23,250.25,8.08,61.38,0.3,9.38,Kodiak,4,10,U,LFS,3,75-100,n/p,n/p,None
+2/3/2023,Friday,Lower Sacramento,38.0883,-121.74599,23-27-LSR05,West,Lower Sacramento River,9:23,250.25,8.08,61.38,0.3,9.38,Kodiak,4,10,U,RBTC,2,245-261,n/p,5,AdClipped
+2/3/2023,Friday,Lower Sacramento,38.05832,-121.79888,23-27-LSR06,West,Lower Sacramento River,8:06,259.32,8.33,52.43,0.3,10.43,Kodiak,4,10,U,LFS,1,76,n/p,n/p,None
+2/3/2023,Friday,Lower Sacramento,38.05832,-121.79888,23-27-LSR06,West,Lower Sacramento River,8:06,259.32,8.33,52.43,0.3,10.43,Kodiak,4,10,U,RBTC,4,216-289,n/p,5,AdClipped
+2/6/2023,Monday,Lower San Joaquin,38.08611,-121.6355,23-28-LSJ01,South,San Joaquin at Twitchell Island,12:41,230.3,9.13,23.72,0.51,11.62,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/6/2023,Monday,Lower San Joaquin,38.02798,-121.7643,23-28-LSJ03,West,Lower San Joaquin River,10:58,265.62,9.05,32.32,0.41,11.72,Kodiak,4,10,U,RBTC,3,229-240,n/p,5,AdClipped
+2/6/2023,Monday,Lower San Joaquin,38.01984,-121.80448,23-28-LSJ06,West,Lower San Joaquin River,9:41,285.68,9,35.68,0.38,16.5,Kodiak,4,10,U,RBTC,3,224-259,n/p,5,AdClipped
+2/6/2023,Monday,Sac Deep Water Shipping Channel,38.38616,-121.62421,23-28-SSC01,North,Lower Sacramento River Shipping Channel,11:02,728.25,8.8,97.68,0.16,8.95,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/6/2023,Monday,Sac Deep Water Shipping Channel,38.23231,-121.67469,23-28-SSC03,North,Lower Sacramento River Shipping Channel,12:51,300.42,8.38,57,0.25,12.1,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/6/2023,Monday,Sac Deep Water Shipping Channel,38.55008,-121.58043,23-28-SSC02,North,Upper Sacramento River Shipping Channel,9:15,837.5,9.2,19.7,0.7,10.72,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/6/2023,Monday,Suisun Bay,38.0829,-122.08884,23-28-SB02,Far West,West Suisun Bay,10:22,3680.5,9.13,n/p,0.14,8.68,Kodiak,4,10,D,LFS,8,67-95,n/p,n/p,None
+2/6/2023,Monday,Suisun Bay,38.05839,-122.06229,23-28-SB03,Far West,West Suisun Bay,11:42,4421.5,9.65,n/p,0.24,8.2,Kodiak,4,10,D,LFS,2,72-83,n/p,n/p,None
+2/6/2023,Monday,Suisun Bay,38.07628,-122.02406,23-28-SB05,West,Mid Suisun Bay,9:01,2020.5,8.8,n/p,0.18,5.08,Kodiak,4,10,U,LFS,1,85,n/p,n/p,None
+2/7/2023,Tuesday,Cache Slough Liberty Island,38.29056,-121.71701,23-28-CS01,North,Cache Slough and Liberty Island,9:25,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/7/2023,Tuesday,Cache Slough Liberty Island,38.26804,-121.70104,23-28-CS02,North,Cache Slough and Liberty Island,9:34,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/7/2023,Tuesday,Cache Slough Liberty Island,38.37087,-121.63508,23-28-CS03,North,Cache Slough and Liberty Island,12:05,584.25,9.78,117.75,0.19,3.95,Kodiak,4,10,U,CHN,1,50,n/p,3,None
+2/7/2023,Tuesday,Cache Slough Liberty Island,38.37087,-121.63508,23-28-CS03,North,Cache Slough and Liberty Island,12:05,584.25,9.78,117.75,0.19,3.95,Kodiak,4,10,U,CHNT,1,120,n/p,5,AdClipped
+2/7/2023,Tuesday,Cache Slough Liberty Island,38.25976,-121.68632,23-28-CS04,North,Cache Slough and Liberty Island,9:37,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/7/2023,Tuesday,Cache Slough Liberty Island,38.25284,-121.68765,23-28-CS05,North,Cache Slough and Liberty Island,9:47,346.55,8.47,60.5,0.23,6.47,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/7/2023,Tuesday,Cache Slough Liberty Island,38.29108,-121.69297,23-28-CS06,North,Cache Slough and Liberty Island,13:49,402.5,8.9,65.9,0.22,5.38,Kodiak,4,10,D,DSMT,1,69,n/p,n/p,VIE-LOA
+2/7/2023,Tuesday,Lower San Joaquin,38.07798,-121.56737,23-28-LSJ02,South,San Joaquin at Prisoners Point,9:35,250.45,9.1,18.33,0.67,11.65,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/7/2023,Tuesday,Lower San Joaquin,38.0496,-121.50577,23-28-LSJ04,South,San Joaquin at Prisoners Point,8:10,307.67,9.25,15.4,0.73,9.4,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/7/2023,Tuesday,Lower San Joaquin,38.09726,-121.58638,23-28-LSJ05,South,San Joaquin at Prisoners Point,10:58,241.78,9.13,21.4,0.58,7.82,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/7/2023,Tuesday,Suisun Bay,38.06814,-121.84351,23-28-SB01,West,Confluence,9:43,253.4,8.5,44.65,0.34,6.72,Kodiak,4,10,U,LFS,1,86,n/p,n/p,None
+2/7/2023,Tuesday,Suisun Bay,38.03209,-121.83521,23-28-SB04,West,Confluence,8:22,292.12,8.9,44.55,0.35,8.18,Kodiak,4,10,U,RBTC,2,210-224,n/p,5,AdClipped
+2/7/2023,Tuesday,Suisun Bay,38.06434,-122.02412,23-28-SB06,West,Mid Suisun Bay,11:16,930,9.08,62.3,0.29,9.35,Kodiak,4,10,U,LFS,3,77-85,n/p,n/p,None
+2/8/2023,Wednesday,Lower Sacramento,38.09427,-121.72963,23-28-LSR03,North,Sacramento River Near Rio Vista,10:34,232.3,8.92,39.2,0.41,7.5,Kodiak,4,10,U,CHN,1,35,n/p,2,None
+2/8/2023,Wednesday,Lower Sacramento,38.15627,-121.68344,23-28-LSR04,North,Sacramento River Near Rio Vista,7:52,240.55,8.83,30.95,0.41,6.68,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/8/2023,Wednesday,Lower Sacramento,38.0737,-121.76985,23-28-LSR01,West,Lower Sacramento River,9:26,243.38,8.5,40,0.37,9.25,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/8/2023,Wednesday,Southern Delta,38.02547,-121.52523,23-28-SD01,South,Mildred Island West,11:46,304.53,9.6,15.3,0.82,10.78,Kodiak,4,10,U,CHNT,1,n/p,n/p,n/p,AdClipped
+2/8/2023,Wednesday,Southern Delta,37.97181,-121.51509,23-28-SD02,South,Mildred Island West,9:58,436.32,9.88,18.67,0.58,6.4,Kodiak,4,10,D,CHN,1,45,n/p,3,None
+2/8/2023,Wednesday,Southern Delta,37.99117,-121.52239,23-28-SD05,South,Mildred Island West,8:20,306.4,9.53,12.17,0.84,4.12,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/8/2023,Wednesday,Western Delta,38.0359,-122.15925,23-28-WD01,Far West,Carquinez Strait,12:12,5885.5,9.78,61.92,0.2,6.21,Kodiak,4,10,D,LFS,1,85,n/p,n/p,None
+2/8/2023,Wednesday,Western Delta,38.04774,-122.32084,23-28-WD03,Far West,East San Pablo Bay,8:54,17660.75,10.1,23.13,0.44,9.2,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/8/2023,Wednesday,Western Delta,38.13525,-122.28163,23-28-WD02,Far West,Lower Napa River,10:39,12016.5,10.53,44.25,0.34,5.38,Kodiak,4,10,D,LFS,1,75,n/p,n/p,None
+2/8/2023,Wednesday,Western Delta,38.13525,-122.28163,23-28-WD02,Far West,Lower Napa River,10:39,12016.5,10.53,44.25,0.34,5.38,Kodiak,4,10,D,RBTC,1,210,n/p,5,AdClipped
+2/9/2023,Thursday,Southern Delta,38.04534,-121.59397,23-28-SD03,South,Franks Tract,7:49,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/9/2023,Thursday,Southern Delta,38.02653,-121.59364,23-28-SD04,South,Franks Tract,8:12,305.72,9.83,17.7,0.63,5.38,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/9/2023,Thursday,Southern Delta,38.03597,-121.60808,23-28-SD06,South,Franks Tract,7:55,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/9/2023,Thursday,Southern Delta,37.99335,-121.57712,23-28-SD07,South,Holland Cut,10:02,286.17,9.92,15.3,0.77,6,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/9/2023,Thursday,Suisun Marsh,38.17929,-122.00417,23-28-SM01,West,Suisun Marsh,10:10,2629.67,9.7,86.7,0.21,7.23,Kodiak,3,10,U,DSM,1,n/p,n/p,n/p,None
+2/9/2023,Thursday,Suisun Marsh,38.15392,-122.05158,23-28-SM02,West,Suisun Marsh,8:49,1984.75,9.37,92.08,0.17,6.4,Kodiak,4,10,U,LFS,4,70-82,n/p,n/p,None
+2/9/2023,Thursday,Suisun Marsh,38.15609,-121.92373,23-28-SM03,West,Suisun Marsh,12:57,2302,10.15,70.15,0.23,4.4,Kodiak,2,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/10/2023,Friday,Lower Sacramento,38.06116,-121.80163,23-28-LSR02,West,Lower Sacramento River,9:32,249.4,9.1,36.85,0.27,11.8,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/10/2023,Friday,Lower Sacramento,38.07064,-121.77745,23-28-LSR05,West,Lower Sacramento River,10:51,236.47,9.35,38.45,0.34,9.62,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/10/2023,Friday,Lower Sacramento,38.06153,-121.81013,23-28-LSR06,West,Lower Sacramento River,8:08,265.22,9.05,34.8,0.35,11.12,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/13/2023,Monday,Cache Slough Liberty Island,38.29997,-121.6931,23-29-CS01,North,Cache Slough and Liberty Island,8:14,404.4,10.05,28.88,0.37,5.3,Kodiak,4,10,D,RBTC,2,238-240,n/p,5,AdClipped
+2/13/2023,Monday,Cache Slough Liberty Island,38.28124,-121.71218,23-29-CS02,North,Cache Slough and Liberty Island,7:55,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/13/2023,Monday,Cache Slough Liberty Island,38.39271,-121.62518,23-29-CS03,North,Cache Slough and Liberty Island,10:16,688.75,11.28,32.9,0.3,3.5,Kodiak,4,10,D,CHN,1,48,n/p,2,None
+2/13/2023,Monday,Cache Slough Liberty Island,38.39271,-121.62518,23-29-CS03,North,Cache Slough and Liberty Island,10:16,688.75,11.28,32.9,0.3,3.5,Kodiak,4,10,D,CHN,14,44-54,n/p,3,None
+2/13/2023,Monday,Cache Slough Liberty Island,38.23439,-121.6767,23-29-CS04,North,Cache Slough and Liberty Island,12:23,239.05,10.25,23.55,0.48,11.55,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/13/2023,Monday,Southern Delta,38.04899,-121.64806,23-29-SD01,South,Franks Tract,8:57,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/13/2023,Monday,Southern Delta,38.03002,-121.6005,23-29-SD02,South,Franks Tract,9:20,265.78,10.22,15.28,0.68,2.65,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/13/2023,Monday,Southern Delta,37.94327,-121.5593,23-29-SD03,South,Old River,11:22,304.88,10.58,11.6,1.08,5.58,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/13/2023,Monday,Southern Delta,37.97692,-121.60415,23-29-SD05,South,Rock Slough and Discovery Bay,10:55,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/13/2023,Monday,Suisun Bay,38.08076,-122.08902,23-29-SB01,Far West,West Suisun Bay,10:52,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/13/2023,Monday,Suisun Bay,38.04471,-122.10795,23-29-SB04,Far West,West Suisun Bay,8:31,17733.75,10.48,20.2,0.52,15.6,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/13/2023,Monday,Suisun Bay,38.06882,-122.09005,23-29-SB05,Far West,West Suisun Bay,9:43,13512.75,10.37,31.95,0.39,6.25,Kodiak,4,10,U,RBTC,1,215,n/p,5,AdClipped
+2/13/2023,Monday,Suisun Bay,38.07454,-121.99721,23-29-SB02,West,Mid Suisun Bay,11:14,3928.75,10.08,51.4,0.29,5.78,Kodiak,4,10,U,LFS,2,80-88,n/p,n/p,None
+2/14/2023,Tuesday,Lower Sacramento,38.0971,-121.72626,23-29-LSR01,North,Sacramento River Near Rio Vista,9:23,230.25,9.97,21.25,0.66,7.5,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/14/2023,Tuesday,Lower Sacramento,38.09266,-121.70885,23-29-LSR05,North,Sacramento River Near Rio Vista,11:21,236.02,9.97,19.38,0.79,4.18,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/14/2023,Tuesday,Lower Sacramento,38.07064,-121.76806,23-29-LSR04,West,Lower Sacramento River,7:55,242.4,9.85,22.47,0.64,9.95,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/14/2023,Tuesday,Southern Delta,38.04359,-121.59541,23-29-SD07,South,Franks Tract,8:17,265.93,9.77,20.17,0.53,2.93,Kodiak,3,4.5,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/14/2023,Tuesday,Southern Delta,37.95194,-121.53202,23-29-SD04,South,Middle River West,11:18,334.12,10.42,10.45,1.29,4.05,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/14/2023,Tuesday,Southern Delta,37.97064,-121.53211,23-29-SD06,South,Mildred Island West,9:51,388.8,10.37,11.3,1.06,4.65,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/14/2023,Tuesday,Suisun Bay,38.05457,-121.85977,23-29-SB06,West,Confluence,10:23,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/14/2023,Tuesday,Suisun Bay,38.04236,-121.8334,23-29-SB07,West,Confluence,10:39,391,9.9,38.6,0.36,5.55,Kodiak,4,10,U,DSMT,1,79,n/p,n/p,VIE-RGP
+2/14/2023,Tuesday,Suisun Bay,38.04916,-121.97816,23-29-SB03,West,Mid Suisun Bay,8:07,5509.5,9.82,43.3,0.38,5.1,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/14/2023,Tuesday,Suisun Bay,38.0623,-122.04951,23-29-SB08,West,Mid Suisun Bay,9:20,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/14/2023,Tuesday,Suisun Bay,38.07385,-122.00603,23-29-SB09,West,Mid Suisun Bay,9:29,4833.5,9.8,53.2,0.3,10.28,Kodiak,2,10,U,LFS,2,78-85,n/p,n/p,None
+2/15/2023,Wednesday,Lower Sacramento,38.13537,-121.6887,23-29-LSR02,North,Sacramento River Near Rio Vista,8:47,205.47,8.97,17.55,0.68,4.55,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/15/2023,Wednesday,Lower Sacramento,38.16543,-121.67979,23-29-LSR03,North,Sacramento River Near Rio Vista,10:18,214.97,9.6,22.38,0.61,11.78,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/15/2023,Wednesday,Lower Sacramento,38.12141,-121.70314,23-29-LSR06,North,Sacramento River Near Rio Vista,7:48,214.4,9.57,24.07,0.52,7.23,Kodiak,3,10,D,DSMT,1,76,n/p,n/p,VIE-RGP
+2/15/2023,Wednesday,Lower San Joaquin,38.01843,-121.77145,23-29-LSJ02,West,Lower San Joaquin River,8:38,306.83,9.78,31.9,0.37,10.55,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/15/2023,Wednesday,Lower San Joaquin,38.0289,-121.7508,23-29-LSJ03,West,Lower San Joaquin River,11:05,286.9,9.52,33.88,0.36,10.95,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/15/2023,Wednesday,Lower San Joaquin,38.02586,-121.75993,23-29-LSJ06,West,Lower San Joaquin River,9:52,301.43,9.73,35.45,0.38,9.53,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/15/2023,Wednesday,Western Delta,38.0682,-122.25078,23-29-WD02,Far West,Carquinez Strait,10:50,23091.25,10.65,55.77,0.33,9,Kodiak,4,10,U,CHN,2,42-43,n/p,2,None
+2/15/2023,Wednesday,Western Delta,38.0682,-122.25078,23-29-WD02,Far West,Carquinez Strait,10:50,23091.25,10.65,55.77,0.33,9,Kodiak,4,10,U,LFS,1,84,n/p,n/p,None
+2/15/2023,Wednesday,Western Delta,38.03415,-122.31208,23-29-WD03,Far West,East San Pablo Bay,9:30,24659.5,9.95,13.73,0.76,3.7,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/15/2023,Wednesday,Western Delta,38.15018,-122.29301,23-29-WD01,Far West,Lower Napa River,12:47,15221,10,91,0.24,4.82,Kodiak,4,10,U,LFS,5,64-80,n/p,n/p,None
+2/16/2023,Thursday,Lower San Joaquin,38.08911,-121.63584,23-29-LSJ01,South,San Joaquin at Twitchell Island,9:43,256.83,9.67,22.43,0.52,18.73,Kodiak,4,10,D,CHN,1,57,n/p,3,None
+2/16/2023,Thursday,Lower San Joaquin,38.09239,-121.65606,23-29-LSJ04,South,San Joaquin at Twitchell Island,8:21,256.62,9.63,24.7,0.56,15.5,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/16/2023,Thursday,Lower San Joaquin,38.09619,-121.62574,23-29-LSJ05,South,San Joaquin at Twitchell Island,11:00,254,9.55,25.53,0.52,8,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/16/2023,Thursday,Sac Deep Water Shipping Channel,38.40371,-121.61586,23-29-SSC01,North,Lower Sacramento River Shipping Channel,8:30,726.67,9.2,77.83,0.17,8.57,Kodiak,3,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/16/2023,Thursday,Suisun Marsh,38.11397,-122.05759,23-29-SM01,West,Grizzly Bay,9:44,5472,9.73,57.65,0.28,3.38,Kodiak,4,10,D,LFS,5,76-90,n/p,n/p,None
+2/16/2023,Thursday,Suisun Marsh,38.10465,-122.03764,23-29-SM02,West,Grizzly Bay,8:30,6141.25,9.45,37.9,0.32,3.52,Kodiak,4,10,D,LFS,6,70-97,n/p,n/p,None
+2/16/2023,Thursday,Suisun Marsh,38.16986,-121.93152,23-29-SM03,West,Suisun Marsh,11:41,2867.5,10.05,77.02,0.23,7.53,Kodiak,4,10,U,LFS,1,79,n/p,n/p,None
+2/17/2023,Friday,Sac Deep Water Shipping Channel,38.22676,-121.67474,23-29-SSC02,North,Lower Sacramento River Shipping Channel,7:55,265.45,9.3,25.75,0.46,12.37,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/17/2023,Friday,Sac Deep Water Shipping Channel,38.32809,-121.64865,23-29-SSC03,North,Lower Sacramento River Shipping Channel,9:45,500.43,9.22,75.75,0.22,10.8,Kodiak,4,10,D,DSMT,1,79,n/p,n/p,VIE-RGP
+2/17/2023,Friday,Sac Deep Water Shipping Channel,38.32809,-121.64865,23-29-SSC03,North,Lower Sacramento River Shipping Channel,9:45,500.43,9.22,75.75,0.22,10.8,Kodiak,4,10,D,RBTC,3,235-265,n/p,5,AdClipped
+2/21/2023,Tuesday,Cache Slough Liberty Island,38.29983,-121.72974,23-30-CS01,North,Cache Slough and Liberty Island,8:04,737.75,10.35,13.75,0.84,3.35,Kodiak,4,10,D,CHN,2,50-54,n/p,3,None
+2/21/2023,Tuesday,Cache Slough Liberty Island,38.25683,-121.73374,23-30-CS02,North,Cache Slough and Liberty Island,9:58,364.12,9.83,19.77,0.78,5.25,Kodiak,4,10,U,RBTC,1,261,n/p,5,AdClipped
+2/21/2023,Tuesday,Cache Slough Liberty Island,38.24632,-121.70437,23-30-CS03,North,Cache Slough and Liberty Island,11:17,338.3,10.25,23.25,0.65,6.1,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/21/2023,Tuesday,Southern Delta,38.05855,-121.61037,23-30-SD02,South,Franks Tract,7:38,267.2,10.05,18.05,0.7,6.75,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/21/2023,Tuesday,Southern Delta,38.06438,-121.64822,23-30-SD03,South,Franks Tract,8:37,267.78,10.15,18.48,0.69,5.97,Kodiak,4,10,U,CHN,1,57,n/p,3,None
+2/21/2023,Tuesday,Southern Delta,38.04915,-121.60295,23-30-SD05,South,Franks Tract,7:28,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/21/2023,Tuesday,Suisun Marsh,38.10588,-122.05031,23-30-SM01,West,Grizzly Bay,8:46,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/21/2023,Tuesday,Suisun Marsh,38.117635,-122.05748,23-30-SM02,West,Grizzly Bay,8:59,4703.67,10.3,111.67,0.23,2.02,Kodiak,3,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/21/2023,Tuesday,Suisun Marsh,38.16779,-1421.93576,23-30-SM03,West,Suisun Marsh,12:30,3319,10.9,117.5,0.24,7.5,Kodiak,2,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/21/2023,Tuesday,Suisun Marsh,38.15578,-122.04936,23-30-SM04,West,Suisun Marsh,10:51,4242.5,10.58,123.25,0.19,6.4,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/22/2023,Wednesday,Sac Deep Water Shipping Channel,38.34894,-121.64109,23-30-SSC03,North,Lower Sacramento River Shipping Channel,8:13,497,9.6,69.52,0.2,11.03,Kodiak,4,10,U,CHN,1,52,n/p,3,None
+2/22/2023,Wednesday,Sac Deep Water Shipping Channel,38.55526,-121.57608,23-30-SSC01,North,Upper Sacramento River Shipping Channel,11:14,967,10.38,9.7,1.18,10.72,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/22/2023,Wednesday,Sac Deep Water Shipping Channel,38.50321,-121.58449,23-30-SSC02,North,Upper Sacramento River Shipping Channel,9:58,873,9.97,29.85,0.37,11.28,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/22/2023,Wednesday,Southern Delta,37.79042,-121.51066,23-30-SD01,South,Grant Line Canal and Old River West,8:00,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/22/2023,Wednesday,Southern Delta,37.97168,-121.52751,23-30-SD04,South,Mildred Island West,8:07,370.72,9.95,19.67,0.55,5.53,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/22/2023,Wednesday,Southern Delta,37.97125,-121.47878,23-30-SD06,South,Mildred Island West,9:46,531.5,10.3,17.95,0.56,6.7,Kodiak,2,3,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/22/2023,Wednesday,Southern Delta,37.92032,-121.55938,23-30-SD07,South,Old River,10:39,351.2,9.87,17.67,0.68,4.58,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/22/2023,Wednesday,Suisun Bay,38.02537,-121.82029,23-30-SB02,West,Confluence,8:21,448.45,9.75,76.3,0.24,5.05,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/22/2023,Wednesday,Suisun Bay,38.04984,-121.8468,23-30-SB05,West,Confluence,9:43,547,9.85,69.8,0.24,6.3,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/23/2023,Thursday,Lower Sacramento,38.08997,-121.73865,23-30-LSR01,North,Sacramento River Near Rio Vista,7:52,234.2,9.28,22.45,0.42,8.73,Kodiak,4,10,U,RBTC,1,225,n/p,5,AdClipped
+2/23/2023,Thursday,Lower Sacramento,38.06316,-121.79815,23-30-LSR04,West,Lower Sacramento River,10:25,238.3,9.2,47.62,0.27,8.22,Kodiak,4,9,U,LFS,1,92,n/p,n/p,None
+2/23/2023,Thursday,Lower Sacramento,38.08731,-121.74435,23-30-LSR05,West,Lower Sacramento River,9:08,228.1,9.28,28.47,0.4,9.12,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/23/2023,Thursday,Lower San Joaquin,38.06016,-121.54818,23-30-LSJ03,South,San Joaquin at Prisoners Point,10:37,267.98,9.67,30.55,0.46,4.9,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/23/2023,Thursday,Lower San Joaquin,38.07424,-121.67929,23-30-LSJ01,South,San Joaquin at Twitchell Island,7:38,287.35,9.47,32.33,0.45,10.7,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/23/2023,Thursday,Lower San Joaquin,38.0965,-121.63201,23-30-LSJ04,South,San Joaquin at Twitchell Island,9:08,251.3,9.6,25.78,0.49,9.95,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/23/2023,Thursday,Western Delta,38.0596,-122.22527,23-30-WD04,Far West,Carquinez Strait,12:18,14609.75,10.15,70.75,0.32,22.5,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/23/2023,Thursday,Western Delta,38.06533,-122.27243,23-30-WD01,Far West,East San Pablo Bay,10:51,19264,10,113.2,0.32,8.8,Kodiak,2,10,U,RBTC,1,273,n/p,5,AdClipped
+2/23/2023,Thursday,Western Delta,38.03055,-122.28867,23-30-WD02,Far West,East San Pablo Bay,10:34,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/23/2023,Thursday,Western Delta,38.04206,-122.27255,23-30-WD03,Far West,East San Pablo Bay,9:13,27643,10.45,128.27,0.15,2.85,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/24/2023,Friday,Lower Sacramento,38.1309,-121.69681,23-30-LSR02,North,Sacramento River Near Rio Vista,9:10,217.45,9.05,24.45,0.6,10.2,Kodiak,2,10,U,DSMT,1,70,n/p,n/p,VIE-RGP
+2/24/2023,Friday,Lower Sacramento,38.16296,-121.68245,23-30-LSR03,North,Sacramento River Near Rio Vista,10:02,212.53,9.08,23.1,0.64,10.55,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/24/2023,Friday,Lower Sacramento,38.111,-121.69173,23-30-LSR06,North,Sacramento River Near Rio Vista,7:25,236.95,8.9,29.7,0.56,7.27,Kodiak,4,10,D,RBTC,1,245,n/p,5,AdClipped
+2/24/2023,Friday,Lower San Joaquin,38.01856,-121.7977,23-30-LSJ02,West,Lower San Joaquin River,9:34,626,9.3,54.93,0.26,14.5,Kodiak,4,10,U,LFS,1,88,n/p,n/p,None
+2/24/2023,Friday,Lower San Joaquin,38.01856,-121.7977,23-30-LSJ02,West,Lower San Joaquin River,9:34,626,9.3,54.93,0.26,14.5,Kodiak,4,10,U,RBTC,2,243-245,n/p,5,AdClipped
+2/24/2023,Friday,Lower San Joaquin,38.03037,-121.72303,23-30-LSJ05,West,Lower San Joaquin River,8:07,382.67,9.1,47.25,0.28,7.92,Kodiak,4,10,D,LFS,1,75,n/p,n/p,None
+2/24/2023,Friday,Lower San Joaquin,38.03037,-121.72303,23-30-LSJ05,West,Lower San Joaquin River,8:07,382.67,9.1,47.25,0.28,7.92,Kodiak,4,10,D,RBTC,2,239-240,n/p,5,AdClipped
+2/24/2023,Friday,Lower San Joaquin,38.02633,-121.762,23-30-LSJ06,West,Lower San Joaquin River,10:48,418.15,9.3,56.38,0.25,9.65,Kodiak,4,10,U,LFS,2,77-90,n/p,n/p,None
+2/24/2023,Friday,Suisun Bay,38.07508,-122.07748,23-30-SB04,Far West,West Suisun Bay,8:45,11646.5,9.47,123.02,0.34,2.33,Kodiak,4,10,U,LFS,6,68-89,n/p,n/p,None
+2/24/2023,Friday,Suisun Bay,38.05032,-121.92769,23-30-SB01,West,Confluence,11:41,827,9.22,186.25,0.23,8.35,Kodiak,4,10,U,LFS,3,71-89,n/p,n/p,None
+2/24/2023,Friday,Suisun Bay,38.05059,-121.97999,23-30-SB03,West,Mid Suisun Bay,10:18,4956.25,9.45,188.25,0.24,3,Kodiak,4,10,U,LFS,4,58-88,n/p,n/p,None
+2/27/2023,Monday,Lower Sacramento,38.16227,-121.68136,23-31-LSR01,North,Sacramento River Near Rio Vista,8:59,226.68,8.6,17.08,0.65,11.45,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/27/2023,Monday,Lower Sacramento,38.13466,-121.69643,23-31-LSR02,North,Sacramento River Near Rio Vista,7:44,224.05,8.6,17.52,0.66,8.85,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/27/2023,Monday,Lower Sacramento,38.15049,-121.68383,23-31-LSR05,North,Sacramento River Near Rio Vista,10:42,213.35,8.5,11.27,0.96,6.6,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/27/2023,Monday,Southern Delta,37.99379,-121.51392,23-31-SD04,South,Mildred Island West,8:15,326.88,9,12.63,0.93,10.68,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/27/2023,Monday,Southern Delta,37.90865,-121.5652,23-31-SD06,South,Old River,11:37,351.6,8.8,12.9,0.99,4.75,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/27/2023,Monday,Southern Delta,37.91862,-121.58449,23-31-SD01,South,Rock Slough and Discovery Bay,9:58,373.17,8.85,10.6,1.13,3.25,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/27/2023,Monday,Suisun Bay,38.06049,-122.09786,23-31-SB04,Far West,West Suisun Bay,9:05,14843,9.35,28.35,0.47,7,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+2/28/2023,Tuesday,Cache Slough Liberty Island,38.2808,-121.66521,23-31-CS01,North,Cache Slough and Liberty Island,7:53,491.83,7.3,68.7,0.23,6.65,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/28/2023,Tuesday,Cache Slough Liberty Island,38.25336,-121.68858,23-31-CS02,North,Cache Slough and Liberty Island,9:13,273.4,8.05,27,0.46,7.32,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/28/2023,Tuesday,Cache Slough Liberty Island,38.24406,-121.69181,23-31-CS03,North,Cache Slough and Liberty Island,10:36,261.78,8.1,25.9,0.59,6.72,Kodiak,4,10,D,RBTC,1,215,n/p,5,AdClipped
+2/28/2023,Tuesday,Southern Delta,38.03792,-121.59974,23-31-SD05,South,Franks Tract,11:02,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+2/28/2023,Tuesday,Southern Delta,38.05141,-121.58215,23-31-SD02,South,Holland Cut,9:51,261.17,8.43,18.58,0.67,5.62,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/28/2023,Tuesday,Southern Delta,38.02289,-121.52003,23-31-SD03,South,Mildred Island West,8:15,311.92,8.7,12.28,0.86,7.35,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+2/28/2023,Tuesday,Suisun Bay,38.04707,-121.92825,23-31-SB01,West,Confluence,9:33,1626.75,8.78,52.02,0.32,13.12,Kodiak,4,10,D,LFS,2,86-87,n/p,n/p,None
+2/28/2023,Tuesday,Suisun Bay,38.04707,-121.92825,23-31-SB01,West,Confluence,9:33,1626.75,8.78,52.02,0.32,13.12,Kodiak,4,10,D,RBTC,2,213-246,n/p,5,AdClipped
+2/28/2023,Tuesday,Suisun Bay,38.05058,-121.83676,23-31-SB02,West,Confluence,8:13,383.03,8.9,32.9,0.47,7.38,Kodiak,4,10,D,RBTC,1,241,n/p,5,AdClipped
+3/1/2023,Wednesday,Lower San Joaquin,38.02789,-121.72895,23-31-LSJ01,West,Lower San Joaquin River,8:16,291.32,8.6,24.8,0.55,7.28,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/1/2023,Wednesday,Lower San Joaquin,38.03929,-121.72497,23-31-LSJ05,West,Lower San Joaquin River,9:37,309.77,8.63,29.67,0.54,13.4,Kodiak,3,10,D,RBTC,1,238,n/p,5,AdClipped
+3/1/2023,Wednesday,Sac Deep Water Shipping Channel,38.48458,-121.56411,23-31-SSC02,North,Upper Sacramento River Shipping Channel,8:32,852,8.4,18.2,0.47,10.8,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/1/2023,Wednesday,Suisun Bay,38.07863,-122.07391,23-31-SB06,Far West,West Suisun Bay,8:21,7921,8.5,40.32,0.31,5.38,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/1/2023,Wednesday,Suisun Bay,38.06531,-121.96803,23-31-SB05,West,Honker Bay,10:59,2878.5,8.95,53.95,0.26,7.08,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/1/2023,Wednesday,Suisun Bay,38.07775,-122.0388,23-31-SB03,West,Mid Suisun Bay,9:37,6576.75,8.55,49.95,0.3,4.68,Kodiak,4,10,D,LFS,1,74,n/p,n/p,None
+3/2/2023,Thursday,Lower San Joaquin,38.0858,-121.68348,23-31-LSJ03,South,San Joaquin at Twitchell Island,9:51,252.32,8.47,19.3,0.61,13.18,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/2/2023,Thursday,Lower San Joaquin,38.09018,-121.63327,23-31-LSJ04,South,San Joaquin at Twitchell Island,12:29,243.7,8.7,16.8,0.67,15.62,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/2/2023,Thursday,Lower San Joaquin,38.08342,-121.68123,23-31-LSJ06,South,San Joaquin at Twitchell Island,11:07,254.45,8.52,20.2,0.53,9.5,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/2/2023,Thursday,Lower San Joaquin,38.01999,-121.80516,23-31-LSJ02,West,Lower San Joaquin River,8:12,303.65,8.55,28.12,0.38,13.78,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/2/2023,Thursday,Sac Deep Water Shipping Channel,38.38697,-121.62375,23-31-SSC01,North,Lower Sacramento River Shipping Channel,9:39,662.75,8.28,57.68,0.24,10.57,Kodiak,4,10,D,RBTC,1,243,n/p,5,AdClipped
+3/2/2023,Thursday,Sac Deep Water Shipping Channel,38.18539,-121.66108,23-31-SSC03,North,Lower Sacramento River Shipping Channel,11:22,196.88,7.48,37.62,0.41,17.52,Kodiak,4,10,D,CHN,3,36-37,n/p,3,None
+3/2/2023,Thursday,Sac Deep Water Shipping Channel,38.18539,-121.66108,23-31-SSC03,North,Lower Sacramento River Shipping Channel,11:22,196.88,7.48,37.62,0.41,17.52,Kodiak,4,10,D,RBTC,1,238,n/p,5,AdClipped
+3/2/2023,Thursday,Western Delta,38.06039,-122.24118,23-31-WD01,Far West,Carquinez Strait,11:10,17115.75,9.48,21.48,0.49,17.85,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/2/2023,Thursday,Western Delta,38.04366,-122.31207,23-31-WD02,Far West,East San Pablo Bay,8:42,19038.25,9.17,21.55,0.55,9.22,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/2/2023,Thursday,Western Delta,38.04947,-122.27371,23-31-WD03,Far West,East San Pablo Bay,9:54,21127.75,9.45,20,0.54,4.1,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/3/2023,Friday,Lower Sacramento,38.10371,-121.71909,23-31-LSR04,North,Sacramento River Near Rio Vista,10:57,200.92,7.77,34.28,0.4,4.85,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/3/2023,Friday,Lower Sacramento,38.06649,-121.82851,23-31-LSR03,West,Lower Sacramento River,8:12,267.95,8.35,26.9,0.5,9.72,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/3/2023,Friday,Lower Sacramento,38.06299,-121.81004,23-31-LSR06,West,Lower Sacramento River,9:37,250.25,8.17,33.18,0.44,8.92,Kodiak,4,10,D,RBTC,2,241-265,n/p,5,AdClipped
+3/3/2023,Friday,Suisun Marsh,38.10728,-122.03797,23-31-SM02,West,Grizzly Bay,8:23,1916.5,9.08,77.62,0.2,2.92,Kodiak,4,10,D,LFS,1,76,n/p,n/p,None
+3/3/2023,Friday,Suisun Marsh,38.10505,-121.88919,23-31-SM01,West,Suisun Marsh,11:27,1477.75,9.3,40.93,0.33,7.8,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/3/2023,Friday,Suisun Marsh,38.13364,-122.06115,23-31-SM03,West,Suisun Marsh,9:36,1295.5,9.12,90.25,0.21,8.55,Kodiak,4,10,D,LFS,2,81-85,n/p,n/p,None
+3/6/2023,Monday,Cache Slough Liberty Island,38.26741,-121.7001,23-32-CS01,North,Cache Slough and Liberty Island,8:22,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/6/2023,Monday,Cache Slough Liberty Island,38.2859,-121.7191,23-32-CS02,North,Cache Slough and Liberty Island,8:11,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/6/2023,Monday,Cache Slough Liberty Island,38.25922,-121.69429,23-32-CS03,North,Cache Slough and Liberty Island,8:35,403.53,8.87,36.07,0.34,4.72,Kodiak,4,10,U,CHN,1,37,n/p,3,None
+3/6/2023,Monday,Cache Slough Liberty Island,38.25922,-121.69429,23-32-CS03,North,Cache Slough and Liberty Island,8:35,403.53,8.87,36.07,0.34,4.72,Kodiak,4,10,U,RBTC,1,235,n/p,5,AdClipped
+3/6/2023,Monday,Cache Slough Liberty Island,38.25364,-121.68821,23-32-CS04,North,Cache Slough and Liberty Island,11:17,374.3,9.05,34.78,0.35,8.15,Kodiak,4,10,D,RBTC,1,225,n/p,5,AdClipped
+3/6/2023,Monday,Cache Slough Liberty Island,38.26853,-121.69272,23-32-CS05,North,Cache Slough and Liberty Island,9:49,413.38,8.87,38.38,0.34,5.1,Kodiak,4,10,U,CHN,3,35-46,n/p,3,None
+3/6/2023,Monday,Cache Slough Liberty Island,38.26853,-121.69272,23-32-CS05,North,Cache Slough and Liberty Island,9:49,413.38,8.87,38.38,0.34,5.1,Kodiak,4,10,U,RBTC,2,216-230,n/p,5,AdClipped
+3/6/2023,Monday,Southern Delta,38.05782,-121.58296,23-32-SD06,South,Franks Tract,12:10,330.73,9.3,13.72,0.92,4.77,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/6/2023,Monday,Southern Delta,37.92632,-121.55893,23-32-SD01,South,Old River,9:04,362.28,9.08,9.45,1.39,5.25,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/6/2023,Monday,Southern Delta,37.95022,-121.56766,23-32-SD03,South,Old River,10:33,364.38,9.27,10.43,1.24,6.92,Kodiak,4,10,U,RBT,1,243,n/p,5,None
+3/6/2023,Monday,Southern Delta,37.96472,-121.59805,23-32-SD04,South,Rock Slough and Discovery Bay,8:10,339.9,8.9,9.26,1.07,3.4,Kodiak,1,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/6/2023,Monday,Suisun Marsh,38.11036,-122.05319,23-32-SM02,West,Grizzly Bay,11:16,1319.75,9.25,134,0.18,2.6,Kodiak,4,10,D,LFS,1,91,n/p,n/p,None
+3/6/2023,Monday,Suisun Marsh,38.12744,-122.05713,23-32-SM01,West,Suisun Marsh,10:08,1052,9.03,92.62,0.23,4.18,Kodiak,4,10,D,RBTC,1,194,n/p,5,AdClipped
+3/6/2023,Monday,Suisun Marsh,38.13193,-121.91525,23-32-SM03,West,Suisun Marsh,8:41,1726.33,9.93,48.17,0.29,6.23,Kodiak,3,10,U,DSMT,1,72,n/p,n/p,AdClipped
+3/7/2023,Tuesday,Sac Deep Water Shipping Channel,38.38678,-121.62348,23-32-SSC01,North,Lower Sacramento River Shipping Channel,8:31,685.5,8.9,76.75,0.2,7.58,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/7/2023,Tuesday,Sac Deep Water Shipping Channel,38.24463,-121.67001,23-32-SSC02,North,Lower Sacramento River Shipping Channel,10:17,322.4,9.1,39.95,0.37,3.6,Kodiak,2,10,U,CHN,1,46,n/p,3,None
+3/7/2023,Tuesday,Sac Deep Water Shipping Channel,38.24463,-121.67001,23-32-SSC02,North,Lower Sacramento River Shipping Channel,10:17,322.4,9.1,39.95,0.37,3.6,Kodiak,2,10,U,DSMT,1,65,n/p,n/p,VIE-LOA
+3/7/2023,Tuesday,Sac Deep Water Shipping Channel,38.21908,-121.67243,23-32-SSC03,North,Lower Sacramento River Shipping Channel,11:28,313.35,9.08,29.18,0.45,15.63,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/7/2023,Tuesday,Southern Delta,37.97368,-121.51497,23-32-SD02,South,Mildred Island West,7:56,319.67,9.47,16.02,0.71,3.5,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/7/2023,Tuesday,Southern Delta,38.03575,-121.52479,23-32-SD05,South,Mildred Island West,9:36,287.8,9.42,20.55,0.67,8.4,Kodiak,4,10,U,RBTC,1,232,n/p,5,AdClipped
+3/7/2023,Tuesday,Western Delta,38.04828,-122.26694,23-32-WD01,Far West,East San Pablo Bay,10:20,21229.5,9.75,88.92,0.26,5.18,Kodiak,4,10,D,LFS,8,67-85,n/p,n/p,None
+3/7/2023,Tuesday,Western Delta,38.03181,-122.31178,23-32-WD02,Far West,East San Pablo Bay,9:04,24533.75,9.53,81.23,0.27,3.33,Kodiak,4,10,U,LFS,2,76-80,n/p,n/p,None
+3/7/2023,Tuesday,Western Delta,38.08808,-122.25288,23-32-WD03,Far West,Lower Napa River,11:36,8614,9.9,69.68,0.3,6.42,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/8/2023,Wednesday,Lower Sacramento,38.08173,-121.72254,23-32-LSR01,North,Sacramento River Near Rio Vista,10:55,218.43,9.1,29.07,0.52,11.88,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/8/2023,Wednesday,Lower Sacramento,38.05898,-121.79162,23-32-LSR04,West,Lower Sacramento River,8:00,242.47,8.87,30.72,0.43,9.3,Kodiak,4,10,U,CHN,1,39,n/p,3,None
+3/8/2023,Wednesday,Lower Sacramento,38.05898,-121.79162,23-32-LSR04,West,Lower Sacramento River,8:00,242.47,8.87,30.72,0.43,9.3,Kodiak,4,10,U,RBTC,1,220,n/p,5,AdClipped
+3/8/2023,Wednesday,Lower Sacramento,38.07855,-121.75105,23-32-LSR05,West,Lower Sacramento River,9:21,208.2,8.87,30.22,0.45,6.86,Kodiak,4,10,U,CHN,1,40,n/p,3,None
+3/8/2023,Wednesday,Lower San Joaquin,38.0952,-121.65708,23-32-LSJ01,South,San Joaquin at Twitchell Island,10:40,238.85,9.15,26.05,0.46,6.62,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/8/2023,Wednesday,Lower San Joaquin,38.08767,-121.68635,23-32-LSJ05,South,San Joaquin at Twitchell Island,10:24,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/8/2023,Wednesday,Lower San Joaquin,38.02007,-121.7493,23-32-LSJ02,West,Lower San Joaquin River,7:54,291.97,9,20.78,0.55,3.92,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/8/2023,Wednesday,Lower San Joaquin,38.04339,-121.70261,23-32-LSJ06,West,Lower San Joaquin River,9:10,262,9,24.72,0.54,5,Kodiak,4,10,U,RBTC,1,220,n/p,5,AdClipped
+3/8/2023,Wednesday,Suisun Bay,38.04606,-121.84056,23-32-SB06,West,Confluence,11:33,276.73,9.27,29.25,0.51,4.47,Kodiak,4,10,U,RBTC,2,227-235,n/p,5,AdClipped
+3/8/2023,Wednesday,Suisun Bay,38.05928,-121.95528,23-32-SB03,West,Honker Bay,10:02,252.22,8.85,50.07,0.32,7.45,Kodiak,4,10,U,RBTC,1,228,n/p,5,AdClipped
+3/8/2023,Wednesday,Suisun Bay,38.017227,-121.99807,23-32-SB04,West,Mid Suisun Bay,8:41,304.15,8.8,61.4,0.32,3.9,Kodiak,4,10,U,RBTC,1,257,n/p,5,AdClipped
+3/9/2023,Thursday,Lower Sacramento,38.11229,-121.70982,23-32-LSR02,North,Sacramento River Near Rio Vista,7:49,208.45,9.3,23.22,0.61,10.07,Kodiak,4,10,U,RBTC,1,203,n/p,5,AdClipped
+3/9/2023,Thursday,Lower Sacramento,38.15685,-121.68593,23-32-LSR03,North,Sacramento River Near Rio Vista,10:19,228.8,9.25,21.1,0.61,9.9,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/9/2023,Thursday,Lower Sacramento,38.13633,-121.69161,23-32-LSR06,North,Sacramento River Near Rio Vista,9:08,196.8,9.15,24.05,0.63,7.7,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/9/2023,Thursday,Lower San Joaquin,38.06215,-121.53383,23-32-LSJ03,South,San Joaquin at Prisoners Point,9:20,245.92,10.2,21.15,0.68,7.8,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/9/2023,Thursday,Lower San Joaquin,38.05417,-121.53559,23-32-LSJ07,South,San Joaquin at Prisoners Point,7:36,262.12,9.92,19.84,0.68,6.22,Kodiak,5,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/9/2023,Thursday,Lower San Joaquin,38.10287,-121.61679,23-32-LSJ04,South,San Joaquin at Twitchell Island,10:39,232.78,9.6,24.28,0.65,13.95,Kodiak,4,10,U,RBTC,1,249,n/p,5,AdClipped
+3/9/2023,Thursday,Suisun Bay,38.05327,-122.07466,23-32-SB01,Far West,West Suisun Bay,8:20,1536,9.35,193.25,0.13,4.78,Kodiak,4,10,U,LFS,3,78-87,n/p,n/p,None
+3/9/2023,Thursday,Suisun Bay,38.05373,-122.05594,23-32-SB02,Far West,West Suisun Bay,9:40,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/9/2023,Thursday,Suisun Bay,38.048,-122.09575,23-32-SB05,Far West,West Suisun Bay,11:00,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/9/2023,Thursday,Suisun Bay,38.09022,-122.08197,23-32-SB08,Far West,West Suisun Bay,11:01,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/9/2023,Thursday,Suisun Bay,38.04656,-121.92755,23-32-SB07,West,Confluence,9:59,253.65,9.2,58.72,0.42,17.1,Kodiak,4,10,U,RBTC,2,230-268,n/p,5,AdClipped
+3/9/2023,Thursday,Suisun Bay,38.04656,-121.92755,23-32-SB07,West,Confluence,9:59,253.65,9.2,58.72,0.42,17.1,Kodiak,4,10,U,RBT,1,310,n/p,5,None
+3/9/2023,Thursday,Suisun Bay,38.03447,-121.83968,23-32-SB10,West,Confluence,11:30,280.6,9.3,37.3,0.54,8.32,Kodiak,4,10,U,RBTC,2,238-241,n/p,5,AdClipped
+3/9/2023,Thursday,Suisun Bay,38.05945,-122.01613,23-32-SB09,West,Mid Suisun Bay,11:02,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/13/2023,Monday,Lower Sacramento,38.05881,-121.81675,23-33-LSR01,West,Lower Sacramento River,8:18,180.62,9.68,28.35,0.45,10.4,Kodiak,4,10,D,CHN,2,36-37,n/p,2,None
+3/13/2023,Monday,Lower Sacramento,38.07171,-121.77147,23-33-LSR02,West,Lower Sacramento River,10:59,141.37,9.4,42.13,0.4,9.55,Kodiak,4,10,U,CHN,1,39,n/p,2,None
+3/13/2023,Monday,Lower Sacramento,38.07171,-121.77147,23-33-LSR02,West,Lower Sacramento River,10:59,141.37,9.4,42.13,0.4,9.55,Kodiak,4,10,U,CHNT,2,95-97,n/p,3,AdClipped
+3/13/2023,Monday,Lower Sacramento,38.07171,-121.77147,23-33-LSR02,West,Lower Sacramento River,10:59,141.37,9.4,42.13,0.4,9.55,Kodiak,4,10,U,CHN,4,36-40,n/p,3,None
+3/13/2023,Monday,Lower Sacramento,38.05853,-121.80231,23-33-LSR05,West,Lower Sacramento River,9:37,134.33,9.27,32.97,0.46,10.58,Kodiak,4,10,U,CHN,1,36,n/p,2,None
+3/13/2023,Monday,Lower Sacramento,38.05853,-121.80231,23-33-LSR05,West,Lower Sacramento River,9:37,134.33,9.27,32.97,0.46,10.58,Kodiak,4,10,U,CHN,9,31-43,n/p,3,None
+3/13/2023,Monday,Southern Delta,38.04241,-121.66417,23-33-SD04,South,Franks Tract,10:39,272.07,11.23,21.15,0.62,3.7,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/13/2023,Monday,Southern Delta,38.03587,-121.57072,23-33-SD02,South,Holland Cut,9:10,268.7,11.22,23.8,0.62,8.3,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/13/2023,Monday,Southern Delta,38.05017,-121.58134,23-33-SD06,South,Holland Cut,7:59,200.62,10.87,37.03,0.38,4.9,Kodiak,4,10,U,CHN,1,38,n/p,2,None
+3/13/2023,Monday,Southern Delta,38.05017,-121.58134,23-33-SD06,South,Holland Cut,7:59,200.62,10.87,37.03,0.38,4.9,Kodiak,4,10,U,RBTC,1,223,n/p,5,AdClipped
+3/13/2023,Monday,Suisun Bay,38.06851,-122.10733,23-33-SB01,Far West,West Suisun Bay,10:23,440.47,10.67,116.5,0.2,4.86,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/13/2023,Monday,Suisun Bay,38.06029,-122.11172,23-33-SB04,Far West,West Suisun Bay,8:56,866.75,10.37,52.2,0.27,7.35,Kodiak,4,10,U,CHN,1,126,n/p,5,None
+3/13/2023,Monday,Suisun Bay,38.06947,-122.08045,23-33-SB05,Far West,West Suisun Bay,11:48,249.95,10.47,71.38,0.3,5.8,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/15/2023,Wednesday,Lower Sacramento,38.13968,-121.69306,23-33-LSR04,North,Sacramento River Near Rio Vista,11:23,135.45,9.78,44.1,0.31,10.45,Kodiak,4,10,U,CHN,4,35-37,n/p,3,None
+3/15/2023,Wednesday,Lower Sacramento,38.08534,-121.74945,23-33-LSR03,West,Lower Sacramento River,9:50,120.1,9.7,42.18,0.31,7.52,Kodiak,4,10,U,CHN,1,38,n/p,2,None
+3/15/2023,Wednesday,Lower Sacramento,38.08534,-121.74945,23-33-LSR03,West,Lower Sacramento River,9:50,120.1,9.7,42.18,0.31,7.52,Kodiak,4,10,U,CHN,12,34-45,n/p,3,None
+3/15/2023,Wednesday,Lower Sacramento,38.07233,-121.76521,23-33-LSR06,West,Lower Sacramento River,8:08,128.07,9.78,44.25,0.29,12.4,Kodiak,4,10,D,CHN,2,36-37,n/p,2,None
+3/15/2023,Wednesday,Lower Sacramento,38.07233,-121.76521,23-33-LSR06,West,Lower Sacramento River,8:08,128.07,9.78,44.25,0.29,12.4,Kodiak,4,10,D,CHN,37,34-52,n/p,3,None
+3/15/2023,Wednesday,Lower Sacramento,38.07233,-121.76521,23-33-LSR06,West,Lower Sacramento River,8:08,128.07,9.78,44.25,0.29,12.4,Kodiak,4,10,D,CHN,2,59-102,n/p,4,None
+3/15/2023,Wednesday,Southern Delta,37.97869,-121.57181,23-33-SD05,South,Holland Cut,7:51,321.5,12.08,10.97,0.81,7.6,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/15/2023,Wednesday,Southern Delta,37.93119,-121.53157,23-33-SD03,South,Middle River West,9:02,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/15/2023,Wednesday,Southern Delta,38.00199,-121.51174,23-33-SD01,South,Mildred Island West,9:11,215.1,12.13,30.48,0.46,9.55,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/15/2023,Wednesday,Suisun Bay,38.04339,-121.84276,23-33-SB03,West,Confluence,12:14,207.88,11.33,33.72,0.42,6.42,Kodiak,4,10,U,RBTC,1,210,n/p,5,AdClipped
+3/15/2023,Wednesday,Suisun Bay,38.04914,-121.962,23-33-SB06,West,Honker Bay,10:15,196.37,10.65,55.03,0.31,5.75,Kodiak,4,10,U,CHNT,1,104,n/p,4,AdClipped
+3/15/2023,Wednesday,Suisun Bay,38.09861,-122.02288,23-33-SB02,West,Mid Suisun Bay,8:30,185.58,10.45,58.7,0.27,6.8,Kodiak,4,10,D,CHN,2,39-43,n/p,3,None
+3/15/2023,Wednesday,Suisun Bay,38.09861,-122.02288,23-33-SB02,West,Mid Suisun Bay,8:30,185.58,10.45,58.7,0.27,6.8,Kodiak,4,10,D,CHNT,1,105,n/p,5,AdClipped
+3/16/2023,Thursday,Lower San Joaquin,38.03853,-121.71503,23-33-LSJ02,West,Lower San Joaquin River,11:00,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/16/2023,Thursday,Lower San Joaquin,38.03147,-121.73788,23-33-LSJ03,West,Lower San Joaquin River,9:30,161.35,11.25,37.45,0.34,7,Kodiak,4,10,D,CHN,3,35-38,n/p,2,None
+3/16/2023,Thursday,Lower San Joaquin,38.01945,-121.79913,23-33-LSJ06,West,Lower San Joaquin River,8:06,187.82,11.37,37.6,0.34,13.62,Kodiak,4,10,D,CHN,3,39-48,n/p,3,None
+3/16/2023,Thursday,Lower San Joaquin,38.09323,-121.62575,23-33-LSJ07,West,San Joaquin at Twitchell Island,11:20,164.55,12.05,31.15,0.39,8.88,Kodiak,4,10,U,CHN,3,36-38,n/p,2,None
+3/16/2023,Thursday,Lower San Joaquin,38.09323,-121.62575,23-33-LSJ07,West,San Joaquin at Twitchell Island,11:20,164.55,12.05,31.15,0.39,8.88,Kodiak,4,10,U,CHN,1,42,n/p,3,None
+3/16/2023,Thursday,Sac Deep Water Shipping Channel,38.32358,-121.64994,23-33-SSC03,North,Lower Sacramento River Shipping Channel,8:19,467.4,10.95,31.65,0.38,11.47,Kodiak,4,10,D,CHN,12,37-45,n/p,3,None
+3/16/2023,Thursday,Sac Deep Water Shipping Channel,38.32358,-121.64994,23-33-SSC03,North,Lower Sacramento River Shipping Channel,8:19,467.4,10.95,31.65,0.38,11.47,Kodiak,4,10,D,LFS,1,100,n/p,n/p,None
+3/16/2023,Thursday,Sac Deep Water Shipping Channel,38.49416,-121.58405,23-33-SSC01,North,Upper Sacramento River Shipping Channel,10:06,898.75,11.15,16.2,0.67,10.2,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/16/2023,Thursday,Sac Deep Water Shipping Channel,38.55354,-121.57716,23-33-SSC02,North,Upper Sacramento River Shipping Channel,11:45,898.5,11.25,5.18,1.49,11.65,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/16/2023,Thursday,Suisun Marsh,38.10679,-122.04673,23-33-SM01,West,Grizzly Bay,11:49,394.58,11.53,66.55,0.23,3.02,Kodiak,4,10,U,CHN,1,40,n/p,3,None
+3/16/2023,Thursday,Suisun Marsh,38.10113,-122.02606,23-33-SM02,West,Grizzly Bay,11:07,223.2,11,62.5,0.25,3,Kodiak,2,10,D,LFS,1,103,n/p,n/p,None
+3/16/2023,Thursday,Suisun Marsh,38.10113,-122.02606,23-33-SM02,West,Grizzly Bay,11:07,223.2,11,62.5,0.25,3,Kodiak,2,10,D,RBTC,1,239,n/p,5,AdClipped
+3/16/2023,Thursday,Suisun Marsh,38.09678,-121.89544,23-33-SM03,West,Suisun Marsh,8:52,206.78,10.13,42.95,0.33,5.88,Kodiak,4,10,D,CHN,6,31-43,n/p,2,None
+3/16/2023,Thursday,Suisun Marsh,38.09678,-121.89544,23-33-SM03,West,Suisun Marsh,8:52,206.78,10.13,42.95,0.33,5.88,Kodiak,4,10,D,CHN,6,37-46,n/p,3,None
+3/16/2023,Thursday,Suisun Marsh,38.09678,-121.89544,23-33-SM03,West,Suisun Marsh,8:52,206.78,10.13,42.95,0.33,5.88,Kodiak,4,10,D,CHN,1,66,n/p,4,None
+3/17/2023,Friday,Cache Slough Liberty Island,38.25223,-121.67281,23-33-CS01,North,Cache Slough and Liberty Island,11:28,164.72,11.77,136,0.12,7.55,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/17/2023,Friday,Cache Slough Liberty Island,38.25112,-121.68763,23-33-CS02,North,Cache Slough and Liberty Island,9:50,283.18,12.42,80.3,0.16,8.72,Kodiak,4,10,U,CHN,1,46,n/p,3,None
+3/17/2023,Friday,Cache Slough Liberty Island,38.25693,-121.69131,23-33-CS03,North,Cache Slough and Liberty Island,8:04,324.45,13.22,78.15,0.16,4.7,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/17/2023,Friday,Lower San Joaquin,38.04419,-121.533,23-33-LSJ01,South,San Joaquin at Prisoners Point,7:58,220.65,13,23.77,0.59,12.9,Kodiak,4,10,U,CHN,2,26-32,n/p,2,None
+3/17/2023,Friday,Lower San Joaquin,38.06402,-121.55376,23-33-LSJ04,South,San Joaquin at Prisoners Point,10:38,194,12.92,31.5,0.4,5.62,Kodiak,4,10,D,CHN,7,34-38,n/p,2,None
+3/17/2023,Friday,Lower San Joaquin,38.06402,-121.55376,23-33-LSJ04,South,San Joaquin at Prisoners Point,10:38,194,12.92,31.5,0.4,5.62,Kodiak,4,10,D,CHN,1,50,n/p,3,None
+3/17/2023,Friday,Lower San Joaquin,38.06088,-121.55106,23-33-LSJ05,South,San Joaquin at Prisoners Point,9:17,197.9,13.03,30.32,0.53,6.12,Kodiak,4,10,D,CHN,2,34-38,n/p,2,None
+3/17/2023,Friday,Lower San Joaquin,38.06088,-121.55106,23-33-LSJ05,South,San Joaquin at Prisoners Point,9:17,197.9,13.03,30.32,0.53,6.12,Kodiak,4,10,D,CHN,1,40,n/p,3,None
+3/17/2023,Friday,Western Delta,38.02941,-122.16502,23-33-WD02,Far West,Carquinez Strait,8:45,270.12,11.13,56.38,0.25,11.7,Kodiak,4,10,D,CHN,1,39,n/p,2,None
+3/17/2023,Friday,Western Delta,38.04158,-122.29189,23-33-WD03,Far West,East San Pablo Bay,11:57,10467.75,12,52.1,0.3,3.48,Kodiak,4,10,U,LFS,3,75-87,n/p,n/p,None
+3/17/2023,Friday,Western Delta,38.11685,-122.27807,23-33-WD01,Far West,Lower Napa River,10:25,7685,11.4,58.3,0.28,8.47,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Cache Slough Liberty Island,38.32015,-121.69301,23-34-CS01,North,Cache Slough and Liberty Island,8:58,208.82,11.83,277,0.15,5.85,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Cache Slough Liberty Island,38.24803,-121.70641,23-34-CS02,North,Cache Slough and Liberty Island,8:04,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Cache Slough Liberty Island,38.26078,-121.74981,23-34-CS03,North,Cache Slough and Liberty Island,8:17,248.5,13.5,5.59,0.26,3.9,Kodiak,1,4.5,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Cache Slough Liberty Island,38.25277,-121.67198,23-34-CS04,North,Cache Slough and Liberty Island,10:38,125.9,12.05,340.25,0.17,7.1,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Cache Slough Liberty Island,38.28616,-121.66557,23-34-CS05,North,Cache Slough and Liberty Island,10:24,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Cache Slough Liberty Island,38.23714,-121.68338,23-34-CS06,North,Cache Slough and Liberty Island,11:51,126.82,12.08,341.75,0.14,14.28,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Southern Delta,37.81982,-121.53572,23-34-SD06,South,Grant Line Canal and Old River West,11:19,176.57,13.23,64.77,0.25,5.67,Kodiak,3,10,U,RBTC,1,150,n/p,5,AdClipped
+3/20/2023,Monday,Southern Delta,37.99221,-121.52322,23-34-SD01,South,Mildred Island West,8:05,297.53,13.55,19.13,0.67,4.72,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Southern Delta,37.9825,-121.53033,23-34-SD02,South,Mildred Island West,9:23,276.38,13.78,28.2,0.67,6.62,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Western Delta,38.05875,-122.25679,23-34-WD03,Far West,Carquinez Strait,12:22,5141,12.1,121.5,0.22,13.72,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/20/2023,Monday,Western Delta,38.05231,-122.28702,23-34-WD01,Far West,East San Pablo Bay,10:53,1702.82,12.25,110.33,0.23,16.12,Kodiak,4,10,D,LFS,2,90-91,n/p,n/p,None
+3/20/2023,Monday,Western Delta,38.0364,-122.29112,23-34-WD02,Far West,East San Pablo Bay,9:24,6961.5,11.67,96.55,0.29,3.55,Kodiak,4,10,D,LFS,7,70-97,n/p,n/p,None
+3/21/2023,Tuesday,Sac Deep Water Shipping Channel,38.26288,-121.66578,23-34-SSC01,North,Lower Sacramento River Shipping Channel,8:35,241.03,12.2,129.75,0.22,6.38,Kodiak,4,10,U,CHN,1,55,n/p,3,None
+3/21/2023,Tuesday,Sac Deep Water Shipping Channel,38.18799,-121.65938,23-34-SSC02,North,Lower Sacramento River Shipping Channel,10:13,142.1,11.6,241,0.22,12.3,Kodiak,1,3,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/21/2023,Tuesday,Sac Deep Water Shipping Channel,38.3342,-121.64764,23-34-SSC03,North,Lower Sacramento River Shipping Channel,11:02,547.67,12.1,59.37,0.38,10.97,Kodiak,3,10,U,CHN,1,50,n/p,3,None
+3/21/2023,Tuesday,Sac Deep Water Shipping Channel,38.3342,-121.64764,23-34-SSC03,North,Lower Sacramento River Shipping Channel,11:02,547.67,12.1,59.37,0.38,10.97,Kodiak,3,10,U,DSMT,1,83,n/p,n/p,VIE-RGP
+3/21/2023,Tuesday,Southern Delta,38.04956,-121.60752,23-34-SD03,South,Franks Tract,8:07,196.72,13.23,22.65,0.71,3.08,Kodiak,4,6,D,CHN,1,43,n/p,2,None
+3/21/2023,Tuesday,Southern Delta,38.05849,-121.58508,23-34-SD05,South,Franks Tract,9:44,266.52,13.47,27.17,0.69,5.55,Kodiak,4,10,U,CHN,2,40,n/p,2,None
+3/21/2023,Tuesday,Suisun Bay,38.07024,-121.96033,23-34-SB01,West,Honker Bay,8:34,136,11.8,129.45,0.12,3.85,Kodiak,4,10,U,CHN,2,35-36,n/p,3,None
+3/21/2023,Tuesday,Suisun Bay,38.0765,-121.99169,23-34-SB07,West,Mid Suisun Bay,10:11,291.28,11.7,199.5,0.12,5.85,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/22/2023,Wednesday,Lower Sacramento,38.05713,-121.79882,23-34-LSR01,West,Lower Sacramento River,10:26,142.45,11.1,101.88,0.11,9.32,Kodiak,4,10,U,CHN,4,40-47,n/p,3,None
+3/22/2023,Wednesday,Lower Sacramento,38.05713,-121.79882,23-34-LSR01,West,Lower Sacramento River,10:26,142.45,11.1,101.88,0.11,9.32,Kodiak,4,10,U,LFS,1,85,n/p,n/p,None
+3/22/2023,Wednesday,Lower Sacramento,38.05762,-121.79523,23-34-LSR02,West,Lower Sacramento River,11:49,123.92,10.6,98.42,0.15,9.05,Kodiak,4,10,U,CHN,1,36,n/p,2,None
+3/22/2023,Wednesday,Lower Sacramento,38.05762,-121.79523,23-34-LSR02,West,Lower Sacramento River,11:49,123.92,10.6,98.42,0.15,9.05,Kodiak,4,10,U,CHN,3,38-42,n/p,3,None
+3/22/2023,Wednesday,Lower Sacramento,38.05762,-121.79523,23-34-LSR02,West,Lower Sacramento River,11:49,123.92,10.6,98.42,0.15,9.05,Kodiak,4,10,U,CHNT,1,84,n/p,4,AdClipped
+3/22/2023,Wednesday,Lower Sacramento,38.05762,-121.79523,23-34-LSR02,West,Lower Sacramento River,11:49,123.92,10.6,98.42,0.15,9.05,Kodiak,4,10,U,CHN,2,78-104,n/p,4,None
+3/22/2023,Wednesday,Lower Sacramento,38.06495,-121.82044,23-34-LSR05,West,Lower Sacramento River,8:32,153.9,11.3,202.75,0.12,9.05,Kodiak,4,10,U,CHN,2,39-47,n/p,3,None
+3/22/2023,Wednesday,Lower Sacramento,38.06495,-121.82044,23-34-LSR05,West,Lower Sacramento River,8:32,153.9,11.3,202.75,0.12,9.05,Kodiak,4,10,U,RBT,1,44,n/p,3,None
+3/22/2023,Wednesday,Lower San Joaquin,38.07936,-121.67937,23-34-LSJ06,South,San Joaquin at Twitchell Island,7:57,158.67,11.85,48.25,0.34,12.28,Kodiak,4,10,U,CHN,2,37-38,n/p,2,None
+3/22/2023,Wednesday,Lower San Joaquin,38.07936,-121.67937,23-34-LSJ06,South,San Joaquin at Twitchell Island,7:57,158.67,11.85,48.25,0.34,12.28,Kodiak,4,10,U,CHN,1,39,n/p,3,None
+3/22/2023,Wednesday,Lower San Joaquin,38.07936,-121.67937,23-34-LSJ06,South,San Joaquin at Twitchell Island,7:57,158.67,11.85,48.25,0.34,12.28,Kodiak,4,10,U,RBTC,1,223,n/p,5,AdClipped
+3/22/2023,Wednesday,Lower San Joaquin,38.02518,-121.78141,23-34-LSJ03,West,Lower San Joaquin River,10:56,174.75,12.2,49.45,0.39,12.4,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/22/2023,Wednesday,Lower San Joaquin,38.04505,-121.6942,23-34-LSJ04,West,Lower San Joaquin River,9:23,201.75,12.18,60.35,0.36,10.12,Kodiak,4,10,U,CHNT,1,96,n/p,3,AdClipped
+3/22/2023,Wednesday,Lower San Joaquin,38.04505,-121.6942,23-34-LSJ04,West,Lower San Joaquin River,9:23,201.75,12.18,60.35,0.36,10.12,Kodiak,4,10,U,CHN,1,52,n/p,3,None
+3/22/2023,Wednesday,Suisun Bay,38.04128,-122.12235,23-34-SB05,Far West,West Suisun Bay,9:03,152.65,11.6,111.72,0.2,14.5,Kodiak,2,10,U,CHN,1,35,n/p,2,None
+3/22/2023,Wednesday,Suisun Bay,38.04128,-122.12235,23-34-SB05,Far West,West Suisun Bay,9:03,152.65,11.6,111.72,0.2,14.5,Kodiak,2,10,U,LFS,1,74,n/p,n/p,None
+3/22/2023,Wednesday,Suisun Bay,38.05219,-121.96511,23-34-SB04,West,Honker Bay,12:37,179.45,11.97,77.48,0.26,6.25,Kodiak,4,10,D,CHN,2,37-40,n/p,3,None
+3/22/2023,Wednesday,Suisun Bay,38.05219,-121.96511,23-34-SB04,West,Honker Bay,12:37,179.45,11.97,77.48,0.26,6.25,Kodiak,4,10,D,LFS,3,85-93,n/p,n/p,None
+3/22/2023,Wednesday,Suisun Bay,38.05219,-121.96511,23-34-SB04,West,Honker Bay,12:37,179.45,11.97,77.48,0.26,6.25,Kodiak,4,10,D,RBT,1,202,n/p,5,None
+3/22/2023,Wednesday,Suisun Bay,38.05868,-122.03011,23-34-SB02,West,Mid Suisun Bay,11:09,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/22/2023,Wednesday,Suisun Bay,38.06539,-122.05191,23-34-SB03,West,Mid Suisun Bay,9:57,151.8,11.6,124.25,0.2,12.38,Kodiak,4,10,U,CHN,2,42-44,n/p,3,None
+3/22/2023,Wednesday,Suisun Bay,38.06539,-122.05191,23-34-SB03,West,Mid Suisun Bay,9:57,151.8,11.6,124.25,0.2,12.38,Kodiak,4,10,U,LFS,1,78,n/p,n/p,None
+3/22/2023,Wednesday,Suisun Bay,38.05899,-121.99541,23-34-SB06,West,Mid Suisun Bay,11:21,150.75,11.45,120.75,0.24,14.28,Kodiak,4,10,U,CHN,2,35-36,n/p,3,None
+3/23/2023,Thursday,Lower Sacramento,38.10404,-121.7081,23-34-LSR03,North,Sacramento River Near Rio Vista,8:23,150.23,10.62,83.95,0.23,4.65,Kodiak,4,10,U,CHN,1,39,n/p,2,None
+3/23/2023,Thursday,Lower Sacramento,38.10404,-121.7081,23-34-LSR03,North,Sacramento River Near Rio Vista,8:23,150.23,10.62,83.95,0.23,4.65,Kodiak,4,10,U,CHN,1,41,n/p,3,None
+3/23/2023,Thursday,Lower Sacramento,38.10404,-121.7081,23-34-LSR03,North,Sacramento River Near Rio Vista,8:23,150.23,10.62,83.95,0.23,4.65,Kodiak,4,10,U,CHNT,1,114,n/p,5,AdClipped
+3/23/2023,Thursday,Lower Sacramento,38.10404,-121.7081,23-34-LSR03,North,Sacramento River Near Rio Vista,8:23,150.23,10.62,83.95,0.23,4.65,Kodiak,4,10,U,RBT,1,39,n/p,3,None
+3/23/2023,Thursday,Lower Sacramento,38.14893,-121.68509,23-34-LSR04,North,Sacramento River Near Rio Vista,11:27,113.87,10.2,41.77,0.37,4.68,Kodiak,4,10,U,CHN,1,68,n/p,4,None
+3/23/2023,Thursday,Lower Sacramento,38.14893,-121.68509,23-34-LSR04,North,Sacramento River Near Rio Vista,11:27,113.87,10.2,41.77,0.37,4.68,Kodiak,4,10,U,RBT,1,37,n/p,2,None
+3/23/2023,Thursday,Lower Sacramento,38.12807,-121.69432,23-34-LSR07,North,Sacramento River Near Rio Vista,10:05,125.85,10.2,57.93,0.31,5.97,Kodiak,4,10,U,CHN,1,42,n/p,3,None
+3/23/2023,Thursday,Lower Sacramento,38.12807,-121.69432,23-34-LSR07,North,Sacramento River Near Rio Vista,10:05,125.85,10.2,57.93,0.31,5.97,Kodiak,4,10,U,CHN,1,78,n/p,4,None
+3/23/2023,Thursday,Lower Sacramento,38.12807,-121.69432,23-34-LSR07,North,Sacramento River Near Rio Vista,10:05,125.85,10.2,57.93,0.31,5.97,Kodiak,4,10,U,RBT,1,42,n/p,3,None
+3/23/2023,Thursday,Lower Sacramento,38.0744,-121.76645,23-34-LSR06,West,Lower Sacramento River,9:51,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/23/2023,Thursday,Lower San Joaquin,38.09858,-121.58353,23-34-LSJ01,South,San Joaquin at Prisoners Point,9:20,157.15,11.95,28.7,0.3,12.25,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/23/2023,Thursday,Lower San Joaquin,38.062,-121.53325,23-34-LSJ02,South,San Joaquin at Prisoners Point,7:53,192.58,12.83,28.53,0.42,10.03,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/23/2023,Thursday,Suisun Marsh,38.10546,-122.06345,23-34-SM03,West,Grizzly Bay,10:53,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/23/2023,Thursday,Suisun Marsh,38.11618,-122.05389,23-34-SM04,West,Grizzly Bay,11:02,837.75,12.3,207.25,0.18,2.67,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/23/2023,Thursday,Suisun Marsh,38.10607,-122.05513,23-34-SM05,West,Grizzly Bay,12:54,162.02,11.27,147.25,0.16,4.45,Kodiak,4,10,D,CHN,1,37,n/p,3,None
+3/23/2023,Thursday,Suisun Marsh,38.17509,-121.92211,23-34-SM01,West,Suisun Marsh,9:02,669,11.42,133,0.14,4.9,Kodiak,4,10,U,CHN,3,38-41,n/p,3,None
+3/23/2023,Thursday,Suisun Marsh,38.13969,-122.07134,23-34-SM02,West,Suisun Marsh,12:28,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/24/2023,Friday,Lower San Joaquin,38.10295,-121.61469,23-34-LSJ05,South,San Joaquin at Twitchell Island,7:55,159.23,11.83,25.82,0.46,12.05,Kodiak,4,10,U,CHN,2,39-44,n/p,2,None
+3/24/2023,Friday,Southern Delta,38.05502,-121.65292,23-34-SD04,South,Franks Tract,9:12,193.9,12.08,28.8,0.46,7.68,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/27/2023,Monday,Lower San Joaquin,38.0756,-121.56442,23-35-LSJ04,South,San Joaquin at Prisoners Point,11:03,194.47,12.5,25.28,0.61,12.25,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/27/2023,Monday,Lower San Joaquin,38.08778,-121.6316,23-35-LSJ03,South,San Joaquin at Twitchell Island,9:44,174.45,12.22,29.95,0.52,7.78,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/27/2023,Monday,Lower San Joaquin,38.01604,-121.68434,23-35-LSJ06,West,Lower San Joaquin River,8:17,315,12.53,21.12,0.59,5.1,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/27/2023,Monday,Sac Deep Water Shipping Channel,38.45422,-121.59264,23-35-SSC01,North,Lower Sacramento River Shipping Channel,11:23,881.75,12.83,50.2,0.23,10.97,Kodiak,4,10,U,CHN,2,42-43,n/p,2,None
+3/27/2023,Monday,Sac Deep Water Shipping Channel,38.45422,-121.59264,23-35-SSC01,North,Lower Sacramento River Shipping Channel,11:23,881.75,12.83,50.2,0.23,10.97,Kodiak,4,10,U,CHN,4,52-75,n/p,4,None
+3/27/2023,Monday,Sac Deep Water Shipping Channel,38.22616,-121.67495,23-35-SSC03,North,Lower Sacramento River Shipping Channel,7:53,224.52,11.67,75.88,0.21,13.35,Kodiak,4,10,D,CHN,2,41-51,n/p,3,None
+3/27/2023,Monday,Sac Deep Water Shipping Channel,38.22616,-121.67495,23-35-SSC03,North,Lower Sacramento River Shipping Channel,7:53,224.52,11.67,75.88,0.21,13.35,Kodiak,4,10,D,CHNT,5,78-87,n/p,4,AdClipped
+3/27/2023,Monday,Sac Deep Water Shipping Channel,38.22616,-121.67495,23-35-SSC03,North,Lower Sacramento River Shipping Channel,7:53,224.52,11.67,75.88,0.21,13.35,Kodiak,4,10,D,RBTC,1,243,n/p,5,AdClipped
+3/27/2023,Monday,Sac Deep Water Shipping Channel,38.49877,-121.58458,23-35-SSC02,North,Upper Sacramento River Shipping Channel,9:47,930.75,12.58,43.02,0.28,11.72,Kodiak,4,10,D,CHN,3,43-57,n/p,3,None
+3/27/2023,Monday,Western Delta,38.03591,-122.16687,23-35-WD01,Far West,Carquinez Strait,12:37,574.55,11.83,106.75,0.16,16.77,Kodiak,4,10,U,CHNT,1,80,n/p,5,AdClipped
+3/27/2023,Monday,Western Delta,38.05362,-122.26487,23-35-WD02,Far West,East San Pablo Bay,10:50,8828.25,11.65,74.62,0.22,4.78,Kodiak,4,10,U,LFS,1,82,n/p,n/p,None
+3/27/2023,Monday,Western Delta,38.03639,-122.31921,23-35-WD03,Far West,East San Pablo Bay,8:58,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/27/2023,Monday,Western Delta,38.02474,-122.30246,23-35-WD04,Far West,East San Pablo Bay,9:03,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/27/2023,Monday,Western Delta,38.04832,-122.31864,23-35-WD05,Far West,East San Pablo Bay,9:10,4164.75,11.55,43.07,0.27,9.07,Kodiak,4,10,U,LFS,2,77-89,n/p,n/p,None
+3/28/2023,Tuesday,Cache Slough Liberty Island,38.2439,-121.69289,23-35-CS03,North,Cache Slough and Liberty Island,7:58,260.53,12.1,59.78,0.26,5.18,Kodiak,4,10,D,CHN,1,37,n/p,2,None
+3/28/2023,Tuesday,Cache Slough Liberty Island,38.2439,-121.69289,23-35-CS03,North,Cache Slough and Liberty Island,7:58,260.53,12.1,59.78,0.26,5.18,Kodiak,4,10,D,CHN,1,47,n/p,3,None
+3/28/2023,Tuesday,Cache Slough Liberty Island,38.2439,-121.69289,23-35-CS03,North,Cache Slough and Liberty Island,7:58,260.53,12.1,59.78,0.26,5.18,Kodiak,4,10,D,CHNT,4,76-86,n/p,4,AdClipped
+3/28/2023,Tuesday,Cache Slough Liberty Island,38.2439,-121.69289,23-35-CS03,North,Cache Slough and Liberty Island,7:58,260.53,12.1,59.78,0.26,5.18,Kodiak,4,10,D,CHN,1,118,n/p,5,None
+3/28/2023,Tuesday,Cache Slough Liberty Island,38.26438,-121.67069,23-35-CS01,North,Cache Slough and Liberty Island,9:38,306.67,12.63,83.15,0.21,9.4,Kodiak,4,10,D,CHN,1,120,n/p,5,None
+3/28/2023,Tuesday,Cache Slough Liberty Island,38.25201,-121.69473,23-35-CS02,North,Cache Slough and Liberty Island,9:20,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/28/2023,Tuesday,Cache Slough Liberty Island,38.31699,-121.69356,23-35-CS04,North,Cache Slough and Liberty Island,11:00,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/28/2023,Tuesday,Cache Slough Liberty Island,38.29084,-121.69277,23-35-CS05,North,Cache Slough and Liberty Island,11:25,358.8,12.55,81.65,0.23,8.05,Kodiak,2,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/28/2023,Tuesday,Lower San Joaquin,38.02546,-121.78911,23-35-LSJ02,West,Lower San Joaquin River,8:06,182.4,12.2,25.33,0.51,11.47,Kodiak,3,10,D,CHN,1,40,n/p,3,None
+3/29/2023,Wednesday,Lower Sacramento,38.09293,-121.73033,23-35-LSR03,North,Sacramento River near Rio Vista,9:36,168.88,10.78,46.82,0.39,6.3,Kodiak,4,10,D,CHNT,1,78,n/p,3,AdClipped
+3/29/2023,Wednesday,Lower Sacramento,38.09293,-121.73033,23-35-LSR03,North,Sacramento River near Rio Vista,9:36,168.88,10.78,46.82,0.39,6.3,Kodiak,4,10,D,CHNT,4,77-87,n/p,4,AdClipped
+3/29/2023,Wednesday,Lower Sacramento,38.09293,-121.73033,23-35-LSR03,North,Sacramento River near Rio Vista,9:36,168.88,10.78,46.82,0.39,6.3,Kodiak,4,10,D,CHN,1,40,n/p,4,None
+3/29/2023,Wednesday,Lower Sacramento,38.12243,-121.69652,23-35-LSR04,North,Sacramento River near Rio Vista,11:13,151.77,10.6,48.78,0.42,7.4,Kodiak,4,10,U,CHN,3,35-38,n/p,2,None
+3/29/2023,Wednesday,Lower Sacramento,38.12243,-121.69652,23-35-LSR04,North,Sacramento River near Rio Vista,11:13,151.77,10.6,48.78,0.42,7.4,Kodiak,4,10,U,CHN,3,40-45,n/p,3,None
+3/29/2023,Wednesday,Lower Sacramento,38.12243,-121.69652,23-35-LSR04,North,Sacramento River near Rio Vista,11:13,151.77,10.6,48.78,0.42,7.4,Kodiak,4,10,U,CHNT,4,78-91,n/p,4,AdClipped
+3/29/2023,Wednesday,Lower Sacramento,38.12243,-121.69652,23-35-LSR04,North,Sacramento River near Rio Vista,11:13,151.77,10.6,48.78,0.42,7.4,Kodiak,4,10,U,CHN,2,81-85,n/p,4,None
+3/29/2023,Wednesday,Lower Sacramento,38.1046,-121.68478,23-35-LSR06,North,Sacramento River near Rio Vista,8:10,175.97,11.17,35.17,0.54,8.9,Kodiak,4,10,D,CHN,9,39-53,n/p,2,None
+3/29/2023,Wednesday,Lower Sacramento,38.1046,-121.68478,23-35-LSR06,North,Sacramento River near Rio Vista,8:10,175.97,11.17,35.17,0.54,8.9,Kodiak,4,10,D,CHN,7,45-58,n/p,3,None
+3/29/2023,Wednesday,Lower Sacramento,38.1046,-121.68478,23-35-LSR06,North,Sacramento River near Rio Vista,8:10,175.97,11.17,35.17,0.54,8.9,Kodiak,4,10,D,CHN,2,65-107,n/p,4,None
+3/29/2023,Wednesday,Lower Sacramento,38.1046,-121.68478,23-35-LSR06,North,Sacramento River near Rio Vista,8:10,175.97,11.17,35.17,0.54,8.9,Kodiak,4,10,D,CHN,1,77,n/p,5,None
+3/29/2023,Wednesday,Southern Delta,38.05302,-121.6253,23-35-SD05,South,Franks Tract,10:36,205.88,11.83,22.38,0.6,7.18,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/29/2023,Wednesday,Southern Delta,38.02361,-121.56355,23-35-SD01,South,Holland Cut,7:51,217.15,12.05,20.22,0.73,8.07,Kodiak,4,10,U,RBTC,1,252,n/p,5,AdClipped
+3/29/2023,Wednesday,Southern Delta,38.0382,-121.58049,23-35-SD03,South,Holland Cut,9:16,222.2,12.1,17.95,0.69,7.55,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/29/2023,Wednesday,Suisun Bay,38.03144,-121.83634,23-35-SB02,West,Confluence,12:14,194.57,12.03,28.33,0.47,7.57,Kodiak,3,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/29/2023,Wednesday,Suisun Bay,38.05073,-121.92779,23-35-SB05,West,Confluence,10:35,193.33,11.67,42.9,0.33,8.45,Kodiak,4,10,U,CHN,1,39,n/p,3,None
+3/29/2023,Wednesday,Suisun Bay,38.05073,-121.92779,23-35-SB05,West,Confluence,10:35,193.33,11.67,42.9,0.33,8.45,Kodiak,4,10,U,CHNT,2,82-83,n/p,4,AdClipped
+3/29/2023,Wednesday,Suisun Bay,38.05073,-121.92779,23-35-SB05,West,Confluence,10:35,193.33,11.67,42.9,0.33,8.45,Kodiak,4,10,U,CHN,1,72,n/p,4,None
+3/29/2023,Wednesday,Suisun Bay,38.0569,-121.95876,23-35-SB01,West,Honker Bay,8:53,192.6,11.8,41.1,0.32,13.38,Kodiak,4,10,U,CHNT,2,81-84,n/p,4,AdClipped
+3/30/2023,Thursday,Lower Sacramento,38.0585,-121.79612,23-35-LSR01,West,Lower Sacramento River,9:40,172.6,10.95,38.32,0.43,7.38,Kodiak,4,10,U,CHN,1,57,n/p,3,None
+3/30/2023,Thursday,Lower Sacramento,38.0585,-121.79612,23-35-LSR01,West,Lower Sacramento River,9:40,172.6,10.95,38.32,0.43,7.38,Kodiak,4,10,U,CHNT,4,82-86,n/p,4,AdClipped
+3/30/2023,Thursday,Lower Sacramento,38.06757,-121.77444,23-35-LSR02,West,Lower Sacramento River,11:02,569.4,11.37,32.45,0.45,9.55,Kodiak,4,10,U,CHNT,4,82-85,n/p,4,AdClipped
+3/30/2023,Thursday,Lower Sacramento,38.0619,-121.82574,23-35-LSR05,West,Lower Sacramento River,8:09,165.15,10.7,37.42,0.45,8.19,Kodiak,4,10,U,CHNT,9,79-92,n/p,4,AdClipped
+3/30/2023,Thursday,Lower Sacramento,38.0619,-121.82574,23-35-LSR05,West,Lower Sacramento River,8:09,165.15,10.7,37.42,0.45,8.19,Kodiak,4,10,U,CHN,1,63,n/p,4,None
+3/30/2023,Thursday,Lower Sacramento,38.0619,-121.82574,23-35-LSR05,West,Lower Sacramento River,8:09,165.15,10.7,37.42,0.45,8.19,Kodiak,4,10,U,CHN,1,129,n/p,5,None
+3/30/2023,Thursday,Lower Sacramento,38.0619,-121.82574,23-35-LSR05,West,Lower Sacramento River,8:09,165.15,10.7,37.42,0.45,8.19,Kodiak,4,10,U,RBTC,1,210,n/p,5,AdClipped
+3/30/2023,Thursday,Southern Delta,37.97429,-121.52217,23-35-SD02,South,Mildred Island West,8:10,202.88,11.53,20.75,0.7,4.72,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/30/2023,Thursday,Southern Delta,37.91815,-121.57992,23-35-SD04,South,Rock Slough and Discovery Bay,9:56,175.45,11.25,23.78,0.57,3.12,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/30/2023,Thursday,Suisun Bay,38.05807,-122.05498,23-35-SB07,Far West,West Suisun Bay,8:32,187.6,11.45,33.7,0.32,7.7,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+3/30/2023,Thursday,Suisun Bay,38.05713,-122.01167,23-35-SB03,West,Mid Suisun Bay,8:15,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+3/31/2023,Friday,Lower San Joaquin,38.02503,-121.74354,23-35-LSJ01,West,Lower San Joaquin River,9:22,191.03,11.8,19.67,0.57,7.45,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+3/31/2023,Friday,Lower San Joaquin,38.029,-121.77043,23-35-LSJ05,West,Lower San Joaquin River,8:05,178.6,11.67,22.62,0.54,14.82,Kodiak,3,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/3/2023,Monday,Lower Sacramento,38.08239,-121.72504,23-36-LSR01,North,Sacramento River Near Rio Vista,11:26,141.4,11.58,38.5,0.39,6.47,Kodiak,4,10,D,CHNT,1,79,n/p,4,AdClipped
+4/3/2023,Monday,Lower Sacramento,38.08239,-121.72504,23-36-LSR01,North,Sacramento River Near Rio Vista,11:26,141.4,11.58,38.5,0.39,6.47,Kodiak,4,10,D,CHN,4,49-77,n/p,4,None
+4/3/2023,Monday,Lower Sacramento,38.05251,-121.79939,23-36-LSR02,West,Lower Sacramento River,8:01,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/3/2023,Monday,Lower Sacramento,38.06198,-121.78644,23-36-LSR03,West,Lower Sacramento River,9:39,143.5,11.1,50.95,0.29,9.5,Kodiak,4,10,U,CHN,1,35,n/p,2,None
+4/3/2023,Monday,Lower Sacramento,38.06198,-121.78644,23-36-LSR03,West,Lower Sacramento River,9:39,143.5,11.1,50.95,0.29,9.5,Kodiak,4,10,U,CHNT,3,80-83,n/p,4,AdClipped
+4/3/2023,Monday,Lower Sacramento,38.06325,-121.82109,23-36-LSR06,West,Lower Sacramento River,8:20,137.5,10.97,60.75,0.26,9.38,Kodiak,4,10,U,CHNT,3,82-92,n/p,4,AdClipped
+4/3/2023,Monday,Southern Delta,38.05701,-121.66217,23-36-SD06,South,Franks Tract,9:44,191.77,12.2,24.65,0.53,4.9,Kodiak,4,10,U,CHN,1,51,n/p,3,None
+4/3/2023,Monday,Southern Delta,38.04138,-121.52615,23-36-SD01,South,Mildred Island West,8:14,199.82,12.6,17.35,0.67,8.45,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/3/2023,Monday,Southern Delta,37.98883,-121.51762,23-36-SD05,South,Mildred Island West,9:15,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/3/2023,Monday,Suisun Marsh,38.10381,-122.04772,23-36-SM01,West,Grizzly Bay,12:02,218,11.78,96.83,0.28,3.95,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+4/3/2023,Monday,Suisun Marsh,38.12321,-122.05862,23-36-SM02,West,Suisun Marsh,10:45,546.5,11.73,65.75,0.19,3.85,Kodiak,4,10,D,CHNT,1,80,n/p,4,AdClipped
+4/3/2023,Monday,Suisun Marsh,38.12321,-122.05862,23-36-SM02,West,Suisun Marsh,10:45,546.5,11.73,65.75,0.19,3.85,Kodiak,4,10,D,CHN,1,79,n/p,4,None
+4/3/2023,Monday,Suisun Marsh,38.12321,-122.05862,23-36-SM02,West,Suisun Marsh,10:45,546.5,11.73,65.75,0.19,3.85,Kodiak,4,10,D,CHNT,1,91,n/p,5,AdClipped
+4/3/2023,Monday,Suisun Marsh,38.14235,-122.05979,23-36-SM03,West,Suisun Marsh,9:20,823.25,12.28,66.93,0.22,8.05,Kodiak,4,10,D,CHN,3,41-50,n/p,3,None
+4/3/2023,Monday,Suisun Marsh,38.14235,-122.05979,23-36-SM03,West,Suisun Marsh,9:20,823.25,12.28,66.93,0.22,8.05,Kodiak,4,10,D,CHN,1,82,n/p,4,None
+4/4/2023,Tuesday,Sac Deep Water Shipping Channel,38.43761,-121.60044,23-36-SSC02,North,Lower Sacramento River Shipping Channel,10:34,798,13.03,36.4,0.34,9.72,Kodiak,4,10,U,CHN,6,45-55,n/p,3,None
+4/4/2023,Tuesday,Sac Deep Water Shipping Channel,38.32883,-121.6482,23-36-SSC03,North,Lower Sacramento River Shipping Channel,12:06,619,13.18,75.85,0.23,9.78,Kodiak,4,10,U,CHN,1,45,n/p,2,None
+4/4/2023,Tuesday,Sac Deep Water Shipping Channel,38.48337,-121.5841,23-36-SSC01,North,Upper Sacramento River Shipping Channel,8:45,821.5,12.8,23.43,0.48,8.85,Kodiak,4,10,U,CHN,41,40-79,n/p,3,None
+4/4/2023,Tuesday,Sac Deep Water Shipping Channel,38.48337,-121.5841,23-36-SSC01,North,Upper Sacramento River Shipping Channel,8:45,821.5,12.8,23.43,0.48,8.85,Kodiak,4,10,U,CHN,1,71,n/p,4,None
+4/4/2023,Tuesday,Southern Delta,38.02298,-121.58308,23-36-SD04,South,Holland Cut,10:20,207.67,12.7,19.88,0.69,8.6,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/4/2023,Tuesday,Southern Delta,38.02241,-121.56209,23-36-SD07,South,Holland Cut,11:35,199.88,12.5,15.7,0.84,7.4,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/4/2023,Tuesday,Southern Delta,37.96949,-121.57348,23-36-SD02,South,Old River,9:07,176.93,12.5,20.35,0.61,7.33,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/4/2023,Tuesday,Southern Delta,37.86071,-121.5723,23-36-SD03,South,Victoria Canal,8:30,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/4/2023,Tuesday,Western Delta,38.04023,-122.17197,23-36-WD01,Far West,Carquinez Strait,12:09,827.75,11.87,56.72,0.27,24.85,Kodiak,4,10,D,CHNT,1,89,n/p,4,AdClipped
+4/4/2023,Tuesday,Western Delta,38.05796,-122.25168,23-36-WD02,Far West,Carquinez Strait,10:44,2766,12.05,73.78,0.2,11.62,Kodiak,4,10,D,CHNT,4,90-100,n/p,4,AdClipped
+4/4/2023,Tuesday,Western Delta,38.05796,-122.25168,23-36-WD02,Far West,Carquinez Strait,10:44,2766,12.05,73.78,0.2,11.62,Kodiak,4,10,D,CHN,1,101,n/p,4,None
+4/4/2023,Tuesday,Western Delta,38.05796,-122.25168,23-36-WD02,Far West,Carquinez Strait,10:44,2766,12.05,73.78,0.2,11.62,Kodiak,4,10,D,LFS,2,82-103,n/p,n/p,None
+4/4/2023,Tuesday,Western Delta,38.06349,-122.28321,23-36-WD03,Far West,East San Pablo Bay,9:19,3034,11.87,70.05,0.24,8.25,Kodiak,4,10,U,CHNT,1,64,n/p,4,AdClipped
+4/4/2023,Tuesday,Western Delta,38.06349,-122.28321,23-36-WD03,Far West,East San Pablo Bay,9:19,3034,11.87,70.05,0.24,8.25,Kodiak,4,10,U,LFS,4,25-29,n/p,n/p,None
+4/5/2023,Wednesday,Cache Slough Liberty Island,38.23515,-121.68134,23-36-CS01,North,Cache Slough and Liberty Island,11:31,398.6,13.08,62.55,0.25,11.7,Kodiak,4,10,U,CHNT,1,118,n/p,4,AdClipped
+4/5/2023,Wednesday,Cache Slough Liberty Island,38.23515,-121.68134,23-36-CS01,North,Cache Slough and Liberty Island,11:31,398.6,13.08,62.55,0.25,11.7,Kodiak,4,10,U,CHN,1,89,n/p,4,None
+4/5/2023,Wednesday,Cache Slough Liberty Island,38.23515,-121.68134,23-36-CS01,North,Cache Slough and Liberty Island,11:31,398.6,13.08,62.55,0.25,11.7,Kodiak,4,10,U,CHNT,2,108-110,n/p,5,AdClipped
+4/5/2023,Wednesday,Cache Slough Liberty Island,38.23515,-121.68134,23-36-CS01,North,Cache Slough and Liberty Island,11:31,398.6,13.08,62.55,0.25,11.7,Kodiak,4,10,U,CHN,2,100-119,n/p,5,None
+4/5/2023,Wednesday,Cache Slough Liberty Island,38.28361,-121.68165,23-36-CS02,North,Cache Slough and Liberty Island,8:15,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/5/2023,Wednesday,Cache Slough Liberty Island,38.25177,-121.7235,23-36-CS03,North,Cache Slough and Liberty Island,8:27,306.4,12.9,34.77,0.44,6.38,Kodiak,4,10,U,CHN,1,50,n/p,4,None
+4/5/2023,Wednesday,Cache Slough Liberty Island,38.25177,-121.7235,23-36-CS03,North,Cache Slough and Liberty Island,8:27,306.4,12.9,34.77,0.44,6.38,Kodiak,4,10,U,CHNT,1,89,n/p,5,AdClipped
+4/5/2023,Wednesday,Cache Slough Liberty Island,38.28807,-121.71727,23-36-CS04,North,Cache Slough and Liberty Island,10:00,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/5/2023,Wednesday,Cache Slough Liberty Island,38.24823,-121.68691,23-36-CS05,North,Cache Slough and Liberty Island,10:10,368.35,12.8,46.7,0.33,8.85,Kodiak,4,10,U,CHN,1,101,n/p,5,None
+4/5/2023,Wednesday,Lower San Joaquin,38.01935,-121.78335,23-36-LSJ03,West,Lower San Joaquin River,8:21,181.85,12.22,25.97,0.42,2.45,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/5/2023,Wednesday,Lower San Joaquin,38.04638,-121.70341,23-36-LSJ04,West,Lower San Joaquin River,9:40,163.65,12.2,31.15,0.48,7.18,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/5/2023,Wednesday,Lower San Joaquin,38.08606,-121.67881,23-36-LSJ06,West,San Joaquin at Twitchell Island,10:54,160.2,12.5,25.13,0.55,16,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/5/2023,Wednesday,Suisun Bay,38.0478,-122.09662,23-36-SB05,Far West,West Suisun Bay,9:06,199.08,11.78,34.05,0.33,15.35,Kodiak,4,10,U,CHNT,1,86,n/p,4,AdClipped
+4/5/2023,Wednesday,Suisun Bay,38.0958,-122.0518,23-36-SB03,West,Mid Suisun Bay,10:28,193.85,11.53,44.18,0.33,8.3,Kodiak,4,10,D,CHN,1,46,n/p,3,None
+4/5/2023,Wednesday,Suisun Bay,38.0958,-122.0518,23-36-SB03,West,Mid Suisun Bay,10:28,193.85,11.53,44.18,0.33,8.3,Kodiak,4,10,D,CHNT,2,80-86,n/p,4,AdClipped
+4/5/2023,Wednesday,Suisun Bay,38.0958,-122.0518,23-36-SB03,West,Mid Suisun Bay,10:28,193.85,11.53,44.18,0.33,8.3,Kodiak,4,10,D,CHN,1,69,n/p,4,None
+4/5/2023,Wednesday,Suisun Bay,38.05872,-122.02663,23-36-SB06,West,Mid Suisun Bay,8:45,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/5/2023,Wednesday,Suisun Bay,38.1016,-122.048,23-36-SB07,West,Mid Suisun Bay,11:40,199.15,11.65,42.98,0.31,5.62,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+4/6/2023,Thursday,Lower Sacramento,38.13137,-121.68946,23-36-LSR04,North,Sacramento River Near Rio Vista,10:42,143.07,11.75,44.25,0.45,4.23,Kodiak,4,10,U,CHNT,1,80,n/p,4,AdClipped
+4/6/2023,Thursday,Lower Sacramento,38.10724,-121.71749,23-36-LSR05,North,Sacramento River Near Rio Vista,9:23,176.95,12.03,44.5,0.41,9.72,Kodiak,4,10,U,CHN,1,105,n/p,4,None
+4/6/2023,Thursday,Lower Sacramento,38.07633,-121.76629,23-36-LSR07,West,Lower Sacramento River,8:07,677.05,12.05,43.88,0.44,9.72,Kodiak,4,10,U,CHN,2,61-66,n/p,4,None
+4/6/2023,Thursday,Lower Sacramento,38.07633,-121.76629,23-36-LSR07,West,Lower Sacramento River,8:07,677.05,12.05,43.88,0.44,9.72,Kodiak,4,10,U,RBTC,2,201-245,n/p,5,AdClipped
+4/6/2023,Thursday,Lower San Joaquin,38.066,-121.5599,23-36-LSJ01,South,San Joaquin at Prisoners Point,7:53,168.83,12.97,16.32,0.61,16.05,Kodiak,4,10,U,CHN,1,68,n/p,4,None
+4/6/2023,Thursday,Lower San Joaquin,38.09427,-121.66601,23-36-LSJ02,South,San Joaquin at Twitchell Island,9:19,161.05,12.6,23.9,0.51,7.45,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/6/2023,Thursday,Lower San Joaquin,38.0896,-121.62993,23-36-LSJ05,South,San Joaquin at Twitchell Island,10:01,162.05,41.58,25.12,0.52,6.93,Kodiak,4,10,U,CHN,1,48,n/p,3,None
+4/6/2023,Thursday,Suisun Bay,38.06913,-121.84197,23-36-SB01,West,Confluence,11:15,218.05,12.2,34.48,0.39,6.3,Kodiak,4,10,U,CHNT,2,83-92,n/p,4,AdClipped
+4/6/2023,Thursday,Suisun Bay,38.06913,-121.84197,23-36-SB01,West,Confluence,11:15,218.05,12.2,34.48,0.39,6.3,Kodiak,4,10,U,CHN,1,83,n/p,4,None
+4/6/2023,Thursday,Suisun Bay,38.06417,-121.96149,23-36-SB04,West,Honker Bay,8:25,178.03,11.97,36.2,0.36,4.1,Kodiak,4,10,U,CHNT,1,84,n/p,4,AdClipped
+4/6/2023,Thursday,Suisun Bay,38.05858,-122.99937,23-36-SB02,West,Mid Suisun Bay,9:40,192.3,12.37,37.97,0.39,11.82,Kodiak,4,10,U,CHNT,2,86-90,n/p,4,AdClipped
+4/6/2023,Thursday,Suisun Bay,38.05858,-122.99937,23-36-SB02,West,Mid Suisun Bay,9:40,192.3,12.37,37.97,0.39,11.82,Kodiak,4,10,U,CHN,1,73,n/p,n/p,None
+4/6/2023,Thursday,Suisun Bay,38.05858,-122.99937,23-36-SB02,West,Mid Suisun Bay,9:40,192.3,12.37,37.97,0.39,11.82,Kodiak,4,10,U,RBTC,1,237,n/p,5,AdClipped
+4/10/2023,Monday,Lower Sacramento,38.08402,-121.71286,23-37-LSR04,North,Sacramento River Near Rio Vista,11:37,150.88,13.75,24.57,0.75,6.38,Kodiak,4,10,U,LFS,1,86,n/p,n/p,None
+4/10/2023,Monday,Lower Sacramento,38.06182,-121.82232,23-37-LSR01,West,Lower Sacramento River,10:07,176.15,13.47,30.15,0.65,11.05,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/10/2023,Monday,Lower Sacramento,38.04088,-121.78639,23-37-LSR02,West,Lower Sacramento River,8:12,170.1,13.5,19,0.64,4.4,Kodiak,1,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/10/2023,Monday,Lower Sacramento,38.06425,-121.79455,23-37-LSR05,West,Lower Sacramento River,8:52,195.9,13.3,23.67,0.63,9.72,Kodiak,4,10,U,CHNT,1,88,n/p,4,AdClipped
+4/10/2023,Monday,Southern Delta,38.0579,-121.6222,23-37-SD03,South,Franks Tract,8:43,150.75,14.67,14.88,1.09,6.7,Kodiak,4,10,U,CHN,1,53,n/p,3,None
+4/10/2023,Monday,Southern Delta,38.05853,-121.59485,23-37-SD04,South,Franks Tract,7:25,179.82,14.75,11.65,1.08,3.2,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+4/10/2023,Monday,Southern Delta,38.02958,-121.56797,23-37-SD01,South,Holland Cut,10:10,191.6,15.18,18.55,1.1,6.58,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/10/2023,Monday,Suisun Marsh,38.1046,-122.06105,23-37-SM03,West,Grizzly Bay,8:20,317.92,13.97,54.38,0.3,3.28,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/10/2023,Monday,Suisun Marsh,38.16992,-122.02091,23-37-SM01,West,Suisun Marsh,9:43,1181.5,14.27,74.77,0.25,8.8,Kodiak,4,10,U,CHNT,2,87-100,n/p,5,AdClipped
+4/10/2023,Monday,Suisun Marsh,38.18437,-121.98522,23-37-SM02,West,Suisun Marsh,11:15,1086.25,14.35,64.35,0.24,6.68,Kodiak,4,10,U,CHN,1,88,n/p,4,None
+4/10/2023,Monday,Suisun Marsh,38.18437,-121.98522,23-37-SM02,West,Suisun Marsh,11:15,1086.25,14.35,64.35,0.24,6.68,Kodiak,4,10,U,CHNT,2,98-110,n/p,5,AdClipped
+4/11/2023,Tuesday,Southern Delta,37.98121,-121.53393,23-37-SD02,South,Mildred Island West,7:24,174.94,15.58,10.5,1.21,6.72,Kodiak,5,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+4/11/2023,Tuesday,Southern Delta,37.92997,-121.55829,23-37-SD05,South,Old River,10:18,175.35,15.72,16.37,0.9,7.27,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/11/2023,Tuesday,Lower Sacramento,38.15744,-121.68366,23-37-LSR03,North,Sacramento River Near Rio Vista,11:17,154.15,13.6,18.33,0.64,6.2,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/11/2023,Tuesday,Lower Sacramento,38.10914,-121.71463,23-37-LSR06,North,Sacramento River Near Rio Vista,9:44,224.75,14,14.15,0.67,9.32,Kodiak,4,10,U,CHN,2,73-95,n/p,5,None
+4/11/2023,Tuesday,Lower Sacramento,38.11197,-121.68241,23-37-LSR07,North,Sacramento River Near Rio Vista,8:11,149.68,13.97,11.5,1.02,11.7,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Cache Slough Liberty Island,38.32914,-121.68109,23-37-CS01,North,Cache Slough and Liberty Island,8:10,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Cache Slough Liberty Island,38.2355,-121.68151,23-37-CS02,North,Cache Slough and Liberty Island,11:56,296.23,15.5,18.92,0.61,12.32,Kodiak,4,10,U,CHNT,2,78-81,n/p,4,AdClipped
+4/12/2023,Wednesday,Cache Slough Liberty Island,38.27255,-121.70591,23-37-CS03,North,Cache Slough and Liberty Island,8:20,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Cache Slough Liberty Island,38.24513,-121.69654,23-37-CS04,North,Cache Slough and Liberty Island,8:50,233.47,14.62,18.1,0.61,6.32,Kodiak,4,10,D,CHN,1,80,n/p,5,None
+4/12/2023,Wednesday,Cache Slough Liberty Island,38.26842,-121.70003,23-37-CS05,North,Cache Slough and Liberty Island,8:21,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Cache Slough Liberty Island,38.24617,-121.70787,23-37-CS06,North,Cache Slough and Liberty Island,8:39,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Cache Slough Liberty Island,38.25951,-121.67058,23-37-CS07,North,Cache Slough and Liberty Island,10:27,491.25,17.92,27.15,0.43,8.47,Kodiak,4,10,U,CHNT,1,71,n/p,4,AdClipped
+4/12/2023,Wednesday,Cache Slough Liberty Island,38.25951,-121.67058,23-37-CS07,North,Cache Slough and Liberty Island,10:27,491.25,17.92,27.15,0.43,8.47,Kodiak,4,10,U,CHN,2,92-95,n/p,4,None
+4/12/2023,Wednesday,Cache Slough Liberty Island,38.25951,-121.67058,23-37-CS07,North,Cache Slough and Liberty Island,10:27,491.25,17.92,27.15,0.43,8.47,Kodiak,4,10,U,CHN,8,94-107,n/p,5,None
+4/12/2023,Wednesday,Lower San Joaquin,38.06984,-121.67971,23-37-LSJ01,South,San Joaquin at Twitchell Island,9:22,167.35,14.75,13.4,0.89,4.47,Kodiak,4,10,D,RBTC,1,245,n/p,5,AdClipped
+4/12/2023,Wednesday,Lower San Joaquin,38.08975,-121.63503,23-37-LSJ02,South,San Joaquin at Twitchell Island,8:05,161.12,14.7,11.12,0.96,14.15,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Lower San Joaquin,38.04146,-121.70132,23-37-LSJ04,West,Lower San Joaquin River,10:50,174.43,14.92,15.75,0.84,4.92,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Suisun Bay,38.04824,-121.91357,23-37-SB12,West,Confluence,8:58,206.93,14.2,25.45,n/p,8.43,Kodiak,4,10,U,CHN,1,104,n/p,5,None
+4/12/2023,Wednesday,Suisun Bay,38.07226,-121.96708,23-37-SB07,West,Honker Bay,8:10,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Suisun Bay,38.09081,-122.01542,23-37-SB06,West,Mid Suisun Bay,8:00,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Suisun Bay,38.06039,-121.99375,23-37-SB09,West,Mid Suisun Bay,8:20,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Suisun Bay,38.08495,-122.03758,23-37-SB10,West,Mid Suisun Bay,8:30,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/12/2023,Wednesday,Suisun Bay,38.06625,-121.97159,23-37-SB11,West,Mid Suisun Bay,8:40,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/13/2023,Thursday,Lower San Joaquin,38.06413,-121.53025,23-37-LSJ03,South,San Joaquin at Prisoners Point,8:09,170.88,15.47,10.15,0.98,8.8,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+4/13/2023,Thursday,Lower San Joaquin,38.10028,-121.58581,23-37-LSJ05,South,San Joaquin at Prisoners Point,10:26,150.65,14.88,14.72,0.86,7.05,Kodiak,4,10,D,CHN,1,69,n/p,3,None
+4/13/2023,Thursday,Lower San Joaquin,38.08458,-121.56785,23-37-LSJ06,South,San Joaquin at Prisoners Point,9:30,148.45,14.5,15.8,0.83,9,Kodiak,2,10,D,CHNT,1,92,n/p,4,AdClipped
+4/13/2023,Thursday,Western Delta,38.05532,-122.17246,23-37-WD04,Far West,Carquinez Strait,8:30,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/13/2023,Thursday,Western Delta,38.05014,-122.26932,23-37-WD01,Far West,East San Pablo Bay,8:58,7259,13.83,21.98,0.57,4.32,Kodiak,4,10,U,CHN,3,98-100,n/p,5,None
+4/13/2023,Thursday,Suisun Bay,38.06031,-122.07316,23-37-SB01,Far West,West Suisun Bay,11:17,234.25,14.58,25.02,0.53,8.97,Kodiak,4,10,U,CHNT,7,92-109,n/p,5,AdClipped
+4/13/2023,Thursday,Suisun Bay,38.06031,-122.07316,23-37-SB01,Far West,West Suisun Bay,11:17,234.25,14.58,25.02,0.53,8.97,Kodiak,4,10,U,CHN,1,104,n/p,5,None
+4/13/2023,Thursday,Suisun Bay,38.06031,-122.07316,23-37-SB01,Far West,West Suisun Bay,11:17,234.25,14.58,25.02,0.53,8.97,Kodiak,4,10,U,RBTC,1,106,n/p,5,AdClipped
+4/14/2023,Friday,Sac Deep Water Shipping Channel,38.4251,-121.60639,23-37-SSC01,North,Lower Sacramento River Shipping Channel,9:42,762.5,14.75,45.98,0.29,10.22,Kodiak,4,10,D,CHN,1,72,n/p,5,None
+4/14/2023,Friday,Sac Deep Water Shipping Channel,38.24284,-121.67068,23-37-SSC03,North,Lower Sacramento River Shipping Channel,8:02,246.23,14.35,24.32,0.41,6.87,Kodiak,4,10,D,CHN,3,47-59,n/p,3,None
+4/14/2023,Friday,Sac Deep Water Shipping Channel,38.24284,-121.67068,23-37-SSC03,North,Lower Sacramento River Shipping Channel,8:02,246.23,14.35,24.32,0.41,6.87,Kodiak,4,10,D,CHNT,1,77,n/p,4,AdClipped
+4/14/2023,Friday,Sac Deep Water Shipping Channel,38.56479,-121.55206,23-37-SSC02,North,Upper Sacramento River Shipping Channel,11:20,606.75,15.25,8.52,1.8,11.82,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+4/14/2023,Friday,Suisun Bay,38.08537,-122.09058,23-37-SB03,Far West,West Suisun Bay,9:23,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/14/2023,Friday,Suisun Bay,38.05482,-122.06009,23-37-SB05,Far West,West Suisun Bay,9:44,445.18,17.45,20.88,0.6,8.88,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+4/14/2023,Friday,Suisun Bay,38.09763,-122.06295,23-37-SB02,West,Mid Suisun Bay,8:17,321.55,14.67,28.88,0.52,11.1,Kodiak,4,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+4/17/2023,Monday,Lower San Joaquin,38.07881,-121.57685,23-38-LSJ01,South,San Joaquin at Prisoners Point,9:33,156.85,15.15,n/p,0.88,5.05,Kodiak,2,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/17/2023,Monday,Lower San Joaquin,38.06192,-121.53003,23-38-LSJ02,South,San Joaquin at Prisoners Point,8:10,156.22,15.47,n/p,0.97,8.93,Kodiak,4,10,U,CHN,1,75,n/p,4,None
+4/17/2023,Monday,Lower San Joaquin,38.09868,-121.62549,23-38-LSJ05,South,San Joaquin at Twitchell Island,10:38,148.4,15.1,n/p,0.73,7.65,Kodiak,2,10,U,CHNT,1,74,n/p,4,AdClipped
+4/17/2023,Monday,Sac Deep Water Shipping Channel,38.39061,-121.62139,23-38-SSC01,North,Lower Sacramento River Shipping Channel,13:05,705.75,14.9,60.95,0.37,7.5,Kodiak,4,10,D,CHNT,1,100,n/p,5,AdClipped
+4/17/2023,Monday,Sac Deep Water Shipping Channel,38.54844,-121.59019,23-38-SSC02,North,Lower Sacramento River Shipping Channel,11:15,809.5,15.15,33.3,0.4,9.28,Kodiak,4,10,U,CHN,2,56-58,n/p,3,None
+4/17/2023,Monday,Sac Deep Water Shipping Channel,38.54844,-121.59019,23-38-SSC02,North,Lower Sacramento River Shipping Channel,11:15,809.5,15.15,33.3,0.4,9.28,Kodiak,4,10,U,CHN,5,56-71,n/p,4,None
+4/17/2023,Monday,Sac Deep Water Shipping Channel,38.52798,-121.58406,23-38-SSC03,North,Upper Sacramento River Shipping Channel,9:33,798.25,15.2,14.5,0.73,9.35,Kodiak,4,10,U,CHN,4,45-63,n/p,3,None
+4/17/2023,Monday,Sac Deep Water Shipping Channel,38.52798,-121.58406,23-38-SSC03,North,Upper Sacramento River Shipping Channel,9:33,798.25,15.2,14.5,0.73,9.35,Kodiak,4,10,U,CHNT,1,103,n/p,4,AdClipped
+4/17/2023,Monday,Sac Deep Water Shipping Channel,38.52798,-121.58406,23-38-SSC03,North,Upper Sacramento River Shipping Channel,9:33,798.25,15.2,14.5,0.73,9.35,Kodiak,4,10,U,CHN,2,58,n/p,4,None
+4/18/2023,Tuesday,Cache Slough Liberty Island,38.28088,-121.7132,23-38-CS01,North,Cache Slough and Liberty Island,8:18,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/18/2023,Tuesday,Cache Slough Liberty Island,38.26028,-121.68679,23-38-CS02,North,Cache Slough and Liberty Island,8:30,n/p,n/p,n/p,n/p,n/p,Kodiak,0,n/p,n/p,n/p,n/p,n/p,n/p,n/p,n/p
+4/18/2023,Tuesday,Cache Slough Liberty Island,38.24404,-121.69505,23-38-CS03,North,Cache Slough and Liberty Island,8:44,358.7,14.35,16.47,0.63,6.12,Kodiak,4,10,U,CHN,2,96-110,n/p,5,None
+4/18/2023,Tuesday,Cache Slough Liberty Island,38.26121,-121.75434,23-38-CS04,North,Cache Slough and Liberty Island,10:06,355.17,14.43,20.4,0.62,3.77,Kodiak,3,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/18/2023,Tuesday,Lower San Joaquin,38.05138,-121.69211,23-38-LSJ04,South,San Joaquin at Twitchell Island,11:18,155.55,14.8,19.4,0.65,14.5,Kodiak,4,10,U,CHN,1,60,n/p,3,None
+4/18/2023,Tuesday,Lower San Joaquin,38.02777,-121.7617,23-38-LSJ03,West,Lower San Joaquin River,9:54,154.67,14.8,22.05,0.73,9.78,Kodiak,4,10,U,CHNT,2,84-88,n/p,4,AdClipped
+4/18/2023,Tuesday,Lower San Joaquin,38.02777,-121.7617,23-38-LSJ03,West,Lower San Joaquin River,9:54,154.67,14.8,22.05,0.73,9.78,Kodiak,4,10,U,CHN,1,79,n/p,4,None
+4/18/2023,Tuesday,Lower San Joaquin,38.02038,-121.80451,23-38-LSJ06,West,Lower San Joaquin River,8:36,169.67,14.85,25.13,0.68,14,Kodiak,4,10,U,CHNT,3,80-92,n/p,4,AdClipped
+4/18/2023,Tuesday,Lower San Joaquin,38.02038,-121.80451,23-38-LSJ06,West,Lower San Joaquin River,8:36,169.67,14.85,25.13,0.68,14,Kodiak,4,10,U,CHN,2,79-84,n/p,4,None
+4/18/2023,Tuesday,Suisun Bay,38.05191,-121.88658,23-38-SB01,West,Confluence,9:44,166.55,14.05,n/p,0.6,11.12,Kodiak,4,10,U,CHNT,4,80-87,n/p,4,AdClipped
+4/18/2023,Tuesday,Suisun Bay,38.05191,-121.88658,23-38-SB01,West,Confluence,9:44,166.55,14.05,n/p,0.6,11.12,Kodiak,4,10,U,CHN,3,80-87,n/p,4,None
+4/18/2023,Tuesday,Suisun Bay,38.05191,-121.88658,23-38-SB01,West,Confluence,9:44,166.55,14.05,n/p,0.6,11.12,Kodiak,4,10,U,CHN,2,105-111,n/p,5,None
+4/18/2023,Tuesday,Suisun Bay,38.064,-121.85941,23-38-SB02,West,Confluence,11:13,169.85,14.7,n/p,0.56,15.62,Kodiak,4,10,D,CHN,1,105,n/p,3,None
+4/18/2023,Tuesday,Suisun Bay,38.064,-121.85941,23-38-SB02,West,Confluence,11:13,169.85,14.7,n/p,0.56,15.62,Kodiak,4,10,D,CHNT,5,82-95,n/p,4,AdClipped
+4/18/2023,Tuesday,Suisun Bay,38.064,-121.85941,23-38-SB02,West,Confluence,11:13,169.85,14.7,n/p,0.56,15.62,Kodiak,4,10,D,CHN,2,77-83,n/p,4,None
+4/18/2023,Tuesday,Suisun Bay,38.064,-121.85941,23-38-SB02,West,Confluence,11:13,169.85,14.7,n/p,0.56,15.62,Kodiak,4,10,D,CHNT,3,90-100,n/p,5,AdClipped
+4/18/2023,Tuesday,Suisun Bay,38.064,-121.85941,23-38-SB02,West,Confluence,11:13,169.85,14.7,n/p,0.56,15.62,Kodiak,4,10,D,CHN,1,103,n/p,5,None
+4/18/2023,Tuesday,Suisun Bay,38.05228,-121.96758,23-38-SB05,West,Honker Bay,8:20,184.8,14.6,n/p,0.54,3.95,Kodiak,4,10,U,CHNT,1,75,n/p,4,AdClipped
+4/18/2023,Tuesday,Suisun Bay,38.05228,-121.96758,23-38-SB05,West,Honker Bay,8:20,184.8,14.6,n/p,0.54,3.95,Kodiak,4,10,U,CHN,3,76-85,n/p,4,None
+4/19/2023,Wednesday,Lower Sacramento,38.09023,-121.74022,23-38-LSR01,North,Sacramento River Near Rio Vista,8:25,144.3,13.45,22,0.69,8.35,Kodiak,4,10,U,CHN,2,86-87,n/p,4,None
+4/19/2023,Wednesday,Lower Sacramento,38.09023,-121.74022,23-38-LSR01,North,Sacramento River Near Rio Vista,8:25,144.3,13.45,22,0.69,8.35,Kodiak,4,10,U,CHN,1,84,n/p,5,None
+4/19/2023,Wednesday,Lower Sacramento,38.10395,-121.7196,23-38-LSR05,North,Sacramento River Near Rio Vista,9:40,127.43,13.13,21.62,0.68,5.58,Kodiak,4,10,U,CHN,1,80,n/p,4,None
+4/19/2023,Wednesday,Lower Sacramento,38.05998,-121.80761,23-38-LSR04,West,Lower Sacramento River,11:15,135.82,13.55,18.2,0.66,10.62,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/19/2023,Wednesday,Southern Delta,38.03732,-121.65702,23-38-SD02,South,Franks Tract,10:44,166.4,14.7,16.5,0.75,6.62,Kodiak,4,10,U,n/p,n/p,n/p,n/p,n/p,n/p
+4/19/2023,Wednesday,Southern Delta,38.04812,-121.60121,23-38-SD03,South,Franks Tract,8:16,171.9,14.45,15.45,0.78,2.8,Kodiak,2,10,D,n/p,n/p,n/p,n/p,n/p,n/p
+4/19/2023,Wednesday,Southern Delta,38.06713,-121.58034,23-38-SD05,South,Holland Cut,9:11,172.65,15.05,17.97,0.72,8.28,Kodiak,4,10,U,CHN,2,63-67,n/p,3,None
+4/19/2023,Wednesday,Southern Delta,38.06713,-121.58034,23-38-SD05,South,Holland Cut,9:11,172.65,15.05,17.97,0.72,8.28,Kodiak,4,10,U,CHNT,1,81,n/p,4,AdClipped
+4/19/2023,Wednesday,Suisun Bay,38.04733,-122.10396,23-38-SB03,Far West,West Suisun Bay,8:49,172.35,19.98,40.28,0.44,12.45,Kodiak,4,10,U,CHNT,15,79-95,n/p,4,AdClipped
+4/19/2023,Wednesday,Suisun Bay,38.04733,-122.10396,23-38-SB03,Far West,West Suisun Bay,8:49,172.35,19.98,40.28,0.44,12.45,Kodiak,4,10,U,CHN,11,72-111,n/p,4,None
+4/19/2023,Wednesday,Suisun Bay,38.04733,-122.10396,23-38-SB03,Far West,West Suisun Bay,8:49,172.35,19.98,40.28,0.44,12.45,Kodiak,4,10,U,CHN,1,81,n/p,5,None
+4/19/2023,Wednesday,Suisun Bay,38.0423,-122.10775,23-38-SB06,Far West,West Suisun Bay,10:18,205.68,14.5,35.88,0.38,9.86,Kodiak,5,10,D,CHNT,7,76-99,n/p,4,AdClipped
+4/19/2023,Wednesday,Suisun Bay,38.0423,-122.10775,23-38-SB06,Far West,West Suisun Bay,10:18,205.68,14.5,35.88,0.38,9.86,Kodiak,5,10,D,CHN,4,65-86,n/p,4,None
+4/19/2023,Wednesday,Suisun Bay,38.10231,-122.03595,23-38-SB04,West,Mid Suisun Bay,12:04,186.75,14.55,38.3,0.37,6.53,Kodiak,4,10,D,CHN,9,73-92,n/p,4,None
+4/19/2023,Wednesday,Suisun Bay,38.10231,-122.03595,23-38-SB04,West,Mid Suisun Bay,12:04,186.75,14.55,38.3,0.37,6.53,Kodiak,4,10,D,CHN,1,101,n/p,5,None
