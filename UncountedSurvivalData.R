@@ -155,4 +155,4 @@ pwr_coxph(
   eventprob = 0.5,
   power = 0.80,
   rsquare = 0.20)
- test
+
