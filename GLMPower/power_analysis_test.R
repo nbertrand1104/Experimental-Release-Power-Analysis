@@ -12,10 +12,10 @@ library(tidyverse)
 library(lme4)
 
 # Load Delta Smelt catch data from Catarina Pien for WY2023 so far
-smelt_data <-read.csv("WY2023_deltasmelt_catch.csv") %>% filter(Marked=="marked")
+smelt_data <-read.csv("GLMPower/WY2023_deltasmelt_catch.csv") %>% filter(Marked=="marked")
 
 # Load hatchery fish release information from Catarina Pien
-release_info <- read.csv("ReleaseInfo.csv")
+release_info <- read.csv("GLMPower/ReleaseInfo.csv")
 
 # Add release information data into Delta Smelt catch data
 smelt_data_join <- smelt_data %>% left_join(release_info) %>% filter(!is.na(Release.Method)) %>% mutate(Date=as.Date(Date, "%m/%d/%Y"),FirstDayRelease=as.Date(FirstDayRelease, "%m/%d/%Y")) %>%
