@@ -20,7 +20,7 @@ sim_data_soft <- rbinom(20, 1, 0.06) # add variability around 0.06
 
 df <- data.frame(hard=sim_data_hard, soft=sim_data_soft) %>%
   pivot_longer(cols=1:2, names_to="type")
-
+#view(df)
 test<- glm(value ~ type, data = df, family = "binomial")
 summary(test)
 ifelse(summary(test)$coef[8]<0.05 & summary(test)$coef[2]>0,1,0)
@@ -47,3 +47,28 @@ length(which(results==1))/length(results) # this value, *100%, provides the % po
 # Power to detect 20% differences in survival, with detection probability ~0.05 
   # (equating roughly >=6000 released fish) and 800 trawls, is 12.5%
 # This doesn't incorporate any site or time effects, but they could be added
+
+
+#######################
+#######
+####
+# This is Nick Playing with the parameters
+
+
+sims=1000
+results <- numeric(sims)
+trawls <- 800 # sampling effort
+base_detect <- 0.10 # n=6000 released fish
+soft_effect <- 1.2 # multiplicative difference between soft and hard release (>1 = better survival for soft)
+for(i in 1:sims){
+  sim_data_hard <- rbinom(trawls, 1, base_detect)
+  sim_data_soft <- rbinom(trawls, 1, base_detect*soft_effect)
+  df <- data.frame(hard=sim_data_hard, soft=sim_data_soft) %>%
+    pivot_longer(cols=1:2, names_to="type")
+  test<- glm(value ~ type, data = df, family = "binomial")
+  results[i] <- ifelse(summary(test)$coef[8]<0.05 & summary(test)$coef[2]>0,1,0)
+}
+
+length(which(results==1))/length(results) # this value, *100%, provides the % power
+
+
