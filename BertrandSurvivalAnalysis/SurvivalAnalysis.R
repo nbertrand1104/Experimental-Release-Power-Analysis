@@ -2,7 +2,7 @@
 #nbertrand@usbr.gov
 
 #attempts to design a power analysis based on a survival analysis using data from the 
-#Delta Smelt Experimental release recapture data
+#Delta Smelt Experimental release recapture data. This code does not censor any fish and only counts recaptures
 
 
 # install.packages(c("survival", "lubridate", "ggsurvfit", "gtsummary", "tidycmprsk"))

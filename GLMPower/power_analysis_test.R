@@ -27,7 +27,7 @@ smelt_data_join <- smelt_data_join %>% filter(Survey=="EDSM") %>% group_by(Date,
   summarise(Count=mean(Count),DaySinceRelease=mean(DaySinceRelease))
 
 # Load csv data converted from EDSM report from April 19th 2023 as a proxy for sampling effort
-edsm_data<-read.csv("EDSM_Phase1_example.csv")
+edsm_data<-read.csv("GLMPower/EDSM_Phase1_example.csv")
 # Summarize data to get actual sampling events (date and station) (ignoring number of tows)
 edsm_data_sum<- edsm_data %>% filter(NumberTows>0) %>% group_by(Date, StationCode,Stratum) %>% 
   summarise(TowDuration=mean(as.numeric(TowDuration),na.rm=T)) %>% mutate(Count=0,Date=as.Date(Date, "%m/%d/%Y")) %>%

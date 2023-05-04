@@ -1,5 +1,10 @@
-#goal is to ressemble data on experimentally releasedfish accounting for every fish released and 
-#then assigning a status to feed back to the survival analysis
+#Nick Bertrand
+#nbertrand@usbr.gov
+#5/4/2023
+
+#goal is to ressemble data on experimentally released fish accounting for every fish released and 
+#then assigning a censorsed or uncesored status to feed back to the survival analysis
+
 library(readr)
 library(tidyverse)
 library(survival)

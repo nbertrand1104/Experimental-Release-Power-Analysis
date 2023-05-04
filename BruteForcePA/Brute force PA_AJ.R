@@ -1,3 +1,7 @@
+#by Alex Jensen
+
+#edits by Nick Bertrand
+
 
 # Load necessary packages
 library(simr)

@@ -1,3 +1,9 @@
+#Nick Bertrand 
+#nbertrand@usbr.gov
+
+#initial experimenting with different types of power analysis
+#probably not relevant to overall project.
+
 library(tidyverse)
 library(pwr)
 

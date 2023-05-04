@@ -1,3 +1,7 @@
+#Nick Bertrand
+
+#my general notes for the project.
+
 # Delta Smelt
 #Experimental Release Design
 
@@ -12,4 +16,6 @@
 
 #simR look at the ability to modify the standard deviation of the simR package
 
-
+#peter nelson notes
+#failure time analysis, reliability and event history analysis
+#survminer package
